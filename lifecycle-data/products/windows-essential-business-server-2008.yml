@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 基本业务服务器2008
+  description: Windows 基本业务服务器2008遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ec7238cb3b1948788e38b0cbc3a9a38217554d5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806081"
+name: Windows 基本业务服务器2008
+summary: >
+  Windows 基本业务服务器2008遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Standard
+
+
+  > [!IMPORTANT]
+
+  > 此产品包的支持日期由其各个组件产品的各个生命周期决定。 请查看各个组件产品的生命周期以确定其支持长度。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/12/2008
+releases:
+- version: Original Release
+  startDate: 12/12/2008
+  endDate: 02/13/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [产品信息](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)\n\n\n## <a name=\"editions\"></a>版本 \n* Standard"
