@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 表达式4
+  description: 表达式4遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805647"
+name: 表达式4
+summary: >+
+  表达式4遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Design、编码器、Studio 旗舰版、Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 08/26/2010
+  end: 09/08/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Original Release
+  startDate: 08/26/2010
+  endDate: 07/14/2020
+content: "\n\n> [!NOTE]\n> 对 Expression Studio 旗舰版4的主流支持的结尾是2015年10月13日。\n\n## <a name=\"editions\"></a>版本 \n* 设计\n* 编码\n* 画室旗舰版\n* Web"

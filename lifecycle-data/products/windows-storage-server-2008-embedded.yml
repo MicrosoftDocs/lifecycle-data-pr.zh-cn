@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008 嵌入式
+  description: Windows Storage Server 2008 内嵌式遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805715"
+name: Windows Storage Server 2008 嵌入式
+summary: >+
+  Windows Storage Server 2008 内嵌式遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：32位、64位、基本、基本32位、企业、标准、工作组
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> 此产品已达到支持的结尾。 有关迁移指南，请参阅下面的。\n\n## <a name=\"editions\"></a>版本 \n* 32位\n* 64位\n* 基本\n* 基本32位\n* 企业版\n* Standard\n* 基"
