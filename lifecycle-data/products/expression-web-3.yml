@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 表达式3
+  description: 表达式3遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805646"
+name: 表达式3
+summary: >+
+  表达式3遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Design、编码器、Studio、Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> 表达式设计3的开始日期是2009年11月19日。 \n\n## <a name=\"editions\"></a>版本 \n* 设计\n* 编码\n* 工作室\n* Web"

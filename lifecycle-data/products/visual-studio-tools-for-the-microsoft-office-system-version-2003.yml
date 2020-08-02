@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 适用于 Microsoft Office System 版本2003的 Visual Studio Tools
+  description: 适用于 Microsoft Office System 2003 版本的 Visual Studio Tools 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805726"
+name: 适用于 Microsoft Office System 版本2003的 Visual Studio Tools
+summary: >+
+  适用于 Microsoft Office System 2003 版本的 Visual Studio Tools 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 12/04/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 12/04/2003
+  endDate: 01/14/2014
+content: ''

@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Windows Vista 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805714"
+name: Windows Vista
+summary: >
+  Windows Vista 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Business、Business N、Enterprise、Enterprise X64、家庭基本版、家庭基本64位、家庭高级版 N、家庭普通版 N 64-位、家庭高级版、家庭高级版64位、初学者、旗舰版、最终版本的64位
+
+
+  > [!IMPORTANT]
+
+  > 对此产品的支持已结束，请参阅下面的迁移信息。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升级和迁移注意事项](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* Business N\n* 企业版\n* Enterprise X64\n* 家庭普通版\n* 家庭基本64位\n* 家庭基本版 N\n* 家庭普通版 N 64-位\n* 家庭高级版\n* 家庭高级64位\n* 启动器\n* 极致\n* 终极64位"
