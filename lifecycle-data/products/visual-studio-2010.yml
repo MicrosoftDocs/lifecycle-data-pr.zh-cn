@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: Visual Studio 2010 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805730"
+name: Visual Studio 2010
+summary: >+
+  Visual Studio 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：代理、All、ASP .NET MVC 4、Express、F # 2.0 运行时、实验室管理、性能工具、高级、专业、远程调试器、SDK、命令行管理程序（集成）、命令行管理程序（独立的）、团队代理、团队资源管理器、测试人员、Office Tools for Office System 4.0 运行时、旗舰的 VB EXPRESS、visual c # Express &
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agent\n* 全部\n* ASP .NET MVC 4\n* Express\n* F # 2.0 运行时\n* 实验室管理\n* 性能工具\n* 高级\n* 专业\n* 远程调试器\n* SDK\n* 命令行管理程序（集成）\n* 命令行管理程序（独立）\n* 团队代理\n* 团队资源管理器\n* 测试专业人员\n* Office System 4.0 运行时工具\n* 极致\n* VB Express\n* Visual c # Express\n* Visual c + + Express\n* Visual Web Developer Express\n* & 建模 SDK 的可视化效果"
