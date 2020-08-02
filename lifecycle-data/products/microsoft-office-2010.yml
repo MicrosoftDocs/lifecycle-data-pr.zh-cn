@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805871"
+name: Microsoft Office 2010
+summary: >+
+  Microsoft Office 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： eAcademy、家庭和企业、家庭和学生、个人、专业、专业学术、专业 Plus、专业加家庭使用计划、Standard、初学者
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>链接 \n* [Office 2010 支持终止路线图](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* eAcademy\n* Home and Business \n* Home and Student \n* 个人\n* 专业\n* Professional Academic\n* Professional Plus\n* 职业加上家庭使用计划\n* Standard\n* 启动器"

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 零售管理系统1。3
+  description: Dynamics 零售管理系统1.3 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805898"
+name: Dynamics 零售管理系统1。3
+summary: >+
+  Dynamics 零售管理系统1.3 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：总部、存储操作
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/31/2006
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 01/31/2006
+  endDate: 04/12/2011
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 总部\n* 存储操作"
