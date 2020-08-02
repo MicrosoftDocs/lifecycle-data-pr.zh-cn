@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805597"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：专业版、标准版、标准版学术许可证、Team Edition （针对数据库专业人员）、Team Edition、软件开发人员、软件开发人员的团队版、适用于 Microsoft Office System、VB Express、Visual c # Express、Visual c + + Express、Visual j # Express 和 Visual Web Developer Express 的工具
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>链接 \n* [Visual j # 支持信息](https://msdn.microsoft.com/vstudio/bb188593)\n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio 产品信息](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 对此产品的支持已结束。 有关迁移指南，请参阅下面的。\n> [!NOTE]\n> Microsoft Visual Studio 2005 团队版，适用于在2007年3月2日发布的数据库专业人员。\n\n## <a name=\"editions\"></a>版本 \n* 专业\n* Standard\n* Standard Edition 学术许可证\n* 面向数据库专业人员的团队版\n* 软件架构师的团队版\n* 适用于软件开发人员的团队版\n* 软件测试人员的团队版\n* 团队套件\n* 团队测试加载代理\n* 适用于 Microsoft Office System 的工具\n* VB Express\n* Visual c # Express\n* Visual c + + Express\n* Visual j # Express\n* Visual Web Developer Express"

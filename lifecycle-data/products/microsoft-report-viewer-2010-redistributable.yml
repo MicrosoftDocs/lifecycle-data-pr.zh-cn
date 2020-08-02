@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 报告查看器2010可再发行组件
+  description: Microsoft 报告查看器2010可再发行组件遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805611"
+name: Microsoft 报告查看器2010可再发行组件
+summary: >+
+  Microsoft 报告查看器2010可再发行组件遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 09/08/2020
+releases:
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 09/08/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 终端服务器的 Softgrid （MDOP）
+  description: 终端服务器（MDOP）的 Softgrid 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805580"
+name: 终端服务器的 Softgrid （MDOP）
+summary: >+
+  终端服务器（MDOP）的 Softgrid 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-常规](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 排除以前取消支持的版本。 对此产品的支持受其收购条款的制约。"
