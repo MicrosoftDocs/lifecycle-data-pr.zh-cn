@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 软件许可和保护服务器
+  description: 软件许可和保护服务器遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805598"
+name: 软件许可和保护服务器
+summary: >
+  软件许可和保护服务器遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Enterprise、Standard
+
+
+  > [!IMPORTANT]
+
+  > 由于软件许可和保护服务器（SLPS）的剥离，Microsoft 支持的 SLPS 到2009年9月24日。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>链接 \n* [软件许可和保护服务器（SLPS）](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Standard"
