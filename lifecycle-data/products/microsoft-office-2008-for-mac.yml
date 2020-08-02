@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2008 for Mac
+  description: 适用于 Mac 的 Microsoft Office 2008 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805870"
+name: Microsoft Office 2008 for Mac
+summary: "适用于 Mac 的 Microsoft Office 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本：商务、家庭和学生、特殊媒体 Editon\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac 专用媒体版本的开始日期是12月12日，2008。\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* Home and Student \n* 特殊媒体 Editon"

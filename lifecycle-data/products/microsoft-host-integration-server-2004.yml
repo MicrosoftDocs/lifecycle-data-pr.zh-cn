@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 主机集成服务器2004
+  description: Microsoft 主机集成服务器2004遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "805890"
+name: Microsoft 主机集成服务器2004
+summary: "Microsoft 主机集成服务器2004遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本：开发人员、企业、标准\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/15/2007
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 07/14/2008
+content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员\n* 企业版\n* Standard"
