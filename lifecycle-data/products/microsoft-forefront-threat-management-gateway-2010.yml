@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront 威胁管理网关2010
+  description: Microsoft Forefront 威胁管理网关2010遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806209"
+name: Microsoft Forefront 威胁管理网关2010
+summary: >
+  Microsoft Forefront 威胁管理网关2010遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Enterprise、Standard
+
+
+  > [!IMPORTANT]
+
+  > 支持已结束。 请参阅下面的迁移指南。
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/01/2009
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 10/04/2011
+  endDate: 04/14/2020
+- version: Service Pack 1
+  startDate: 06/07/2010
+  endDate: 01/08/2013
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Standard"

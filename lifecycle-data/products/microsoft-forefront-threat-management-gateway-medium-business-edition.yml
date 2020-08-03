@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront 威胁管理网关（中型企业版）
+  description: Microsoft Forefront 威胁管理网关，中型企业版遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806208"
+name: Microsoft Forefront 威胁管理网关（中型企业版）
+summary: >+
+  Microsoft Forefront 威胁管理网关，中型企业版遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Business
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/12/2008
+  end: 11/12/2013
+  extendedEnd: 11/12/2018
+releases:
+- version: Original Release
+  startDate: 11/12/2008
+  endDate: 11/12/2018
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业版"
