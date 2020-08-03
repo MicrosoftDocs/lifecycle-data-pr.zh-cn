@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Azure 虚拟机（经典）（发布前确认 Azure-日期网格上无结束日期）
+  description: Microsoft Azure 虚拟机（经典）（在发布前使用 Azure 进行确认-日期网格上没有结束日期）遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849438"
+name: Microsoft Azure 虚拟机（经典）（发布前确认 Azure-日期网格上无结束日期）
+summary: >+
+  Microsoft Azure 虚拟机（经典）（在发布前使用 Azure 进行确认-日期网格上没有结束日期）遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+  end: 03/01/2023
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+  endDate: 03/01/2023
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/azure/virtual-machines/classic-vm-deprecation)"

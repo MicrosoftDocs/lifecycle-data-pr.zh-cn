@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio Team Foundation Server 2013
+  description: Visual Studio Team Foundation Server 2013 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849492"
+name: Visual Studio Team Foundation Server 2013
+summary: >+
+  Visual Studio Team Foundation Server 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： All、Release Management
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 对于 TFS 2013 的 Release Management Server，在4/9/2024 之前，将根据策略准则支持更新4。\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 发布管理"

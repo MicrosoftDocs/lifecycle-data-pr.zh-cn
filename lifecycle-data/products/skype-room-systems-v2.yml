@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Skype 会议室系统 v2
+  description: Skype 会议室系统 v2 遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849497"
+name: Skype 会议室系统 v2
+summary: >+
+  Skype 会议室系统 v2 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 11/18/2016
+releases:
+- version: Original Release
+  startDate: 11/18/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
