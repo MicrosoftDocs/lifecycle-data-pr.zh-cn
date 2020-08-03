@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Identity Manager 2010
+  description: Microsoft Forefront Identity Manager 2010 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806211"
+name: Microsoft Forefront Identity Manager 2010
+summary: >+
+  Microsoft Forefront Identity Manager 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 10/10/2017
+  extendedEnd: 10/11/2022
+releases:
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 10/11/2022
+content: "\n\n> [!NOTE]\n> Microsoft Forefront Identity Manager 2010 的主流和扩展支持将进行扩展，如下所示，以向所有客户提供标准生命周期转换时间线。"
