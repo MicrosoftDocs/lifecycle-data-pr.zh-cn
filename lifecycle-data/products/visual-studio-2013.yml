@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849583"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：代理、全部、社区、Web、express for Windows、Express for Windows Desktop、IntelliTrace 收集器、建模 SDK、多字节 MFC 库、高级版、专业版、版本管理、远程工具、SDK、命令行管理程序（集成）、命令行管理程序（独立）、团队资源管理器、测试专业版、终极
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agent\n* 全部\n* 社区\n* Express for Web\n* Windows Express\n* Windows 桌面版 Express\n* IntelliTrace 收集器\n* 建模 SDK\n* 多字节 MFC 库\n* 高级\n* 专业\n* 发布管理\n* 远程工具\n* SDK\n* 命令行管理程序（集成）\n* 命令行管理程序（独立）\n* 团队资源管理器\n* 测试专业人员\n* 极致\n* Visual c + + 可再发行\n* Web 工具扩展"
