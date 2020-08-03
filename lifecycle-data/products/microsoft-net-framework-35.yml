@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 3.5
+  description: Microsoft .NET Framework 3.5 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806575"
+name: Microsoft .NET Framework 3.5
+summary: >+
+  Microsoft .NET Framework 3.5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 11/19/2007
+  end: 10/10/2023
+  extendedEnd: 01/09/2029
+releases:
+- version: Service Pack 1
+  startDate: 11/18/2008
+  endDate: 01/09/2029
+- version: Original Release
+  startDate: 11/19/2007
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [产品信息](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 3.5 SP1 之前的 .NET Framework 3 版本的支持已于2011年7月12日结束。 \n> [!NOTE]\n> 在 Windows 10 版本1809、Windows Server 2019 或更高版本上运行时，生命周期日期适用于 .NET 3.5 SP1。 在较旧版本的 Windows 中，.NET 3.5 SP1 采用基础 Windows OS 的生命周期。"

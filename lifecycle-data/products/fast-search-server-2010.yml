@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 （针对 Internet 站点，适用于内部应用程序）
+  description: FAST Search Server 2010 （针对内部应用程序的 Internet 网站）遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806326"
+name: FAST Search Server 2010 （针对 Internet 站点，适用于内部应用程序）
+summary: >+
+  FAST Search Server 2010 （针对内部应用程序的 Internet 网站）遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：内部应用程序、Internet 网站
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [生命周期常见问题解答-常规](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 排除以前取消支持的版本。 对此产品的支持受其收购条款的制约。\n\n## <a name=\"editions\"></a>版本 \n* 内部应用程序\n* Internet 站点"
