@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011
+  description: Windows 小型企业服务器2011遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849309"
+name: Windows Small Business Server 2011
+summary: >
+  Windows 小型企业服务器2011遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Essentials、Premium 附加版、Standard
+
+
+  > [!IMPORTANT]
+
+  > 此产品包的支持日期由其各个组件产品的各个生命周期决定。 请查看各个组件产品的生命周期以确定其支持长度。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [将 Windows 小型企业服务器2011标准迁移到 Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>版本 \n* Essentials\n* 高级附加\n* Standard"

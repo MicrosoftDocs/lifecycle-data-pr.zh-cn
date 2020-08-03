@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 部署代理2013
+  description: Microsoft 部署代理2013遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849249"
+name: Microsoft 部署代理2013
+summary: >+
+  Microsoft 部署代理2013遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n\n> [!NOTE]\n> 对于部署代理2013，在4/9/2024 之前，将根据策略准则支持更新4。"

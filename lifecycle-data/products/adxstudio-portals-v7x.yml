@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio 门户 v7
+  description: Adxstudio 门户 v7 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31e5f05143bc1b8c2436858f605645a602450a2e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849287"
+name: Adxstudio 门户 v7
+summary: >
+  Adxstudio 门户 v7 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+
+  > [!IMPORTANT]
+
+  > 对此产品的支持受其收购条款的制约，并已结束。 请参阅下面的迁移指南。
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+- version: v.6x or prior
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)"

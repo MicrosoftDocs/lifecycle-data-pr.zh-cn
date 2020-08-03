@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Core
+  description: Microsoft .NET Core 遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ec4cd98c7576838861d440b6f5c1856a1414d93f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849225"
+name: Microsoft .NET Core
+summary: >+
+  Microsoft .NET Core 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [.NET 路线图](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [服务信息](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [生命周期常见问题解答-.NET Core](/lifecycle/faq/dotnet-core)"

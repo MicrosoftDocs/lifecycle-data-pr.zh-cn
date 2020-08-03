@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office 2013 版本的 Office 365 专业增强版
+  description: Office 2013 版本的 Office 365 专业增强版遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 737fb217dc596643edfbcb06dd90640e1641c49b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849173"
+name: Office 2013 版本的 Office 365 专业增强版
+summary: >+
+  Office 2013 版本的 Office 365 专业增强版遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+  end: 02/28/2017
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 02/28/2017
+content: ''
