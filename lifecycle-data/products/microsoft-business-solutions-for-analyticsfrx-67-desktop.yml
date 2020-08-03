@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 商业解决方案（针对分析）--.Frx 6.7 桌面
+  description: Microsoft 商业解决方案 for Analytics--.Frx 6.7 Desktop 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806252"
+name: Microsoft 商业解决方案（针对分析）--.Frx 6.7 桌面
+summary: >+
+  Microsoft 商业解决方案 for Analytics--.Frx 6.7 Desktop 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> .Frx 支持在指示的日期结束，除非作为 Dynamics 产品的组成部分进行分发。 与 Dynamics 产品一起分发时，Dynamics 生命周期日期将覆盖 .Frx 的日期。"
