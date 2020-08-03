@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2019
+  description: Visual Studio 2019 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867939"
+name: Visual Studio 2019
+summary: >+
+  Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：代理、生成工具、社区、企业、Mac、IntelliTrace 独立收集器、性能工具、专业、远程工具、团队资源管理器、Visual c + + 可再发行组件
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 04/02/2019
+  end: 04/09/2024
+  extendedEnd: 04/10/2029
+releases:
+- version: Version 16.4
+  startDate: 12/03/2019
+  endDate: 04/10/2029
+- version: Version 16.0
+  startDate: 04/02/2019
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [服务信息](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>版本 \n* Agent\n* 生成工具\n* 社区\n* 企业版\n* for Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* 远程工具\n* 团队资源管理器\n* Visual c + + 可再发行"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 人力资源
+  description: Dynamics 365 人力资源遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867904"
+name: Dynamics 365 人力资源
+summary: >+
+  Dynamics 365 人力资源遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 03/27/2020
+releases:
+- version: Original Release
+  startDate: 03/27/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> 核心 HR 应用（以前包含在 Dynamics 365 人才中）具有 relaunched 作为 Dynamics 365 人力资源。"

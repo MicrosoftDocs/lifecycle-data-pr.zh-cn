@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure 堆栈集线器
+  description: Azure 堆栈集线器遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867912"
+name: Azure 堆栈集线器
+summary: >+
+  Azure 堆栈集线器遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 08/31/2017
+releases:
+- version: Original Release
+  startDate: 08/31/2017
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息和时间线](/azure/azure-stack/azure-stack-servicing-policy)"

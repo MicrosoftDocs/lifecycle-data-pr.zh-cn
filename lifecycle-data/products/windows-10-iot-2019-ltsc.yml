@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT 2019 LTSC
+  description: Windows 10 IoT 2019 LTSC 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867932"
+name: Windows 10 IoT 2019 LTSC
+summary: >+
+  Windows 10 IoT 2019 LTSC 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Core、Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>链接 \n* [Windows 10 IoT 核心服务](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows 10 年10月更新（版本1809）在11月13日（2018）重新发布。已相应调整支持日期。](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 即服务（WaaS）](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC 常见问题](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 长期服务通道\n\n## <a name=\"editions\"></a>版本 \n* 核心\n* 企业版"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2017
+  description: Visual Studio 2017 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867941"
+name: Visual Studio 2017
+summary: >+
+  Visual Studio 2017 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：代理、生成工具、社区、企业、反馈客户端、Mac、IntelliTrace 独立收集器、性能工具、专业、远程工具、团队资源管理器、测试专业、Visual c + + 可再发行组件
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 03/07/2017
+  end: 04/12/2022
+  extendedEnd: 04/13/2027
+releases:
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [服务信息](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>版本 \n* Agent\n* 生成工具\n* 社区\n* 企业版\n* 反馈客户端\n* for Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* 远程工具\n* 团队资源管理器\n* 测试专业人员\n* Visual c + + 可再发行"
