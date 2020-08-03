@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Commerce Server 2009
+  description: Microsoft Commerce Server 2009 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ca4dbecaf633f9551ab9af5e9a7fec7b0fe9f99e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806236"
+name: Microsoft Commerce Server 2009
+summary: >
+  Microsoft Commerce Server 2009 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Enterprise、Standard
+
+
+  > [!IMPORTANT]
+
+  > 对此产品的支持已结束。
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 04/23/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 04/23/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>链接 \n* [Dynamics 365 Commerce 体系结构概述](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Standard"
