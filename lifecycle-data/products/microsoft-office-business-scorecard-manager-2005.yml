@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 业务记分卡管理器2005
+  description: Microsoft Office 商业记分卡管理器2005遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806568"
+name: Microsoft Office 业务记分卡管理器2005
+summary: >+
+  Microsoft Office 商业记分卡管理器2005遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/27/2005
+  end: 01/11/2011
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 12/27/2005
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> 对业务记分卡管理器2005的支持已于1/12/2016 结束。"
