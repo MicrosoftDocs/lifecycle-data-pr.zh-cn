@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 业务中心
+  description: Dynamics 365 Business Central 遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849387"
+name: Dynamics 365 业务中心
+summary: >+
+  Dynamics 365 Business Central 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [Microsoft Dynamics 365 路线图](https://aka.ms/businessappsreleasenotes)\n* [服务信息](/dynamics365/business-central/dev-itpro/faq)\n* [系统要求](/dynamics365/business-central/product-requirements)"

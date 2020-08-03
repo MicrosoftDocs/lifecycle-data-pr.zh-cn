@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8 工业
+  description: Windows Embedded 8 工业遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849140"
+name: Windows Embedded 8 工业
+summary: >
+  Windows Embedded 8 工业遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： Enterprise、Pro
+
+
+  > [!IMPORTANT]
+
+  > 客户必须迁移到 Windows 8.1 才能保持受支持。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/download/details.aspx?id=40279)\n* [生命周期常见问题解答-Windows 产品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 专家"

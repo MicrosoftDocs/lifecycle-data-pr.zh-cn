@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wunderlist
+  description: Wunderlist 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849185"
+name: Wunderlist
+summary: "Wunderlist 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n\n> [!IMPORTANT]\n> 对此产品的支持受其收购条款的制约。 对此产品的支持已结束。 请参阅下面的迁移指南。 \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/02/2015
+  end: 05/06/2020
+  extendedEnd: 05/06/2020
+releases:
+- version: Original Release
+  startDate: 06/02/2015
+  endDate: 05/06/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Lync 2013
+  description: Lync 2013 遵循固定生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849229"
+name: Lync 2013
+summary: >+
+  Lync 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本： SDK，Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n> [!NOTE]\n> Skype for Business 2015 客户端版本是 Lync 2013 客户端的更新，将遵循相同的产品生命周期。\nLync 2013 SDK 的开始日期是2013年2月23日。 \n\n## <a name=\"editions\"></a>版本 \n* SDK\n* Standard"

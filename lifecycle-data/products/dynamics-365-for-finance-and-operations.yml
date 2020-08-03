@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 用于财务和运营的 Dynamics 365
+  description: 用于财务和运营的 Dynamics 365 遵循新式生命周期策略。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849384"
+name: 用于财务和运营的 Dynamics 365
+summary: >+
+  用于财务和运营的 Dynamics 365 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+
+
+  这适用于以下版本：企业版
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>链接 \n* [Microsoft Dynamics 365 路线图](https://roadmap.dynamics.com/)\n* [服务信息](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [系统要求](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版"
