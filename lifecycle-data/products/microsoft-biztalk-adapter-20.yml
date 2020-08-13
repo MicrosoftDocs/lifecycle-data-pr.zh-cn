@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk 适配器2。0
+  description: Microsoft BizTalk 适配器2.0 遵循固定生命周期策略。
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893833"
+name: Microsoft BizTalk 适配器2。0
+summary: >+
+  Microsoft BizTalk 适配器2.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：对于 MSMQ，for mySAP Business Suite for SAP
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/20/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/20/2004
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> Microsoft BizTalk 适配器 2.0 for SAP 的开始日期是2004年11月2日。 Microsoft BizTalk Adapter for MSMQ 2.0 的开始日期是12月10日，2004\n\n## <a name=\"editions\"></a>版本 \n* 对于 MSMQ\n* for mySAP Business Suite\n* 针对 SAP"

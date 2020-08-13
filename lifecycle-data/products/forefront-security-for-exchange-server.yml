@@ -2,16 +2,16 @@
 metadata:
   title: Forefront Security for Exchange Server
   description: Exchange Server 的 Forefront Security 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806321"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893710"
 name: Forefront Security for Exchange Server
 summary: >
-  Exchange Server 的 Forefront Security 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Exchange Server 的 Forefront Security 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
 
@@ -23,6 +23,7 @@ products:
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
