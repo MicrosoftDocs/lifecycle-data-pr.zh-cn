@@ -2,16 +2,16 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 遵循组件生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849265"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893636"
 name: Internet Explorer 11
 summary: >+
-  Internet Explorer 11 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
+  Internet Explorer 11 遵循 [组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 生命周期策略。
 
 
 products:

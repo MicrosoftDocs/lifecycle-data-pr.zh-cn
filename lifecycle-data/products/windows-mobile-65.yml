@@ -2,16 +2,16 @@
 metadata:
   title: Windows Mobile 6。5
   description: Windows Mobile 6.5 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28da232d32da22a3b3ad4d3bf76e3bcf17609a1e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 7dedd3bd65fb6266b94a65e9b61addc1521602fc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806073"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893835"
 name: Windows Mobile 6。5
 summary: >
-  Windows Mobile 6.5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Mobile 6.5 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本： Professional、Standard
