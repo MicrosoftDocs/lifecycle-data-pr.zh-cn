@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: '搜索产品和服务生命周期信息 (预览) '
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> 此页面正在开发中。 有关 Microsoft 产品及其支持时限和详细信息的完整列表，请访问[aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)。\n> [!NOTE]\n> 从 \"[生命周期导出](/lifecycle/export/products)\" 页导出生命周期信息。\n\n\nMicrosoft 生命周期提供了在产品生命周期内支持的一致且可预测的指南，帮助客户在战略规划未来的同时管理其 IT 投资和环境。\n\n\n在下面的列表中搜索 Microsoft 商业产品和服务，然后选择您的结果以查找支持和服务时间线、所需更新、迁移信息和系统要求。"
+summary: "\n\n> [!IMPORTANT]\n> 此页面正在开发中，将在9月2日完全生效。 在此期间，您可以查看 Microsoft 产品的完整列表及其支持时间线和详细信息 [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)。\n> [!NOTE]\n> 从 \" [生命周期导出](/lifecycle/export/products) \" 页导出生命周期信息。\n\n\nMicrosoft 生命周期提供了在产品生命周期内支持的一致且可预测的指南，帮助客户在战略规划未来的同时管理其 IT 投资和环境。\n\n\n在下面的列表中搜索 Microsoft 商业产品和服务，然后选择您的结果以查找支持和服务时间线、所需更新、迁移信息和系统要求。"
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882426"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899829"
