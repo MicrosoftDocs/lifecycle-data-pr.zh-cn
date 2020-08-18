@@ -1,27 +1,27 @@
 ---
-title: 导出产品
+title: 生命周期数据导出
 description: 导出产品生命周期信息
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899792"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902392"
 ---
-# <a name="export"></a>导出
+# <a name="lifecycle-data-export"></a>生命周期数据导出
 
 > [!IMPORTANT]
 > 此页面正在开发中。
 
 ## <a name="export-all-products"></a>导出所有产品
-导出不带任何筛选器的所有产品。
+通过单击以下选项导出所有产品的生命周期数据：
 
 > [!div class="nextstepaction"]
 > [导出所有产品](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>按类别导出产品
-选择要导出的分组：
+## <a name="export-products-by-family-and-group"></a>按系列和组导出产品
+选择一个系列，然后选择要导出的组。 注意：选择 "分组值" 时将开始 "导出"。 
 
 > [!div class="op_multi_selector" title1="家长" title2="Group"]
 > - [ ( .NET |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899792"
 > - [ (Windows |安全) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [ (Windows |服务器) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>按支持期结束导出产品
-选择一年中要导出产品结束服务的年：
+## <a name="export-products-by-end-of-support-date"></a>按支持日期结尾导出产品
+选择一年以查看支持结束的产品。 注意：选择 "年份值" 时将开始 "导出"。
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
