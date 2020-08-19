@@ -3,18 +3,18 @@ metadata:
   title: GPOVault
   description: GPOVault 遵循固定生命周期策略。
   ms.date: 08/19/2020
-  ms.openlocfilehash: 53a695653e0c7ea800e0b2f78d8a0ec9be49e9c7
-  ms.sourcegitcommit: cdc82d954cf43f559efedf304d3b044b29dda561
+  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903282"
+  ms.locfileid: "903717"
 name: GPOVault
 summary: >+
   GPOVault 遵循 [固定生](/lifecycle/policies/fixed) 命周期策略。
 
 
-  这适用于以下版本：1.0、1.0 企业版、2.0、企业版 2.0
+  这适用于以下版本：1.0、2.0、企业版 1.0、企业版 2.0
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> 对本产品的支持需要在其购置条款的过程中。 \n\n## <a name=\"editions\"></a>版本 \n* 1.0\n* 1.0 企业版\n* 2.0\n* 企业版 2.0"
+content: "\n\n> [!NOTE]\n> 对本产品的支持需要在其购置条款的过程中。 \n\n## <a name=\"editions\"></a>版本 \n* 1.0\n* 2.0\n* 企业版 1.0\n* 企业版 2.0"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 高级威胁分析 1.x
+  description: 高级威胁分析 1.X 遵循固定生命周期策略。
+  ms.date: 08/19/2020
+  ms.openlocfilehash: acfca59a1c834c55c8fdb6f8d3eddbd34d6070b2
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903860"
+name: 高级威胁分析 1.x
+summary: >+
+  高级威胁分析 1.X 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>链接 \n* [高级威胁分析服务指南](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> 更新是累积更新，并且每个更新都是基于它前面的所有更新构建的。 设备需要安装最新的更新以保持受支持。"

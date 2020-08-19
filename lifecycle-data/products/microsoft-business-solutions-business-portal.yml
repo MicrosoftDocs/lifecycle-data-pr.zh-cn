@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 业务解决方案业务门户
+  description: Microsoft 企业解决方案业务门户遵循固定生命周期策略。
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903876"
+name: Microsoft 业务解决方案业务门户
+summary: >+
+  Microsoft 企业解决方案业务门户遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/18/2003
+  end: 01/08/2008
+releases:
+- version: Business Solutions Business Portal 2.5
+  startDate: 08/01/2004
+  endDate: 01/08/2008
+- version: Business Solutions Business Portal 2.0
+  startDate: 01/01/2004
+  endDate: 04/10/2007
+- version: Business Solutions Business Portal 1.2
+  startDate: 07/18/2003
+  endDate: 12/31/2004
+content: "\n\n> [!NOTE]\n> 仅当与 Great Plains 8.0 或 Solomon 6.0 一起使用时，Microsoft Business Solutions Business Portal 2.5 受支持。"
