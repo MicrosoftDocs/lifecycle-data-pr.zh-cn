@@ -1,27 +1,27 @@
 ---
 title: 生命周期数据导出
 description: 导出产品生命周期信息
-ms.date: 08/19/2020
-ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
-ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+ms.date: 08/20/2020
+ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
+ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "903643"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "905200"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="f0483-103">生命周期数据导出</span><span class="sxs-lookup"><span data-stu-id="f0483-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="b060c-103">生命周期数据导出</span><span class="sxs-lookup"><span data-stu-id="b060c-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="f0483-104">此页面正在开发中。</span><span class="sxs-lookup"><span data-stu-id="f0483-104">This page is under development.</span></span>
+> <span data-ttu-id="b060c-104">此页面正在开发中。</span><span class="sxs-lookup"><span data-stu-id="b060c-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="f0483-105">导出所有产品</span><span class="sxs-lookup"><span data-stu-id="f0483-105">Export all products</span></span>
-<span data-ttu-id="f0483-106">单击以下内容以导出所有产品的生命周期数据：</span><span class="sxs-lookup"><span data-stu-id="f0483-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="b060c-105">导出所有产品</span><span class="sxs-lookup"><span data-stu-id="b060c-105">Export all products</span></span>
+<span data-ttu-id="b060c-106">单击以下内容以导出所有产品的生命周期数据：</span><span class="sxs-lookup"><span data-stu-id="b060c-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="f0483-107">导出所有产品</span><span class="sxs-lookup"><span data-stu-id="f0483-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="b060c-107">导出所有产品</span><span class="sxs-lookup"><span data-stu-id="b060c-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="f0483-108">按家庭和群组导出产品</span><span class="sxs-lookup"><span data-stu-id="f0483-108">Export products by Family and Group</span></span>
-<span data-ttu-id="f0483-109">选择一家系列，然后选择要导出的组。</span><span class="sxs-lookup"><span data-stu-id="f0483-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="f0483-110">注意：在选择组值后，将开始导出。</span><span class="sxs-lookup"><span data-stu-id="f0483-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="b060c-108">按家庭和群组导出产品</span><span class="sxs-lookup"><span data-stu-id="b060c-108">Export products by Family and Group</span></span>
+<span data-ttu-id="b060c-109">选择一家系列，然后导出组。</span><span class="sxs-lookup"><span data-stu-id="b060c-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="b060c-110">注意：在选择组值后，将开始导出。</span><span class="sxs-lookup"><span data-stu-id="b060c-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="系列" title2="Group"]
 > - [ (.NET |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -45,8 +45,8 @@ ms.locfileid: "903643"
 > - [ (Dynamics |其他) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Dynamics'%20and%20parent/parent/name%20eq%20'Other')
 > - [ (Expression |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression')
 > - [ (Expression |表达式) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression'%20and%20parent/parent/name%20eq%20'Expression')
-> - [ (Microsoft 365 的数据库。所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365')
-> - [ (Microsoft 365 的数据库。企业移动性 + 安全性) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Enterprise%20Mobility%20%2B%20Security')
+> - [ (Microsoft 365 的数据库所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365')
+> - [ (Microsoft 365 的数据库企业移动性 + 安全性) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Enterprise%20Mobility%20%2B%20Security')
 > - [ (Microsoft 365 的数据库。身份管理) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Identity%20Management')
 > - [ (Microsoft 连接服务框架 |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework')
 > - [ (Microsoft 连接服务框架 |连接服务框架) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
@@ -81,8 +81,8 @@ ms.locfileid: "903643"
 > - [ (Windows |安全) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [ (Windows |服务器) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="f0483-169">在支持日期结束时导出产品</span><span class="sxs-lookup"><span data-stu-id="f0483-169">Export products by end of support date</span></span>
-<span data-ttu-id="f0483-170">选择一年时间，查看产品支持终端。</span><span class="sxs-lookup"><span data-stu-id="f0483-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="f0483-171">注意："导出将在选择年度"值后开始。</span><span class="sxs-lookup"><span data-stu-id="f0483-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="b060c-169">在支持日期结束时导出产品</span><span class="sxs-lookup"><span data-stu-id="b060c-169">Export products by end of support date</span></span>
+<span data-ttu-id="b060c-170">选择一年时间，查看产品支持终端。</span><span class="sxs-lookup"><span data-stu-id="b060c-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="b060c-171">注意："导出将在选择年度"值后开始。</span><span class="sxs-lookup"><span data-stu-id="b060c-171">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
