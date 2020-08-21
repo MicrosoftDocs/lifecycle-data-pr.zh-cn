@@ -5,19 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868017"
 name: Microsoft SQL Server 2012 并行数据仓库（分析平台系统）
-summary: >
-  Microsoft SQL Server 2012 并行数据仓库（分析平台系统）遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-
-  > [!IMPORTANT]
-
-  > SQL Server 2012 并行数据仓库（PDW）已 rebranded 为 AP （分析平台系统）
+summary: "Microsoft SQL Server 2012 并行数据仓库（分析平台系统）遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> SQL Server 2012 并行数据仓库 (PDW) 已更名为 APS（分析平台系统）\n"
 products:
 - sql-server
 policyType: fixed

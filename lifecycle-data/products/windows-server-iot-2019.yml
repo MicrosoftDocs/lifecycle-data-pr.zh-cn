@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867919"
 name: Windows Server IoT 2019
-summary: >+
-  Windows Server IoT 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：数据中心、Essentials、Standard、电信
-
+summary: "Windows Server IoT 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：数据中心、基础、标准、电信\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-Windows 产品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 所有版本的 Windows Server IoT 2019 遵循 Windows Server 2019 生命周期。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心\n* Essentials\n* Standard\n* 电讯"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 所有 Windows Server IoT 2019 版本均与 Windows Server 2019 的生命周期一致。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 基础版\n* 标准\n* 电信"

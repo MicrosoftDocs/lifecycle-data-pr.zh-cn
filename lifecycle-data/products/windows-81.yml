@@ -2,19 +2,19 @@
 metadata:
   title: Windows 8.1
   description: Windows 8.1 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f9a4bcbbb6bfcd3a4ddd5445f78d459baba2c3e2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849355"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906646"
 name: Windows 8.1
 summary: >+
-  Windows 8.1 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows 8.1 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
 
 
-  这适用于以下版本：企业版、企业版 N、N、Pro 和媒体中心、专业、专业版 N
+  这适用于以下版本：企业版、企业 N、N、专业版、专业版、专业版 N、SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-Windows 产品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* N\n* 具有媒体中心的 Pro\n* 专业\n* 专业版 N"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答 - Windows 产品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业 N\n* N\n* 专业版媒体中心\n* 专业\n* 专业版 N\n* SL"

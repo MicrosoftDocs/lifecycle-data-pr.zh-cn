@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 家庭版和专业版
-  description: Windows 10 主页和 Pro 遵循新式生命周期策略。
+  title: Windows 10 Home 和 Pro
+  description: Windows 10 Home 和 Pro 遵循现代生命周期策略。
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879115"
-name: Windows 10 家庭版和专业版
-summary: >
-  Windows 10 主页和 Pro 遵循[新式](/lifecycle/policies/modern)生命周期策略。
-
-
-  这适用于以下版本：家庭、Pro、Pro 教育版、Pro for 工作站、专业版
-
-
-  > [!IMPORTANT]
-
-  > Microsoft 将继续至少支持一个 Windows 10 半年频道，直到2025年10月14日。
+name: Windows 10 Home 和 Pro
+summary: "Windows 10 Home 和 Pro 遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：家庭版、专业版、专业教育版、专业工作站版、专业版\n\n> [!IMPORTANT]\n> 2025 年 10 月 14 日前，Microsoft 将继续支持至少一个 Windows 10 半年频道。\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +48,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows 即服务（WaaS）](/windows/deployment/update/waas-quick-start)\n* [Windows 生命周期事实数据表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [生命周期常见问题解答-Windows 产品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 适用于使用版本1703的工作站首次发布的 Pro\n> [!NOTE]\n> 除非推迟，后续 Windows 10 半半年频道功能更新可能会在列出的主流支持日期结束之前安装。\n\n## <a name=\"editions\"></a>版本 \n* 主页\n* 专家\n* Pro 教育版\n* 适用于工作站的 Pro\n* 专业"
+content: "\n## <a name=\"links\"></a>链接 \n* [Windows 即服务 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 生命周期说明书](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation 首次发布版本 1703\n> [!NOTE]\n> 除非延迟，否则可能会在列出的主流支持日期结束之前安装后续的 Windows 10 半年频道功能更新。\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* Pro 版\n* 专业教育版\n* 专业工作站版\n* 专业"

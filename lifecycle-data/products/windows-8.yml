@@ -2,24 +2,24 @@
 metadata:
   title: Windows 8
   description: Windows 8 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849358"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906683"
 name: Windows 8
 summary: >
-  Windows 8 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows 8 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
 
 
-  这适用于以下版本：企业版、企业版 N、N、Pro 和媒体中心、专业、专业版 N
+  这适用于以下版本：企业版、企业 N、N、专业版、专业版、专业版 N、SL
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。 客户必须更新到 Windows 8.1，才能保持支持。
+  > 已终于对此产品的支持。 客户必须更新到 Windows 8.1 才能继续受到支持。
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-Windows 8。1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* N\n* 具有媒体中心的 Pro\n* 专业\n* 专业版 N"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答 - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* N\n* 专业版媒体中心\n* 专业\n* 专业版 N\n* SL"
