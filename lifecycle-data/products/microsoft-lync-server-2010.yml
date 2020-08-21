@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879441"
 name: Microsoft Lync Server 2010
-summary: >+
-  Microsoft Lync Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：企业、组聊天软件开发工具包、SDK、标准
-
+summary: "Microsoft Lync Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业，群聊软件开发工具包，SDK ，标准\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>链接 \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Server 2010 和 Lync Server 2013 支持 lync Phone Edition。 Lync Phone Edition 的支持日期已扩展了2年，以与 Lync Server 2013 生命周期相适应。\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 分组聊天软件开发工具包\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Server 2010 和  Lync Server 2013 支持 Lync 电话版。 Lync Phone Edition 的支持日期已延长 2 年，以与 Lync Server 2013 生命周期保持一致。\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 群聊软件开发工具包\n* SDK 版\n* 标准"

@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics CRM 2016 （Dynamics 365）
-  description: Dynamics CRM 2016 （Dynamics 365）遵循固定生命周期策略。
+  title: Dynamics CRM 2016 (Dynamics 365)
+  description: Dynamics CRM 2016 (Dynamics 365) 遵循固定生命周期策略。
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878771"
-name: Dynamics CRM 2016 （Dynamics 365）
-summary: >+
-  Dynamics CRM 2016 （Dynamics 365）遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+name: Dynamics CRM 2016 (Dynamics 365)
+summary: "Dynamics CRM 2016 (Dynamics 365) 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -31,4 +28,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [Dynamics 365 迁移计划](https://dynamics.microsoft.com/migration-program/)\n* [支持信息](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [Dynamics 365 迁移计划](https://dynamics.microsoft.com/migration-program/)\n* [支持信息](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

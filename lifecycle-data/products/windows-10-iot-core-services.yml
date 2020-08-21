@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT 核心服务
-  description: Windows 10 IoT 核心服务遵循新式生命周期策略。
+  title: Windows 10 IoT Core services
+  description: Windows 10 IoT Core services 遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867929"
-name: Windows 10 IoT 核心服务
-summary: >+
-  Windows 10 IoT 核心服务遵循[新式](/lifecycle/policies/modern)生命周期策略。
-
-
+name: Windows 10 IoT Core services
+summary: "Windows 10 IoT Core services 遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n\n"
 products:
 - windows
 policyType: modern-online
@@ -22,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows 10 IoT 核心服务](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services 是一种以服务形式提供软件支持的订阅，其中包括更新控制设备更新中心和设备运行状况证明的改进安全性，前提是运行 Windows 10 IoT Core 软件的受支持版本。"
+content: "\n## <a name=\"links\"></a>链接 \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> 只要你运行的是受支持版本的 Windows 10 IoT Core Software，Windows 10 IoT Core Services 就是一项提供软件支持即服务的订阅服务，包括通过设备更新中心进行更新控制和通过设备运行状况证明提高安全性。"
