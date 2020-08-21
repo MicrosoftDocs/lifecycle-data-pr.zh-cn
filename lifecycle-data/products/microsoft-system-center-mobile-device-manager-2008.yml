@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 移动设备管理器2008
-  description: Microsoft System Center 移动设备管理器2008遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft System Center Mobile Device Manager 2008
+  description: Microsoft System Center Mobile Device Manager 2008 遵循固定生命周期策略。
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806153"
-name: Microsoft System Center 移动设备管理器2008
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906259"
+name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center 移动设备管理器2008遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft System Center Mobile Device Manager 2008 遵循 [固定生](/lifecycle/policies/fixed) 命周期策略。
 
+
+  这适用于以下版本：全部适用的 wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* wSQL"
