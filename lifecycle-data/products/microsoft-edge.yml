@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Edge
+  description: Microsoft Edge 遵循现代生命周期策略。
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905771"
+name: Microsoft Edge
+summary: >
+  Microsoft Edge 遵循现 [代](/lifecycle/policies/modern) 生命周期策略。
+
+
+
+  > [!IMPORTANT]
+
+  > 请注意，该产品的旧版将于 2021 年 3 月 9 日终天受支持。 请转到  [此处](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) 了解详细信息。
+products:
+- microsoft-edge
+policyType: modern-on-prem
+supportDates:
+  start: 01/15/2020
+releases:
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n## <a name=\"links\"></a>链接 \n* [Microsoft Edge 支持的操作系统](/deployedge/microsoft-edge-supported-operating-systems)"
