@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 82eb406f32eb22016a6f4e97fa3d802c6d1dd896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806341"
 name: Dynamics GP 2010
-summary: >+
-  Dynamics GP 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+summary: "Dynamics GP 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -37,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 10/09/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [其他信息和迁移指南](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [产品信息](/dynamics-gp/)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [其他信息和迁移指南](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [产品信息](/dynamics-gp/)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

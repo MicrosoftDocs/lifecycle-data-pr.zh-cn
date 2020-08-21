@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront 统一访问网关2010
-  description: Microsoft Forefront 统一访问网关2010遵循固定生命周期策略。
+  title: Microsoft Forefront Unified Access Gateway 2010
+  description: Microsoft Forefront Unified Access Gateway 2010 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 250585910905b7c124d4f2ad3685d04e3bd64a03
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806205"
-name: Microsoft Forefront 统一访问网关2010
-summary: >+
-  Microsoft Forefront 统一访问网关2010遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+name: Microsoft Forefront Unified Access Gateway 2010
+summary: "Microsoft Forefront Unified Access Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - windows
 policyType: fixed
@@ -37,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/26/2010
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

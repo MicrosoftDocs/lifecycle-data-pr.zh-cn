@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus！ 对于 Windows XP
-  description: Microsoft Plus！ 对于 Windows XP，请遵循固定生命周期策略。
+  title: Microsoft Plus! 用於 Windows XP
+  description: Microsoft Plus! for Windows XP 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806114"
-name: Microsoft Plus！ 对于 Windows XP
-summary: >+
-  Microsoft Plus！ 对于 Windows XP，请遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+name: Microsoft Plus! 用於 Windows XP
+summary: "Microsoft Plus! 用於 Windows XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only

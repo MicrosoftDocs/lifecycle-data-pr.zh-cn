@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP Embedded
-  description: 嵌入的 Windows XP 遵循固定生命周期策略。
+  description: Windows XP Embedded 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805713"
 name: Windows XP Embedded
-summary: >
-  嵌入的 Windows XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Embedded
-
-
-  > [!IMPORTANT]
-
-  > 对此产品的支持已结束。
+summary: "Windows XP Embedded 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Embedded\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。\n"
 products:
 - windows
 policyType: fixed
@@ -40,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows XP Embedded 支持](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>版本 \n* 嵌入"
+content: "\n## <a name=\"links\"></a>链接 \n* [Windows XP Embedded 支持](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>版本 \n* Embedded"

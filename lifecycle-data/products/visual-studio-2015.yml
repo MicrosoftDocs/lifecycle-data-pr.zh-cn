@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 遵循固定生命周期策略。
+  description: Visual Studio 2015 遵循已修复生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849361"
 name: Visual Studio 2015
-summary: >+
-  Visual Studio 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：代理、社区、企业、Express for Web、Express for Windows 10、Express for Windows Desktop、建模 SDK、专业、发布管理、远程工具、SDK、Shell （集成）、命令行管理程序（独立）、测试专业、Visual c + + 可再发行组件
-
+summary: "Visual Studio 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Agents、社区、企业、Express for Web、Express for Windows 10、Express for Windows Desktop、建模 SDK、专业、版本管理、远程工具、SDK、Shell （集成）、Shell （独立）、Test Professional、可视化 C++ 可再发行版本\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agent\n* 社区\n* 企业版\n* Express for Web\n* Express for Windows 10\n* Windows 桌面版 Express\n* 建模 SDK\n* 专业\n* 发布管理\n* 远程工具\n* SDK\n* 命令行管理程序（集成）\n* 命令行管理程序（独立）\n* 测试专业人员\n* Visual c + + 可再发行"
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 社区\n* 企业版\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* 建模 SDK\n* 专业\n* 发布管理\n* 远程工具\n* SDK 版\n* Shell（集成）\n* Shell（独立）\n* 专业测试工具版\n* Visual C++ 可再发行程序包"

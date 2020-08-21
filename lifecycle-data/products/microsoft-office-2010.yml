@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805871"
 name: Microsoft Office 2010
-summary: >+
-  Microsoft Office 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： eAcademy、家庭和企业、家庭和学生、个人、专业、专业学术、专业 Plus、专业加家庭使用计划、Standard、初学者
-
+summary: "Microsoft Office 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：eAcademy，Home and Business 版，Home and Student 版，个人版，专业版，专业学术版，专业增强版，专业增强家庭使用计划，标准版，入门版\n\n"
 products:
 - office
 policyType: fixed
@@ -33,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [Office 2010 支持终止路线图](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* eAcademy\n* Home and Business \n* Home and Student \n* 个人\n* 专业\n* Professional Academic\n* Professional Plus\n* 职业加上家庭使用计划\n* Standard\n* 启动器"
+content: "\n## <a name=\"links\"></a>链接 \n* [Office 2010 结束支持路线图](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* eAcademy\n* Home and Business\n* 家庭版和学生版\n* 个人\n* 专业\n* 专业学术\n* 专业增强\n* 专业增强家庭使用计划\n* 标准\n* 入门版"

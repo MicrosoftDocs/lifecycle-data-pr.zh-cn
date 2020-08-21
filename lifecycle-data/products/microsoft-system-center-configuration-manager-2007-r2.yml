@@ -5,19 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806162"
 name: Microsoft System Center Configuration Manager 2007 R2
-summary: >
-  Microsoft System Center Configuration Manager 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-
-  > [!IMPORTANT]
-
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+summary: "Microsoft System Center Configuration Manager 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - msc
 policyType: fixed

@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849207"
 name: Microsoft SQL Server 2012
-summary: >+
-  Microsoft SQL Server 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：商业智能、开发人员、企业、企业核心、Express、嵌入式系统、标准、Web
-
+summary: "Microsoft SQL Server 201 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商业智能版、开发人员版、企业版、企业核心版、Express 版、嵌入式系统版、标准版、Web 版\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -39,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业智能\n* 开发人员\n* 企业版\n* Enterprise Core\n* Express\n* 对于嵌入式系统\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业智能\n* 开发人员版\n* 企业版\n* 企业核心\n* Express\n* 嵌入式系统版\n* 标准\n* Web"

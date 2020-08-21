@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805731"
 name: Visual Studio 2008
-summary: >+
-  Visual Studio 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： All、Pro w/MSDN Premium、专业、专业版/MSDN、团队套件、团队测试加载代理、VB Express、Visual Basic Express、Visual c # Express、Visual c + + Express、Visual Web Developer Express
-
+summary: "Visual Studio 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：全部，专业 w/MSDN 高级，专业，专业 w/MSDN，团队套件，团队测试负载代理，VB Express， Visual Basic Express，Visual C# 快递，Visual C++ Express，Visual Web Developer Express\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 包含 Visual c + + Express、Visual c # Express、VB Express、Visual Web Developer Express 和 Visual Studio Team System edition\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* Pro （含 MSDN 高级版）\n* 专业\n* 专业（含 MSDN） \n* 团队套件\n* 团队测试加载代理\n* VB Express\n* Visual Basic Express\n* Visual c # Express\n* Visual c + + Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 包括 Visual C++、Visual C# Express、VB Express、Visual Web Developer Express 和 Visual Studio Team System 版本\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 专业 w/MSDN 高级\n* 专业\n* 专业 w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

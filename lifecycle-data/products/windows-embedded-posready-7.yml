@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849483"
 name: Windows Embedded POSReady 7
-summary: >+
-  Windows Embedded POSReady 7 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+summary: "Windows Embedded POSReady 7 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>链接 \n* [* 扩展安全更新程序（ESU）-通过 Oem 提供了适用于选择嵌入产品的扩展安全更新。](/lifecycle/faq/extended-security-updates)\n* [Windows IoT 嵌入式模式](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>链接 \n* [* 扩展安全更新计划 (ESU) - 可通过 OEM 为选定的嵌入式产品提供扩展安全更新。](/lifecycle/faq/extended-security-updates)\n* [Windows IoT 嵌入式模式](/windows/iot-core/develop-your-app/embeddedmode)"

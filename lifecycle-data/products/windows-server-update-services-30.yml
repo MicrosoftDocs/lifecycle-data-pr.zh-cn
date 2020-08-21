@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Update Services 3。0
+  title: Windows Server Update Services 3.0
   description: Windows Server Update Services 3.0 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806435"
-name: Windows Server Update Services 3。0
-summary: >
-  Windows Server Update Services 3.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-
-  > [!IMPORTANT]
-
-  > 支持已结束。 请参阅下面的迁移指南。
+name: Windows Server Update Services 3.0
+summary: "Windows Server Update Services 3.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - windows
 policyType: fixed
@@ -35,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 支持从7/11/2017 扩展到1/14/2020。"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 支持从 2017 年 7 月 11 日延长至 2020 年 1 月 14 日。"
