@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 主机集成服务器2006
-  description: Microsoft 主机集成服务器2006遵循固定生命周期策略。
+  title: Microsoft Host Integration Server 2006
+  description: Microsoft Host Integration Server 2006 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805891"
-name: Microsoft 主机集成服务器2006
-summary: "Microsoft 主机集成服务器2006遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本：开发人员、标准\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 请参阅下面的迁移指南。 \n"
+name: Microsoft Host Integration Server 2006
+summary: "Microsoft Host Integration Server 2006 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：开发人员，标准\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。 \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 标准"

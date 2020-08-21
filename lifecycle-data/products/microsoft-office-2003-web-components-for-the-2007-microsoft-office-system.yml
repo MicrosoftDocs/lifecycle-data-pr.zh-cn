@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 用于 2007 Microsoft Office system 的 microsoft Office 2003 Web 组件
-  description: 2007 Microsoft Office system 的 Microsoft Office 2003 Web 组件遵循组件生命周期策略。
+  title: 适用于 2007 Microsoft Office 系统的 Microsoft Office 2003 Web 组件
+  description: 适用于 2007 Microsoft Office 系统的 Microsoft Office 2003 Web 组件遵循组件生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805631"
-name: 用于 2007 Microsoft Office system 的 microsoft Office 2003 Web 组件
+name: 适用于 2007 Microsoft Office 系统的 Microsoft Office 2003 Web 组件
 summary: >+
-  2007 Microsoft Office system 的 Microsoft Office 2003 Web 组件遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
+  适用于 2007 Microsoft Office 系统的 Microsoft Office 2003 Web 组件遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
 
 
 products:

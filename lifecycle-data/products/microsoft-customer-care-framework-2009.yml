@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 客户维护框架2009
-  description: Microsoft 客户维护框架2009遵循固定生命周期策略。
+  title: Microsoft 客户服务框架 2009
+  description: Microsoft Customer Care Framework 2009 遵循已修复生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806224"
-name: Microsoft 客户维护框架2009
-summary: >
-  Microsoft 客户维护框架2009遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-
-  > [!IMPORTANT]
-
-  > 支持已结束。 请参阅下面的迁移指南。
+name: Microsoft 客户服务框架 2009
+summary: "Microsoft Customer Care Framework 2009 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - customer-care-framework
 policyType: fixed
@@ -32,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [服务包策略](/lifecycle/policies/fixed#service-packs)"

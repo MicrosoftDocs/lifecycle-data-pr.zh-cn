@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 适用于 Windows 桌面的 Microsoft Application Virtualization 托管5。0
-  description: 适用于 Windows 桌面的 Microsoft Application Virtualization 托管5.0 遵循固定生命周期策略。
+  title: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
+  description: 适用于 Windows Desktops 的 Microsoft Application Virtualization Hosting 5.0 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849251"
-name: 适用于 Windows 桌面的 Microsoft Application Virtualization 托管5。0
+name: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops
 summary: >+
-  适用于 Windows 桌面的 Microsoft Application Virtualization 托管5.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：适用于 Windows 桌面
+  这适用于以下版本：Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 对于 Windows 桌面"
+content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 适用于 Windows 桌面"

@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806571"
 name: Microsoft Office 2003 校对工具
-summary: >+
-  Microsoft Office 2003 校对工具遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+summary: "Microsoft Office 2003 校对工具遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - office
 policyType: fixed

@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 适用于 Windows Server 的服务总线
-  description: 适用于 Windows Server 的服务总线遵循组件生命周期策略。
+  title: Service Bus for Windows Server
+  description: Service Bus for Windows Server 遵循组件生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849319"
-name: 适用于 Windows Server 的服务总线
-summary: >
-  适用于 Windows Server 的服务总线遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
-
-
-
-  > [!IMPORTANT]
-
-  > 当服务总线1.1 是 SharePoint Server 2016 或 SharePoint Server 2013 的组件时，将根据各自 SharePoint Server 版本的支持日期的结束时间来支持它。
+name: Service Bus for Windows Server
+summary: "Service Bus for Windows Server 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 当 Service Bus 1.1 是 SharePoint Server 2016 或 SharePoint Server 2013 组件时，将根据相应的 SharePoint Server 版本的支持终止日期支持该服务。\n"
 products:
 - windows
 policyType: component

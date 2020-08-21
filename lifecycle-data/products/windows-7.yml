@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 7
-  description: Windows 7 遵循固定生命周期策略。
+  description: Windows 7 遵循已修复生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805571"
 name: Windows 7
-summary: "Windows 7 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本：企业、企业版 N、家庭基本版、家庭高级版、家庭高级版 N、专业、专业版嵌入式系统、专业版 N、初学者、初学者 N、旗舰版、旗舰版嵌入式系统、旗舰版 N\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 请参阅下面的迁移指南。 \n"
+summary: "Windows 7 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业版、企业版 N、家庭普通版、家庭高级版、家庭高级版 N、专业、嵌入式系统专业版、专业版 N、入门版、入门版 N、旗舰版、嵌入式系统旗舰版、旗舰版 N\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。 \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * 扩展安全更新（ESU）可通过适用于本产品的嵌入式系统版本的 Windows 7 专业版、企业版和专业版的特定批量许可计划获取，最多可在支持结束后增加三年。 请联系你的 Microsoft 合作伙伴或客户团队以了解详细信息。 \n\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/4057281)\n* [从 Windows 7 升级到 Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [扩展安全更新程序（ESU）](/lifecycle/faq/extended-security-updates)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* 家庭普通版\n* 家庭高级版\n* 家庭高级版 N\n* 专业\n* 适用于嵌入式系统的专业人员\n* 专业版 N\n* 启动器\n* 初学者 N\n* 极致\n* 适用于嵌入式系统的旗舰版\n* 旗舰版 N"
+content: "> [!TIP]\n> '*本产品的 Windows 7 专业版、企业版和嵌入式系统专业版，可通过特定批量许可计划获得扩展安全更新 (ESU)，并最多可在支持终止后的三年内使用。 请联系您的 Microsoft 合作伙伴或客户团队以了解更多信息。 \n\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/4057281)\n* [从 Windows 7 升级到 Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [扩展安全更新计划 (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* 家庭普通\n* 家庭高级版\n* 家庭高级版 N\n* 专业\n* 嵌入系统专业版\n* 专业版 N\n* 入门版\n* 入门版 N\n* Ultimate\n* 嵌入式系统旗舰版\n* 旗舰版 N"

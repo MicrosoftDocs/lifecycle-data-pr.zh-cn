@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e740998f2aed90f068094df5fdf1f7a28e3ccd4f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849395"
 name: BizTalk Server 2013 R2
-summary: >+
-  BizTalk Server 2013 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Branch、Developer、Enterprise、Standard
-
+summary: "BizTalk Server 2013 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：分支版、开发人员版、企业版、标准版\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2014
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>版本 \n* 树枝\n* 开发人员\n* 企业版\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>版本 \n* 分支版\n* 开发人员版\n* 企业版\n* 标准"

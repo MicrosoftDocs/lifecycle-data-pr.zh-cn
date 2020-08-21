@@ -5,21 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805757"
 name: Microsoft SQL Server 2005
-summary: >
-  Microsoft SQL Server 2005 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Compact、Developer、Embedded、Enterprise、Enterprise for 基于 Itanium 的系统、企业 X64、Express、Express、基于 Itanium 的系统的 standard、standard X64、工作组
-
-
-  > [!IMPORTANT]
-
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+summary: "Microsoft SQL Server 2005 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：精简版、开发人员版、嵌入式版、企业版、基于 Itanium 系统的企业版、企业 X64 版、Express 版、具有高级服务的 Express 版、标准版、基于 Itanium 系统的标准版、标准 X64 版、工作组\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition 发布于2007年2月19日。\n\n## <a name=\"editions\"></a>版本 \n* 紧凑型\n* 开发人员\n* 嵌入\n* 企业版\n* 面向基于 Itanium 的系统的企业版\n* Enterprise X64\n* Express\n* 具有高级服务的 Express\n* Standard\n* 基于 Itanium 的系统的标准\n* Standard X64\n* 基"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition 于 2007 年 2 月 19 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 精简版\n* 开发人员版\n* Embedded\n* 企业版\n* 基于 Itanium 系统的企业版\n* 企业版 X64\n* Express\n* 附带高级服务的速成版\n* 标准\n* 用于基于 Itanium 系统的标准版\n* 标准 X64 版\n* 工作组"

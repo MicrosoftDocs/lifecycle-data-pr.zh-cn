@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805885"
 name: Microsoft Identity Integration Server 2003
-summary: "Microsoft Identity Integration Server 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本：企业版\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n"
+summary: "Microsoft Identity Integration Server 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - m365
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/26/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 信息](/windows-server/)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 信息](/windows-server/)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版"

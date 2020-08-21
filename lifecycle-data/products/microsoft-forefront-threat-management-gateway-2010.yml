@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront 威胁管理网关2010
-  description: Microsoft Forefront 威胁管理网关2010遵循固定生命周期策略。
+  title: Microsoft Forefront Threat Management Gateway 2010
+  description: Microsoft Forefront Threat Management Gateway 2010 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806209"
-name: Microsoft Forefront 威胁管理网关2010
-summary: >
-  Microsoft Forefront 威胁管理网关2010遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Enterprise、Standard
-
-
-  > [!IMPORTANT]
-
-  > 支持已结束。 请参阅下面的迁移指南。
+name: Microsoft Forefront Threat Management Gateway 2010
+summary: "Microsoft Forefront Threat Management Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业，标准\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - office
 policyType: fixed
@@ -37,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准"

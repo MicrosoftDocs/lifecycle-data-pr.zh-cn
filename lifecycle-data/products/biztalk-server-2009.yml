@@ -5,21 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806483"
 name: BizTalk Server 2009
-summary: >
-  BizTalk Server 2009 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Branch、Developer、Enterprise、Standard
-
-
-  > [!IMPORTANT]
-
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+summary: "BizTalk Server 2009 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：分支版、开发人员版、企业版、标准版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [版本信息](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 树枝\n* 开发人员\n* 企业版\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [版本信息](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 分支版\n* 开发人员版\n* 企业版\n* 标准"

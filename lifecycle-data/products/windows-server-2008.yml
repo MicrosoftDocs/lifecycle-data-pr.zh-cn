@@ -5,21 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806437"
 name: Windows Server 2008
-summary: >
-  Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Datacenter、Datacenter （无 Hyper-v）、Enterprise、Enterprise （无 Hyper-v）、基于 Itanium 的系统的基础、Standard、Standard、Standard （无 Hyper-v）、Web
-
-
-  > [!IMPORTANT]
-
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+summary: "Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Datacenter，Datacenter（无 Hyper-V），企业版，企业版（无 Hyper-V），用于基于 Itanium 的系统，基础版，标准版，标准版（无 Hyper-V），Web 版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n* [扩展安全更新程序（ESU）](/lifecycle/faq/extended-security-updates)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 扩展安全更新（ESU）可通过此产品版本的数据中心、标准版、企业版和嵌入式版的特定批量许可计划获取，最多可在支持结束后增加三年时间。 请联系你的 Microsoft 合作伙伴或客户团队以了解详细信息。 \n\n发布-------------------------------开始日期----结束日期\n\n扩展安全更新年 3---01/11/2022---01/10/2023\n\n扩展安全更新第2年---01/12/2021---01/11/2022\n\n扩展安全更新第1年---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation 发布于5月21日（2009）\n\n## <a name=\"editions\"></a>版本 \n* 数据中心\n* 不带 Hyper-v 的数据中心\n* 企业版\n* 企业版（无 Hyper-v）\n* 对于基于 Itanium 的系统\n* 知识\n* Standard\n* Standard （无 Hyper-v）\n* Web"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n* [扩展安全更新计划 (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 扩展安全更新 (ESU) 可通过此产品版本的 Datacenter 版、标准版、企业版和嵌入式版本的特定批量许可计划获得，最多可在支持结束后使用三年。 请联系您的 Microsoft 合作伙伴或客户团队以了解更多信息。 \n\n发布-------------------------------开始日期----结束日期\n\n扩展安全更新 3 年---01/11/2022---01/10/2023\n\n扩展安全更新第 2 年---2021 年 1 月 11 日---2022 年 1 月 11 日\n\n扩展安全更新第 1 年---2020 年 1 月 14 日---2021 年 1 月 12 日\n> [!NOTE]\n> Windows Server 2008 基础版已于 2009 年 5 月 21 日发布\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* Datacenter (无 Hyper-V)\n* 企业版\n* 无 Hyper-V 的企业\n* 用于基于 Itanium 的系统\n* Foundation 版\n* 标准\n* 无 Hyper-V 的标准\n* Web"

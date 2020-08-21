@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Small Business Server 2008
-  description: Windows 小型企业服务器2008遵循固定生命周期策略。
+  description: Windows Small Business Server 2008 遵循已修复生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805718"
 name: Windows Small Business Server 2008
-summary: "Windows 小型企业服务器2008遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本： Premium、Standard\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n\n此产品包的支持日期由其各个组件产品的各个生命周期决定。 请查看各个组件产品的生命周期以确定其支持长度。\n"
+summary: "Windows Small Business Server 2008 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：高级， 标准\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n\n此产品包的支持日期由其单个组件产品的各自生命周期决定。 请检查单个组件产品的生命周期，以确定其支持期限。\n"
 products:
 - windows
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2008
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>版本 \n* 高级\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>版本 \n* 高级\n* 标准"

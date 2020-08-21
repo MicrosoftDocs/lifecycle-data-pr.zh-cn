@@ -5,21 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805712"
 name: Windows XP
-summary: >
-  Windows XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：主页、专业版、专业版的嵌入式系统、初学者
-
-
-  > [!IMPORTANT]
-
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+summary: "Windows XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：家庭版、专业版、嵌入式系统专业版、入门版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - windows
 policyType: fixed
@@ -43,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 主页\n* 专业\n* 适用于嵌入式系统的专业人员\n* 启动器"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* 专业\n* 嵌入系统专业版\n* 入门版"

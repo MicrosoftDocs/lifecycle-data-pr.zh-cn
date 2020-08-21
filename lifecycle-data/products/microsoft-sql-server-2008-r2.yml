@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2008 R2
-  description: Microsoft SQL Server 2008 R2 遵循固定生命周期策略。
+  description: Microsoft SQL Server 2008 R 遵循已修复生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805751"
 name: Microsoft SQL Server 2008 R2
-summary: >+
-  Microsoft SQL Server 2008 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：数据中心、开发人员、企业版、Express、速成版、高级服务、嵌入式系统的 Standard、standard、Standard Edition、小型企业、Web、工作组
-
+summary: "Microsoft SQL Server 2008 R2 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：数据中心版、开发人员版、企业版、Express 版、具有高级服务的 Express 版、嵌入式系统版、标准版、小型企业标准版、Web、工作组\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [SQL Server 支持选项结束](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 和 Windows Server 2008 结束支持选项](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [扩展安全更新程序（ESU）](/lifecycle/faq/extended-security-updates)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 扩展安全更新（ESU）可用于此产品的数据中心、标准版、企业版和嵌入式版，最多可在支持结束后增加三年。\n> [!NOTE]\n> 对于仅限 IA64，SP2 将在7/9/2019 之前受支持。 有关详细信息，请参阅 SQL Release Services 博客。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心\n* 开发人员\n* 企业版\n* Express\n* 具有高级服务的 Express\n* 对于嵌入式系统\n* Standard\n* 适用于小型企业的 Standard Edition\n* Web\n* 基"
+content: "\n## <a name=\"links\"></a>链接 \n* [SQL Server 终止支持选项](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 和 Windows Server 2008 终止支持选项](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [扩展安全更新计划 (ESU)](/lifecycle/faq/extended-security-updates)\n* [服务包策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 扩展安全更新 (ESU) 适用于本产品的数据中心、标准版、企业版和嵌入式版本，最多可在支持结束后使用三年。\n> [!NOTE]\n> 仅 IA64 的 SP2 支持将持续到 2019 年 7 月 9 日。 有关详细信息，请参阅 SQL 发布服务博客。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 开发人员版\n* 企业版\n* Express\n* 附带高级服务的速成版\n* 嵌入式系统版\n* 标准\n* 小型企业标准版\n* Web\n* 工作组"

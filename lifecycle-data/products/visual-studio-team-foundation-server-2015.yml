@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ff7e78930b60209ffb1bee2ba4da54aa6504027
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849582"
 name: Visual Studio Team Foundation Server 2015
-summary: >+
-  Visual Studio Team Foundation Server 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： All
-
+summary: "Visual Studio Team Foundation Server 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：全部\n\n"
 products:
 - vs
 policyType: fixed
@@ -33,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [产品信息-Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部"
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [产品信息 - Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部"

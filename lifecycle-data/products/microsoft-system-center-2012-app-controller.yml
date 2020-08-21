@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 应用程序控制器
+  title: Microsoft System Center 2012 App Controller
   description: Microsoft System Center 2012 App Controller 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849328"
-name: Microsoft System Center 2012 应用程序控制器
-summary: >+
-  Microsoft System Center 2012 App Controller 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+name: Microsoft System Center 2012 App Controller
+summary: "Microsoft System Center 2012 App Controller 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - msc
 policyType: fixed
@@ -28,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [系统中心信息](/system-center/#pivot=components&panel=components-all)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 由组件组成： Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager 服务管理自动化 Virtual Machine Manager 服务提供程序基础"
+content: "\n## <a name=\"links\"></a>链接 \n* [System Center 信息](/system-center/#pivot=components&panel=components-all)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 由以下组件组成：Configuration Manager，Data Protection Manager，Operations Manager，Orchestrator Service Manager，Service Management，Automation Virtual Machine Manager，Service Provider Foundation"

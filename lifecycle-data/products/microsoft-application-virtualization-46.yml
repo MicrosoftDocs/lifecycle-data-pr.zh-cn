@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 4。6
+  title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806286"
-name: Microsoft Application Virtualization 4。6
-summary: >+
-  Microsoft Application Virtualization 4.6 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：针对远程桌面服务，用于 Windows 桌面，Sequencer
-
+name: Microsoft Application Virtualization 4.6
+summary: "Microsoft Application Virtualization 4.6 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：远程桌面服务、Windows 桌面、Sequencer\n\n"
 products:
 - windows
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 app-v 4.6 客户端利用 App-v 4.5 服务器，在与受支持的 App-v 4.6 客户端配合使用时，app-v 4.5 服务器将根据 App-v 4.6 的生命周期日期继续受支持。\n\n## <a name=\"editions\"></a>版本 \n* 对于远程桌面服务\n* 对于 Windows 桌面\n* Softgrid"
+content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。\n\n## <a name=\"editions\"></a>版本 \n* 适用于远程桌面服务\n* 适用于 Windows 桌面\n* Sequencer"

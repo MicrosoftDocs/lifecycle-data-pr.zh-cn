@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 36bad214333805bfa18d06a194e9a5748a70baa1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806193"
 name: Microsoft Office Project 2007
-summary: >+
-  Microsoft Office Project 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本： Professional、Standard
-
+summary: "Microsoft Office Project 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：专业，标准\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/office/troubleshoot/support/office-2007-not-support)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 专业\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/office/troubleshoot/support/office-2007-not-support)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 专业\n* 标准"
