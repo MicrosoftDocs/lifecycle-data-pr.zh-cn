@@ -2,19 +2,19 @@
 metadata:
   title: Excel 2010
   description: Excel 2010 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/24/2020
+  ms.openlocfilehash: bc8805039d86091798248251f13a1af772825198
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806333"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908462"
 name: Excel 2010
 summary: >+
-  Excel 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Excel 2010 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本：家庭和学生（标准）
+  这适用于以下版本：家庭和学生、移动、标准
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Home and Student \n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 家庭版和学生版\n* 移动\n* 标准"
