@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 201 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows Server 2012 遵循固定生命周期策略。
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849570"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906942"
 name: Windows Server 2012
-summary: "Windows Server 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：数据中心版、协作版、嵌入式系统版、Foundation 版、标准版\n\n"
+summary: >+
+  Windows Server 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：数据中心，基础，外部连接器，嵌入式系统，基础，标准
+
 products:
 - windows
 policyType: fixed
@@ -22,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-overview)\n* [产品信息](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。 Windows Server Essentials 于 2013 年 1 月 2 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 写作版\n* 嵌入式系统版\n* Foundation 版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-overview)\n* [产品信息](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。 Windows Server Essentials 于 2013 年 1 月 2 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 写作版\n* 外部连接器\n* 嵌入式系统版\n* Foundation 版\n* 标准"

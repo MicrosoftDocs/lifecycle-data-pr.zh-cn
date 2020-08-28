@@ -2,15 +2,20 @@
 metadata:
   title: Microsoft Office 2013
   description: Microsoft Office 2013 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849557"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905236"
 name: Microsoft Office 2013
-summary: "Microsoft Office 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Home and Business 版、Home and Student 版、专业版、专业增强版、专业增强版家用许可计划、标准版、Web Apps Server 版\n\n"
+summary: >+
+  Microsoft Office 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：家庭和企业，家庭和学生，多语言包，专业，专业增强，专业增强版家用许可计划，标准，Web Apps Server
+
 products:
 - office
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 不适用于 Web Apps Server 版。 \n\n## <a name=\"editions\"></a>版本 \n* Home and Business\n* 家庭版和学生版\n* 专业\n* Professional Plus\n* 专业增强家庭使用计划\n* 标准\n* Web Apps Server 版"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 不适用于 Web Apps Server 版。 \n\n## <a name=\"editions\"></a>版本 \n* Home and Business\n* 家庭版和学生版\n* 多语言包\n* 专业\n* Professional Plus\n* 专业增强家庭使用计划\n* 标准\n* Web Apps Server 版"
