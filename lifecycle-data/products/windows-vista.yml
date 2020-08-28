@@ -2,15 +2,24 @@
 metadata:
   title: Windows Vista
   description: Windows Vista 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805714"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903076"
 name: Windows Vista
-summary: "Windows Vista 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商业，商业 N，企业，企业 X64，家庭普通，家庭普通 64 位，家庭普通 N，家庭普通 N 64 位，家庭高级，家庭高级 64 位，入门，旗舰，旗舰 64 位\n\n> [!IMPORTANT]\n> 此产品的支持已结束，请参阅下面的迁移信息。\n"
+summary: >
+  Windows Vista 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：商业，商业 N，商业 N 64 位，企业，企业 X64，家庭普通，家庭普通 64 位，家庭普通 N，家庭普通 N 64 位，家庭高级，家庭高级 64 位，入门，旗舰，旗舰 64 位
+
+
+  > [!IMPORTANT]
+
+  > 此产品的支持已结束，请参阅下面的迁移信息。
 products:
 - windows
 policyType: fixed
@@ -28,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升级和迁移注意事项](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* 商业版 N\n* 企业版\n* 企业版 X64\n* 家庭普通\n* 家庭普通 64 位\n* 家庭普通版 N\n* 家庭普通版 N 64 位\n* 家庭高级版\n* 家庭高级 64 位\n* 入门版\n* Ultimate\n* 旗舰版 64 位"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升级和迁移注意事项](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* 商业版 N\n* 商业 N 64 位\n* 企业版\n* 企业版 X64\n* 家庭普通\n* 家庭普通 64 位\n* 家庭普通版 N\n* 家庭普通版 N 64 位\n* 家庭高级版\n* 家庭高级 64 位\n* 入门版\n* Ultimate\n* 旗舰版 64 位"

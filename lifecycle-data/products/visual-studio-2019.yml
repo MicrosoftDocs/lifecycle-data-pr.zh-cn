@@ -1,16 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Visual Studio 2019 遵循已修复生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Visual Studio 2019 遵循固定生命周期策略。
+  ms.date: 08/21/2020
+  ms.openlocfilehash: d5638d558c441faed42d3fdcfd2e5e9b8a89d2a5
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867939"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906868"
 name: Visual Studio 2019
-summary: "Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Agents、生成工具、社区、企业、Mac、IntelliTrace 独立收集器、性能工具、专业、远程工具、团队资源管理器、Visual C++ 可再发行程序包\n\n"
+summary: >+
+  Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：代理、生成工具、社区、企业、ESGH、Mac、IntelliTrace 独立收集器、性能工具、专业、PSGH、PSM、远程工具、团队资源管理器、Visual C++ 可再发行版
+
 products:
 - vs
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [服务信息](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* 远程工具\n* 团队资源管理器\n* Visual C++ 可再发行程序包"
+content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [服务信息](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* ESGH\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* PSGH\n* PSM\n* 远程工具\n* 团队资源管理器\n* Visual C++ 可再发行程序包"

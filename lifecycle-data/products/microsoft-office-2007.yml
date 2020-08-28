@@ -2,15 +2,20 @@
 metadata:
   title: Microsoft Office 2007
   description: Microsoft Office 2007 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: c0763a56b447d205c916b2580626e636114ee67f
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805872"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904718"
 name: Microsoft Office 2007
-summary: "Microsoft Office 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：普通，企业，Home and Student，专业，专业增强，小型企业，标准，旗舰\n\n"
+summary: >+
+  Microsoft Office 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：基础，企业，家庭和学生，多语言包，专业，专业增强，小企业，标准，旗舰
+
 products:
 - office
 policyType: fixed
@@ -31,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 企业版\n* 家庭版和学生版\n* 专业\n* Professional Plus\n* 小型企业版\n* 标准\n* Ultimate"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 企业版\n* 家庭版和学生版\n* 多语言包\n* 专业\n* Professional Plus\n* 小型企业版\n* 标准\n* Ultimate"

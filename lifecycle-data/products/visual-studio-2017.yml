@@ -2,15 +2,20 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867941"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907093"
 name: Visual Studio 2017
-summary: "Visual Studio 2017 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Agents、生成工具、社区、企业、反馈客户端、Mac、IntelliTrace 独立收集器、性能工具、专业、远程工具、Team Explorer、Test Professional、Visual C++ 可再发行程序包\n\n"
+summary: >+
+  Visual Studio 2017 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：代理、生成工具、社区、企业、ESM、反馈客户端、Mac、IntelliTrace 独立收集器、性能工具、专业、PSM、远程工具、Team Explorer、Test Professional、Visual C++ 可再发行版
+
 products:
 - vs
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [服务信息](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* 反馈客户端\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* 远程工具\n* 团队资源管理器\n* 专业测试工具版\n* Visual C++ 可再发行程序包"
+content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [服务信息](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* ESM\n* 反馈客户端\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* PSM\n* 远程工具\n* 团队资源管理器\n* 专业测试工具版\n* Visual C++ 可再发行程序包"
