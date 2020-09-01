@@ -2,19 +2,20 @@
 metadata:
   title: Publisher 2010
   description: 发布者2010遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: edb6c6caacc0e7d246a043d454934fe19b72fa52
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 73037ae31d902bde1b7d7f2a41fe29a4f4c101cd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805588"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926226"
 name: Publisher 2010
 summary: >+
-  发布者2010遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  发布者2010遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本： Standard
+  适用于以下版本：标准
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 标准"
