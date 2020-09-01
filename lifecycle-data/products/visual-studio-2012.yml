@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
+  ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849313"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937474"
 name: Visual Studio 2012
 summary: "Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Agents，Community 2013，Express for Web，Express for Windows 8，Express for Windows Desktop，IntelliTrace Collector，Microsoft Azure 工具，高级，专业，远程工具，Shell（集成），Shell（独立），SQL Server 数据工具，Team Explorer，Test Professional 2013，Ultimate，Visual C++ 可再发行程序包，Web 工具扩展\n\n"
 products:
