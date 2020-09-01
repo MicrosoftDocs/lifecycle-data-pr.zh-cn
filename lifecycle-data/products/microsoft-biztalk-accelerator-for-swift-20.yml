@@ -2,19 +2,20 @@
 metadata:
   title: 适用于 SWIFT 2.0 的 Microsoft BizTalk 加速器
   description: 适用于 SWIFT 2.0 的 Microsoft BizTalk 加速器遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806273"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934847"
 name: 适用于 SWIFT 2.0 的 Microsoft BizTalk 加速器
 summary: >+
-  适用于 SWIFT 2.0 的 Microsoft BizTalk 加速器遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  适用于 SWIFT 2.0 的 Microsoft BizTalk 加速器遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本：企业版
+  适用于以下版本：企业版
 
 products:
 - microsoft-servers
