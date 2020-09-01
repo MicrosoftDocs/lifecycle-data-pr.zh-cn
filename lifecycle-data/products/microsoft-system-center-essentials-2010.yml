@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft System Center Essentials 2010
   description: Microsoft System Center Essentials 2010 遵循固定生命周期策略。
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 469c101b597227f04b8e412e71b888037fc38577
-  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
+  ms.date: 09/01/2020
+  keywords: All applicable,wSQL
+  ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906238"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938177"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  Microsoft System Center Essentials 2010 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+  Microsoft System Center Essentials 2010 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本：全部适用的 wSQL
+  这适用于以下版本：所有适用的 wSQL
 
 products:
 - msc

@@ -2,13 +2,14 @@
 metadata:
   title: Windows Storage Server 2008
   description: Windows Storage Server 2008 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
+  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805549"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939028"
 name: Windows Storage Server 2008
 summary: "Windows Storage Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：普通，普通 32 位，普通 64 位，普通嵌入式，普通嵌入式 32 位，企业，企业嵌入式，标准，标准嵌入式，工作组\n\n> [!IMPORTANT]\n> 此产品的支持已终止。 有关迁移指南，请参阅下文。\n"
 products:

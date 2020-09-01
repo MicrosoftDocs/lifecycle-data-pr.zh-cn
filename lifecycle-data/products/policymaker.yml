@@ -2,19 +2,20 @@
 metadata:
   title: PolicyMaker
   description: PolicyMaker 遵循固定生命周期策略。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
+  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903869"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938029"
 name: PolicyMaker
 summary: >+
-  PolicyMaker 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+  PolicyMaker 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本：应用程序安全、Outlook Edition、专业版 9.0、注册表扩展 2.0、Share Manager 1.0、软件更新 1.0、软件更新 2.0、标准 1.0、Standard 2.0
+  这适用于以下版本：应用程序安全性、Outlook Edition、专业9.0、注册表扩展2.0、共享管理器1.0、软件更新1.0、软件更新2.0、标准1.0、标准2。0
 
 products:
 - windows
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> 对本产品的支持需要在其购置条款的过程中。\n\n## <a name=\"editions\"></a>版本 \n* 应用程序安全\n* Outlook Edition\n* 专业版 9.0\n* Registry Extension 2.0\n* 共享管理器 1.0\n* 软件更新 1.0\n* 软件更新 2.0\n* 标准 1.0\n* 标准 2.0"
+content: "\n\n> [!NOTE]\n> 支持该产品时须遵守其购置条款。\n\n## <a name=\"editions\"></a>版本 \n* 应用程序安全\n* Outlook 版本\n* 职业9。0\n* 注册表扩展2。0\n* 共享管理器1。0\n* 软件更新1。0\n* 软件更新2。0\n* 标准1。0\n* 标准2。0"

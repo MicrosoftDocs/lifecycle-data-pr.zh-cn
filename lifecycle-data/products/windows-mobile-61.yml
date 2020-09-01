@@ -2,16 +2,17 @@
 metadata:
   title: Windows Mobile 6。1
   description: Windows Mobile 6.1 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Adaptation Kit,Professional,Standard
+  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805556"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939805"
 name: Windows Mobile 6。1
 summary: >
-  Windows Mobile 6.1 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Mobile 6.1 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本：适配包、专业、标准
@@ -19,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。
+  > 对该产品的支持已结束。
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 适配套件\n* 专业\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 适配套件\n* 专业\n* 标准"
