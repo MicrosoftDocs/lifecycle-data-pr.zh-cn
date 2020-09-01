@@ -2,16 +2,17 @@
 metadata:
   title: Microsoft 连接的服务框架2。5
   description: Microsoft 连接服务框架2.5 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806233"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934107"
 name: Microsoft 连接的服务框架2。5
 summary: >+
-  Microsoft 连接服务框架2.5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft 连接服务框架2.5 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本：订单处理标准业务事件2.5、服务器、服务提供商

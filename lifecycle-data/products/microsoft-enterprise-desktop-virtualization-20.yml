@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft 企业版桌面虚拟化2。0
   description: Microsoft 企业版桌面虚拟化2.0 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 003a5a0de6b6aab0b3422c53f305f9a445cc76e9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849430"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933884"
 name: Microsoft 企业版桌面虚拟化2。0
 summary: >+
-  Microsoft 企业版桌面虚拟化2.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft 企业版桌面虚拟化2.0 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本：企业版
+  适用于以下版本：企业版
 
 products:
 - windows
