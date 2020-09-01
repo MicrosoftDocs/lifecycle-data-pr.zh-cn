@@ -2,19 +2,20 @@
 metadata:
   title: GPOVault
   description: GPOVault 遵循固定生命周期策略。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
+  ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903717"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935994"
 name: GPOVault
 summary: >+
-  GPOVault 遵循 [固定生](/lifecycle/policies/fixed) 命周期策略。
+  GPOVault 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
-  这适用于以下版本：1.0、2.0、企业版 1.0、企业版 2.0
+  这适用于以下版本：1.0、2.0、Enterprise 1.0、Enterprise 2。0
 
 products:
 - windows
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> 对本产品的支持需要在其购置条款的过程中。 \n\n## <a name=\"editions\"></a>版本 \n* 1.0\n* 2.0\n* 企业版 1.0\n* 企业版 2.0"
+content: "\n\n> [!NOTE]\n> 支持该产品时须遵守其购置条款。 \n\n## <a name=\"editions\"></a>版本 \n* 1.0\n* 2.0\n* 企业1。0\n* 企业2。0"

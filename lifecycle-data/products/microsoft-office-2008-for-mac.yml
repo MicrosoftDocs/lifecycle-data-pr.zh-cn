@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2008 for Mac
   description: Microsoft Office 2008 Mac 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 708930d55e4c8d9df663189a495412a170cef7d8
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805870"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936734"
 name: Microsoft Office 2008 for Mac
 summary: "Microsoft Office 2008 Mac 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商务，Home and Student，特别媒体版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
