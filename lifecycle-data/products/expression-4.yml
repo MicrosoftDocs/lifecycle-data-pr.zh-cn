@@ -2,16 +2,17 @@
 metadata:
   title: 表达式4
   description: 表达式4遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805647"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930851"
 name: 表达式4
 summary: >+
-  表达式4遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  表达式4遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本： Design、编码器、Studio 旗舰版、Web
