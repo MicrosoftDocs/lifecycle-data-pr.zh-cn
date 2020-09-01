@@ -2,16 +2,17 @@
 metadata:
   title: 虚拟服务器2005
   description: 虚拟服务器2005遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805737"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937881"
 name: 虚拟服务器2005
 summary: >+
-  虚拟服务器2005遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  虚拟服务器2005遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本： Enterprise、Management Pack、Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 管理包\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 管理包\n* 标准"

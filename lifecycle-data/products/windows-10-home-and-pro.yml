@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 Home 和 Pro
   description: Windows 10 Home 和 Pro 遵循现代生命周期策略。
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/01/2020
+  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
+  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879115"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938362"
 name: Windows 10 Home 和 Pro
 summary: "Windows 10 Home 和 Pro 遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：家庭版、专业版、专业教育版、专业工作站版、专业版\n\n> [!IMPORTANT]\n> 2025 年 10 月 14 日前，Microsoft 将继续支持至少一个 Windows 10 半年频道。\n"
 products:

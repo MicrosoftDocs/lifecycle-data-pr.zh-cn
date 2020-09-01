@@ -2,15 +2,16 @@
 metadata:
   title: 虚拟服务器 2005 R2
   description: 虚拟服务器 2005 R2 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806099"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937918"
 name: 虚拟服务器 2005 R2
-summary: "虚拟服务器 2005 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本： Enterprise、Standard\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n"
+summary: "虚拟服务器 2005 R2 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。\n\n适用于以下版本：企业，标准\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准"
