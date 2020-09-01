@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Security and Acceleration Server 2004
-  description: Microsoft Internet Security and Acceleration Server 2004 遵循固定生命周期策略。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: Microsoft Internet 安全性和加速服务器2004
+  description: Microsoft Internet 安全性和加速服务器2004遵循固定生命周期策略。
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903861"
-name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 遵循 [固定生命](/lifecycle/policies/fixed) 周期策略。\n\n这适用于以下版本：企业版、标准版\n\n> [!IMPORTANT]\n> 已终于对此产品的支持。 \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933478"
+name: Microsoft Internet 安全性和加速服务器2004
+summary: "Microsoft Internet 安全性和加速服务器2004遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。\n\n适用于以下版本：企业，标准\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [迁移指南](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [迁移指南](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准"
