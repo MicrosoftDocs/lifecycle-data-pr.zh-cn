@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8
+  description: Windows Phone 8 遵循固定生命周期策略。
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940785"
+name: Windows Phone 8
+summary: >+
+  Windows Phone 8 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/14/2012
+  end: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 12/14/2012
+content: "\n\n> [!NOTE]\n> Microsoft 将在生命周期开始日期后至少 36 个月内为操作系统提供更新，包括安全更新。 这些更新是增量更新，即每个更新在之前的更新基础之上生成。 客户需要安装每个更新才能得到支持。 这些增量更新的分发可能由你购买手机的移动运营商或手机制造商控制，而安装将要求你的手机具有任何以前的更新。 更新可用性还因国家、地区和硬件功能而异。"
