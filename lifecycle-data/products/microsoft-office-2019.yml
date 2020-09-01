@@ -2,16 +2,17 @@
 metadata:
   title: Microsoft Office 2019
   description: Microsoft Office 2019 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 76252d1d17d478ee3ac5717a68cc8887de606d69
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
+  ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867991"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930370"
 name: Microsoft Office 2019
 summary: >+
-  Microsoft Office 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Office 2019 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本：家庭和公司、家庭和学生、个人、专业、专业教育版、专业版 Plus、Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Home and Business \n* Home and Student \n* 个人\n* 专业\n* Professional Academic\n* Professional Plus\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Home and Business\n* 家庭版和学生版\n* 个人\n* 专业\n* 专业学术\n* 专业增强\n* 标准"

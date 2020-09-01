@@ -2,16 +2,17 @@
 metadata:
   title: 表达式3
   description: 表达式3遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805646"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930740"
 name: 表达式3
 summary: >+
-  表达式3遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  表达式3遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
 
 
   这适用于以下版本： Design、编码器、Studio、Web
