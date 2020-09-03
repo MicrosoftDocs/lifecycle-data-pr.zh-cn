@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f760e7be272e419aebd422e96136ef24fff52d9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849469"
 name: Dynamics GP 2013 R2
 summary: >+
-  Dynamics GP 2013 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Dynamics GP 2013 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

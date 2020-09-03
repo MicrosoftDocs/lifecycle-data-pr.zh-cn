@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 用于财务和运营的 Dynamics 365
-  description: 用于财务和运营的 Dynamics 365 遵循新式生命周期策略。
+  title: Dynamics 365 for Finance and Operations
+  description: Dynamics 365 for Finance and Operations 遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849384"
-name: 用于财务和运营的 Dynamics 365
+name: Dynamics 365 for Finance and Operations
 summary: >+
-  用于财务和运营的 Dynamics 365 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Dynamics 365 for Finance and Operations 遵循现代[](/lifecycle/policies/modern)生命周期策略。
 
 
-  这适用于以下版本：企业版
+  适用于以下版本：企业版
 
 products:
 - dynamics

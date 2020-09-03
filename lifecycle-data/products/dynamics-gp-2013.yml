@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: df333e9c6053a99d607890a0874a35f0a1d99781
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849470"
 name: Dynamics GP 2013
 summary: >+
-  Dynamics GP 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Dynamics GP 2013 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2013
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>链接 \n* [其他信息和迁移指南](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [产品信息](/dynamics-gp/)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [其他信息和迁移指南](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [产品信息](/dynamics-gp/)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"
