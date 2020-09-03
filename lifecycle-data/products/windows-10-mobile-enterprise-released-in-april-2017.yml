@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2017年4月发布的 Windows 10 移动版企业版
-  description: 2017年4月发布的 Windows 10 移动版企业遵循固定生命周期策略。
+  title: Windows 10 移动企业版，2017 年 4 月发布
+  description: 2017 年 4 月发布的 Windows 10 Mobile Enterprise 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: e5723a855fe7570c41c67907aa258410c83c8ab6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867926"
-name: 2017年4月发布的 Windows 10 移动版企业版
-summary: "2017年4月发布的 Windows 10 移动版企业遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n"
+name: Windows 10 移动企业版，2017 年 4 月发布
+summary: "2017 年 4 月发布的 Windows 10 Mobile Enterprise 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 04/25/2017
   endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [设备 OS 生命周期常见问题解答](/lifecycle/faq/device-operating-systems)\n* [Windows 10 移动版支持在2019年12月10日结束](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>链接 \n* [设备操作系统生命周期常见问题解答](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile 于 2019 年 12 月 10 日终止支持](/lifecycle/announcements/windows-10-mobile-end-of-support)"

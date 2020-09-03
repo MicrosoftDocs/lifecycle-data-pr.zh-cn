@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 适用于主机系统2.0 的 Microsoft BizTalk 适配器
-  description: 适用于主机系统2.0 的 Microsoft BizTalk 适配器遵循固定生命周期策略。
+  title: Microsoft BizTalk Adapters for Host Systems 2.0
+  description: Microsoft BizTalk Adapters for Host Systems 2.0 遵循固定生命周期策略。
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893488"
-name: 适用于主机系统2.0 的 Microsoft BizTalk 适配器
-summary: >+
-  适用于主机系统2.0 的 Microsoft BizTalk 适配器遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
-  这适用于以下版本：开发人员、标准
-
+name: Microsoft BizTalk Adapters for Host Systems 2.0
+summary: "Microsoft BizTalk Adapters for Host Systems 2.0 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：开发人员版、标准版\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 标准"
