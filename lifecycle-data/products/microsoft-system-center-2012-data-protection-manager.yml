@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849326"
 name: Microsoft System Center 2012 Data Protection Manager
 summary: >+
-  Microsoft System Center 2012 Data Protection Manager 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft System Center 2012 Data Protection Manager 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [System Center 文档](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)\n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [System Center 文档](/system-center/#pivot=components&panel=components-all)\n* [System Center 资源](https://www.microsoft.com/system-center/resources)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

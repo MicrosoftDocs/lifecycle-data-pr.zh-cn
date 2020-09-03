@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 手持式6。5
-  description: Windows Embedded 手持式6.5 遵循固定生命周期策略。
+  title: Windows Embedded Handheld 6.5
+  description: Windows Embedded Handheld 6.5 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849575"
-name: Windows Embedded 手持式6。5
+name: Windows Embedded Handheld 6.5
 summary: >
-  Windows Embedded 手持式6.5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Embedded Handheld 6.5 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/17/2010
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [适用于 IoT 文档的 Windows](/windows/iot-core/)"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows for IoT 文档](/windows/iot-core/)"

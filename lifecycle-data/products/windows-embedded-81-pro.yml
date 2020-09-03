@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849578"
 name: Windows Embedded 8.1 Pro
 summary: >+
-  Windows Embedded 8.1 Pro 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Embedded 8.1 Pro 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-Windows 产品](/lifecycle/faq/windows)\n* [Windows Embedded 8.1 常见问题](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows Embedded 8.1 常见问答](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"

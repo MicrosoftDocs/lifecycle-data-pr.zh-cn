@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849415"
 name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  SharePoint Designer 2013 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：设计器
+  适用于以下版本：设计师版
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>链接 \n* [支持详细信息](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> 为了确保与 SharePoint Server 2016 兼容性，将对 Microsoft SharePoint Designer 2013 的支持进行扩展。\n\n## <a name=\"editions\"></a>版本 \n* 设计器"
+content: "\n## <a name=\"links\"></a>链接 \n* [支持详细信息](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> 为确保与 SharePoint Server 2016 兼容，对 Microsoft SharePoint Designer 2013 的支持进行了扩展，如图所示。\n\n## <a name=\"editions\"></a>版本 \n* 设计器"
