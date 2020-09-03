@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Operations Manager 2005 的 Engyro 产品连接器
-  description: Microsoft Operations Manager 2005 的 Engyro 产品连接器遵循固定生命周期策略。
+  title: Engyro Product Connectors for Microsoft Operations Manager 2005
+  description: Engyro Product Connectors for Microsoft Operations Manager 2005 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806335"
-name: Microsoft Operations Manager 2005 的 Engyro 产品连接器
-summary: >+
-  Microsoft Operations Manager 2005 的 Engyro 产品连接器遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
-
+name: Engyro Product Connectors for Microsoft Operations Manager 2005
+summary: "Engyro Product Connectors for Microsoft Operations Manager 2005 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
 products:
 - msc
 policyType: fixed

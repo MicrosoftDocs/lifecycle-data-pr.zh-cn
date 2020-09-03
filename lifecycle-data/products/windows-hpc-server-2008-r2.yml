@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805565"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+  > 对该产品的支持已结束。 请参阅下面的迁移指南。
 products:
 - windows
 policyType: fixed

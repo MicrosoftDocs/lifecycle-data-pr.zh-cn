@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806068"
 name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows MultiPoint Server 2010 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：学术、Standard
+  这适用于以下版本：学术版、标准版
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [其他迁移指南](/windows-server/get-started/installation-and-upgrade)\n* [产品信息](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>版本 \n* Academic\n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [其他迁移指南](/windows-server/get-started/installation-and-upgrade)\n* [产品信息](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>版本 \n* 学院版\n* 标准"

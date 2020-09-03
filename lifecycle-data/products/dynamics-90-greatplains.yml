@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805661"
 name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Dynamics 9.0 GreatPlains 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。
+  > 对该产品的支持已结束。
 products:
 - dynamics
 policyType: fixed

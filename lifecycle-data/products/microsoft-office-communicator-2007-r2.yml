@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806560"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n这适用于以下版本：所有适用的电话\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 请参阅迁移指南。 \n"
+summary: "Microsoft Office Communicator 2007 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：全部适用，Phone 版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 03/19/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>版本 \n* 所有适用的\n* Phone"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 电话版"

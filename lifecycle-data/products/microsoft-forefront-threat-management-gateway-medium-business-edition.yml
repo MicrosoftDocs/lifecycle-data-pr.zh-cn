@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront 威胁管理网关（中型企业版）
-  description: Microsoft Forefront 威胁管理网关，中型企业版遵循固定生命周期策略。
+  title: Microsoft Forefront Threat Management Gateway，中型企业版
+  description: Microsoft Forefront Threat Management Gateway，Medium Business Edition 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806208"
-name: Microsoft Forefront 威胁管理网关（中型企业版）
+name: Microsoft Forefront Threat Management Gateway，中型企业版
 summary: >+
-  Microsoft Forefront 威胁管理网关，中型企业版遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Forefront Threat Management Gateway，Medium Business Edition 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本： Business
+  这适用于以下版本：商业版
 
 products:
 - office
