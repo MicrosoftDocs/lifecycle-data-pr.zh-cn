@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 3e15412772e534095db735abb6c2e51bdcc5d7b1
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893340"
 name: Microsoft Office OneNote 2003
 summary: >+
-  Microsoft Office OneNote 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Office OneNote 2003 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2003
   endDate: 07/26/2005
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

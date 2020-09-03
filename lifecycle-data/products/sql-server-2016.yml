@@ -5,16 +5,16 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892748"
 name: SQL Server 2016
 summary: >+
-  SQL Server 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  SQL Server 2016 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：开发人员、企业版、企业核心版、Express、Standard、Web
+  适用于以下版本：开发人员版、企业版、企业核心版、Express、标准版、Web 版
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* 企业版\n* Enterprise Core\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 企业版\n* 企业核心\n* Express\n* 标准\n* Web"

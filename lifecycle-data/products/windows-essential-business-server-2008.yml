@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 基本业务服务器2008
-  description: Windows 基本业务服务器2008遵循固定生命周期策略。
+  title: Windows Essential Business Server 2008
+  description: Windows Essential Business Server 2008 遵循固定生命周期策略。
   ms.date: 07/30/2020
   ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878995"
-name: Windows 基本业务服务器2008
+name: Windows Essential Business Server 2008
 summary: >
-  Windows 基本业务服务器2008遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Essential Business Server 2008 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 
   > [!IMPORTANT]
 
-  > 此产品包的支持日期由其各个组件产品的各个生命周期决定。 请查看各个组件产品的生命周期以确定其支持长度。
+  > 此产品包的支持日期由其单个组件产品的各自生命周期决定。 请检查单个组件产品的生命周期，以确定其支持期限。
 products:
 - windows
 policyType: fixed

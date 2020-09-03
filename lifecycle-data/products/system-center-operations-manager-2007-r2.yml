@@ -5,12 +5,12 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892489"
 name: System Center Operations Manager 2007 R2
-summary: "System Center Operations Manager 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 请参阅下面的迁移指南。 \n"
+summary: "System Center Operations Manager 2007 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。 \n"
 products:
 - msc
 policyType: fixed

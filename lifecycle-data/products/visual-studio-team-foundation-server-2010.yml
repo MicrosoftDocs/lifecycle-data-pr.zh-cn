@@ -5,16 +5,16 @@ metadata:
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906774"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+  Visual Studio Team Foundation Server 2010 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：全部适用的外部连接器
+  适用于以下版本：所有版本、外置连接器
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure 开发机会](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 外部连接器"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 外置连接器"

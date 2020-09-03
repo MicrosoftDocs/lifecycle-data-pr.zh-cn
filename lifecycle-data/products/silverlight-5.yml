@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867970"
 name: Silverlight 5
 summary: >+
-  Silverlight 5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Silverlight 5 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>链接 \n* [Silverlight 5 将支持此处列出的浏览器通过10/12/2021，或基础浏览器的生命周期（以较短的为准）。](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight 支持结束](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft 将在结束对工具的支持之前提供最少12个月的通知。"
+content: "\n## <a name=\"links\"></a>链接 \n* [Silverlight 5 将支持此处列出的浏览器至 2021 年 10 月 12 日，或至基础浏览器的生命周期，以较短者为准。](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight 支持终止日期](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> 结束对工具的支持之前，Microsoft 将提供至少 12 个月的通知。"

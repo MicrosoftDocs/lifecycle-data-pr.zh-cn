@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 虚拟 PC 2004
-  description: 虚拟 PC 2004 遵循固定生命周期策略。
+  title: Virtual PC 2004
+  description: Virtual PC 2004 遵循固定生命周期策略。
   ms.date: 08/12/2020
   ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893266"
-name: 虚拟 PC 2004
+name: Virtual PC 2004
 summary: >
-  虚拟 PC 2004 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Virtual PC 2004 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本： Express、Standard
+  适用于以下版本：Express、标准版
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。
+  > 对该产品的支持已结束。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express 发布于2006年4月13日。\n\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Express\n* Standard"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express 于 2006 年 4 月 13 日发布。\n\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Express\n* 标准"
