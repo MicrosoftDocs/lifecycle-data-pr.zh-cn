@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid 应用程序虚拟化
-  description: SoftGrid 应用程序虚拟化遵循固定生命周期策略。
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805582"
-name: SoftGrid 应用程序虚拟化
+name: SoftGrid Application Virtualization
 summary: >
-  SoftGrid 应用程序虚拟化遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  SoftGrid Application Virtualization 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本： 4.1 for 台式机，4.2 for 台式机，适用于终端服务4。1
+  适用于以下版本：4.1 for Desktops、4.2 for Desktops、适用于终端服务 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>版本 \n* 适用于桌面的4。1\n* 适用于桌面的4。2\n* 对于终端服务4。1"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>版本 \n* 4.1 for Desktops\n* 4.2 for Desktops\n* 适用于终端服务 4.1"

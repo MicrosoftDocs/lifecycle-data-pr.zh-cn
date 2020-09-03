@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Word 2007
-  description: Microsoft Office Word 2007 遵循固定生命周期策略。
+  description: Microsoft Office Word 2007 遵循已修复的生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 6d2ad5baa468acf95d3e73915ce0969d863d5110
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805627"
 name: Microsoft Office Word 2007
 summary: >+
-  Microsoft Office Word 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Office Word 2007 遵循已修复的[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：家庭和学生（标准）
+  适用于以下版本：家庭和学生版， 标准版
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>版本 \n* Home and Student \n* Standard"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>版本 \n* 家庭版和学生版\n* 标准"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806302"
 name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
+  Internet Explorer 7 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命周期策略常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 从2016年1月12日开始，仅可用于受支持的操作系统的最新版本的 Internet Explorer 将接收技术支持和安全更新。"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命周期策略常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 从 2016 年 1 月 12 日开始，只有适用于受支持操作系统的最新版本的 Internet Explorer 才会获得技术支持和安全更新。"

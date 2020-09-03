@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806075"
@@ -14,7 +14,7 @@ summary: >
   Windows HPC Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本： Standard （无 Hyper-v）
+  这适用于以下版本：标准版，不带 Hyper-V
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>版本 \n* Standard\n* 无 Hyper-v"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>版本 \n* 标准\n* 无 Hyper-V"

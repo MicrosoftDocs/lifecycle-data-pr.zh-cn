@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806071"
 name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Mobile 2003 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：适用于 Pocket PC 的 Pocket PC、适用于智能手机的第二版软件、适用于 Smartphone 的第二版软件
+  适用于以下版本：Pocket PC、智能手机、Pocket PC 手机的第二版软件、智能手机的第二版软件
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。
+  > 对该产品的支持已结束。
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 适用于 Pocket PC\n* 对于智能手机\n* 适用于 Pocket PC Phone 的第二版软件\n* 智能手机的第二版软件"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Pocket PC 版\n* 智能手机版\n* 第二版软件 Pocket PC 版\n* 第二版软件智能手机版"

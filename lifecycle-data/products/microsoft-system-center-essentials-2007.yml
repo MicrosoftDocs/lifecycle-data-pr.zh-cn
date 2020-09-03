@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 450979ddd7953f32c7ab13fd8807a289ca930959
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806154"
 name: Microsoft System Center Essentials 2007
 summary: >
-  Microsoft System Center Essentials 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft System Center Essentials 2007 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。 请参阅下面的迁移指南。
+  > 对该产品的支持已结束。 请参阅下面的迁移指南。
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n* [迁移指南](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [迁移指南](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"

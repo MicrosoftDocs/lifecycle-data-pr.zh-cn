@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 22408e59250bdbf53a2ac31b15505a4e4cc6cd57
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806148"
 name: Microsoft System Center Virtual Machine Manager 2008 R2
 summary: >
-  Microsoft System Center Virtual Machine Manager 2008 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft System Center Virtual Machine Manager 2008 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。
+  > 对该产品的支持已结束。
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/22/2009
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

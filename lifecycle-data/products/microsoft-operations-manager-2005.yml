@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Operations Manager （MOM）2005
-  description: Microsoft Operations Manager （MOM）2005遵循固定生命周期策略。
+  title: Microsoft Operations Manager (MOM) 2005
+  description: Microsoft Operations Manager (MOM) 2005 遵循已修复的生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805615"
-name: Microsoft Operations Manager （MOM）2005
+name: Microsoft Operations Manager (MOM) 2005
 summary: >
-  Microsoft Operations Manager （MOM）2005遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Operations Manager (MOM) 2005 遵循已修复的[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：工作组
+  适用于以下版本：工作组
 
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已结束。
+  > 对该产品的支持已结束。
 products:
 - msc
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>版本 \n* 基\n\n关键字： MOM"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>版本 \n* 工作组\n\n关键字：  MOM"
