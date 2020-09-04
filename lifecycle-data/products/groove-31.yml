@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3。1
+  description: Groove 3.1 遵循固定生命周期策略。
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950817"
+name: Groove 3。1
+summary: >+
+  Groove 3.1 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+
+
+  这适用于以下版本：企业备份服务、企业数据网桥、企业中继服务器、托管管理服务、托管中继服务、Office 项目、虚拟 Office 文件共享、虚拟 Office Professional、Web Services 开发工具包
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 企业备份服务\n* 企业数据网桥\n* 企业中继服务器\n* 托管管理服务\n* 托管中继服务\n* Office 项目\n* 虚拟 Office 文件共享\n* 虚拟 Office 专业版\n* Web 服务开发工具包"
