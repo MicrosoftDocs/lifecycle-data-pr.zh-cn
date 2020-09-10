@@ -2,13 +2,14 @@
 metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805598"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001046"
 name: Software Licensing and Protection Server
 summary: "Software Licensing and Protection Server 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业版、标准版\n\n> [!IMPORTANT]\n> 由于剥离 Software Licensing and Protection Server (SLPS)，Microsoft 对 SLPS 的支持持续到 2009 年 9 月 24 日。\n"
 products:
