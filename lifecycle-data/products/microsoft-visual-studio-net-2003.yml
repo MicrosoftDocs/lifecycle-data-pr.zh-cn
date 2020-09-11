@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Visual Studio .NET 2003
   description: Microsoft Visual Studio .NET 2003 遵循固定生命周期策略。
-  ms.date: 08/21/2020
-  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.date: 08/24/2020
+  ms.openlocfilehash: 4690cc7f70d544e52cb35df99a1e23279ebf02ec
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907974"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908573"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
   Microsoft Visual Studio .NET 2003 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：企业级结构设计版、企业级开发版、J#、专业版
+  适用于以下版本：企业架构师版、企业开发人员版、J#、专业版、标准版
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业级结构设计版\n* 企业级开发版\n* J#\n* 专业"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业级结构设计版\n* 企业级开发版\n* J#\n* 专业\n* 标准"

@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft 365 Apps for enterprise
   description: Microsoft 365 Apps for enterprise 遵循现代生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/27/2020
+  ms.openlocfilehash: 3ed4daef6e0740ded4c57465bb95bc2447a2afb1
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849262"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924282"
 name: Microsoft 365 Apps for enterprise
 summary: >+
   Microsoft 365 Apps for enterprise 遵循现代[](/lifecycle/policies/modern)生命周期策略。
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>链接 \n* [Office 配置支持列表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [系统要求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [服务信息](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> 本产品以前称为 Office 365 ProPlus。"
+content: "\n## <a name=\"links\"></a>链接 \n* [Office 配置支持列表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [系统要求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [服务信息](/DeployOffice/change-management-for-office-365-clients)\n* [Microsoft 365 应用的更新历史记录](/officeupdates/update-history-microsoft365-apps-by-date)\n\n> [!NOTE]\n> 本产品以前称为 Office 365 ProPlus。"

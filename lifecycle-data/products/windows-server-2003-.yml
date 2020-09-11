@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 遵循固定生命周期策略。
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
+  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893825"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939583"
 name: 'Windows Server 2003 '
 summary: >+
   Windows Server 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/28/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>链接 \n* [准备 Windows Server 2003 计算机进行迁移](/azure/migrate/prepare-windows-server-2003-migration)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [从 Windows Server 2003 升级到 Windows Server 2008 的支持路径](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> 基于 Itanium 的系统的开始日期为 2003 年 6 月 19 日。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心（32 位 x86）\n* 数据中心 (x64)\n* 基于 Itanium 系统的数据中心\n* 企业（32 位 x86）\n* 基于 Itanium 系统的企业版\n* 企业版 X64\n* 标准（32 位 x86）\n* Web"
+content: "\n## <a name=\"links\"></a>链接 \n* [从 Windows Server 2003 升级到 Windows Server 2008 的支持路径](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [准备 Windows Server 2003 计算机进行迁移](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> 基于 Itanium 的系统的开始日期为 2003 年 6 月 19 日。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心（32 位 x86）\n* 数据中心 (x64)\n* 基于 Itanium 系统的数据中心\n* 企业（32 位 x86）\n* 基于 Itanium 系统的企业版\n* 企业版 X64\n* 标准（32 位 x86）\n* Web"

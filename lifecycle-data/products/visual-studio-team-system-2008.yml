@@ -2,16 +2,16 @@
 metadata:
   title: Visual Studio Team System 2008
   description: Visual Studio Team System 2008 遵循固定生命周期策略。
-  ms.date: 09/01/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent
-  ms.openlocfilehash: 7122905dd66fefcb18d378c99b4de213024c3a4d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/02/2020
+  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
+  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
+  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938510"
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "945286"
 name: Visual Studio Team System 2008
-summary: "Visual Studio Team System 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：全部，体系结构，数据库，开发，Team Explorer，Team Test Load Agent\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
+summary: "Visual Studio Team System 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：全部、体系结构、数据库、开发、Team Explorer、Team Test Load Agent\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [迁移指南](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 体系结构\n* 数据库\n* 开发\n* 团队资源管理器\n* Team Test Load Agent"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [迁移指南](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 体系结构\n* 数据库\n* 开发\n* 团队资源管理器\n* Team Test Load Agent\n* TFS"
