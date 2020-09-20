@@ -6,13 +6,13 @@ metadata:
   keywords: Branch,Developer,Enterprise,Standard
   ms.openlocfilehash: 1442cb807ade39555954dc0f2fba82434027cb2c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932146"
 name: BizTalk Server 2016
 summary: >+
-  BizTalk Server 2016 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  BizTalk Server 2016 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：分支版、开发人员版、企业版、标准版

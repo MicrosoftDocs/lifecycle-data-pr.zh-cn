@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Analytics
-  description: Windows Analytics 遵循新式生命周期策略。
+  description: Windows Analytics 遵循现代生命周期策略。
   ms.date: 08/11/2020
   ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
   ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/11/2020
   ms.locfileid: "887845"
 name: Windows Analytics
 summary: >
-  Windows Analytics 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Windows Analytics 遵循现代[](/lifecycle/policies/modern)生命周期策略。
 
 
 
