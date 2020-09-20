@@ -6,13 +6,13 @@ metadata:
   keywords: ''
   ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941586"
 name: SharePoint Server 2013
 summary: >+
-  SharePoint Server 2013 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  SharePoint Server 2013 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [服务信息](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> 请参阅 [产品](https://docs.microsoft.com/sharepoint/sharepoint-server) 和 [开发人员](https://developer.microsoft.com/sharepoint/docs) 文档。"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [服务信息](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> 请参阅[产品](https://docs.microsoft.com/sharepoint/sharepoint-server)和[开发人员](https://developer.microsoft.com/sharepoint/docs)文档。"

@@ -6,16 +6,16 @@ metadata:
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938954"
 name: Windows Storage Server 2016
 summary: >+
-  Windows Storage Server 2016 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Windows Storage Server 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：标准版，工作组
+  适用于以下版本：标准版、工作组版
 
 products:
 - windows

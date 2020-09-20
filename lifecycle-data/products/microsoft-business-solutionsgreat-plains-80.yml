@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 商业解决方案--强大的 Plains 8。0
-  description: Microsoft 商业解决方案--强大的 Plains 8.0 遵循固定生命周期策略。
+  title: Microsoft Business Solutions--Great Plains 8.0
+  description: Microsoft Business Solutions--Great Plains 8.0 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934662"
-name: Microsoft 商业解决方案--强大的 Plains 8。0
+name: Microsoft Business Solutions--Great Plains 8.0
 summary: >
-  Microsoft 商业解决方案--强大的 Plains 8.0 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Microsoft Business Solutions--Great Plains 8.0 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：标准
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 对此产品的支持已于2009年10月13日结束
+  > 对该产品的支持已于 2009 年 10 月 13 日终止
 products:
 - dynamics
 policyType: fixed-mainstream-only
