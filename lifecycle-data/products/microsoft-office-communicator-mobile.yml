@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d1740abcef5c843ea1c87dd287111eb7d15ec9ad
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806555"
 name: Microsoft Office Communicator Mobile
 summary: >+
-  Microsoft Office Communicator Mobile 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Office Communicator Mobile 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

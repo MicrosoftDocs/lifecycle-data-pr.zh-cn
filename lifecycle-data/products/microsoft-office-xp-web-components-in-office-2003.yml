@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 2003 中的 Microsoft Office XP Web 组件
-  description: Office 2003 中的 Microsoft Office XP Web 组件遵循组件生命周期策略。
+  title: Office 2003 中的 Microsoft Office XP Web Components
+  description: Microsoft Office XP Web Components in Office 2003 遵循组件生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805626"
-name: Office 2003 中的 Microsoft Office XP Web 组件
+name: Office 2003 中的 Microsoft Office XP Web Components
 summary: >+
-  Office 2003 中的 Microsoft Office XP Web 组件遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
+  Microsoft Office XP Web Components in Office 2003 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internet Information Services 平滑流式处理客户端1。0
-  description: Internet Information Services 光滑流式处理客户端1.0 遵循组件生命周期策略。
+  title: Internet Information Services Smooth Streaming Client 1.0
+  description: Internet Information Services Smooth Streaming Client 1.0 遵循组件生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: cff48fdf69039eed9e23b9534c01ea004fba6696
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806297"
-name: Internet Information Services 平滑流式处理客户端1。0
+name: Internet Information Services Smooth Streaming Client 1.0
 summary: >+
-  Internet Information Services 光滑流式处理客户端1.0 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
+  Internet Information Services Smooth Streaming Client 1.0 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
 
 
 products:

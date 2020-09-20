@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI Workspace 集合
-  description: Azure Power BI Workspace 集合遵循新式生命周期策略。
+  title: Azure Power BI 工作区集合
+  description: Azure Power BI 工作区集合遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849112"
-name: Azure Power BI Workspace 集合
+name: Azure Power BI 工作区集合
 summary: >
-  Azure Power BI Workspace 集合遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Azure Power BI 工作区集合客户端遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 
