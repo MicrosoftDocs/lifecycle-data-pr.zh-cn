@@ -6,12 +6,12 @@ metadata:
   keywords: Standard
   ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
   ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940784"
 name: Windows Storage Server 2003 R2
-summary: "Windows Storage Server 2003 R2 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。\n\n适用于以下版本：标准\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。\n此产品随 Windows Server 2003 Service Pack 1 一起发布。 \n"
+summary: "Windows Storage Server 2003 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：标准版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。\n此产品随 Windows Server 2003 Service Pack 1 一起提供。 \n"
 products:
 - windows
 policyType: fixed
