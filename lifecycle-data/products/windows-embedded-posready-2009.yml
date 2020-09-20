@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806083"
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2009
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows Embedded 2009 的支持结束](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [适用于 IoT 的 Windows](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+content: "\n## <a name=\"links\"></a>链接 \n* [对 Windows Embedded 2009 的支持已终止](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [适用于 IoT 的 Windows](https://www.microsoft.com/windowsforbusiness/windows-iot)"

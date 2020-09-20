@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 机器学习服务器（Microsoft R Server）
-  description: Microsoft 机器学习服务器（Microsoft R Server）遵循新式生命周期策略。
+  title: Microsoft Machine Learning Server (Microsoft R Server)
+  description: Microsoft Machine Learning Server (Microsoft R Server) 遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849226"
-name: Microsoft 机器学习服务器（Microsoft R Server）
+name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
-  Microsoft 机器学习服务器（Microsoft R Server）遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Microsoft Machine Learning Server (Microsoft R Server) 遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 products:

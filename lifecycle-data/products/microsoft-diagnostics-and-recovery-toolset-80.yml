@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 诊断和恢复工具集8。0
-  description: Microsoft 诊断和恢复工具集8.0 遵循固定生命周期策略。
+  title: Microsoft 诊断和恢复工具集 8.0
+  description: Microsoft Diagnostics and Recovery Toolset 8.0 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 38a98f28c3d9ef2fd1844a3083b3a6fcb52e1b5b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849244"
-name: Microsoft 诊断和恢复工具集8。0
+name: Microsoft 诊断和恢复工具集 8.0
 summary: >+
-  Microsoft 诊断和恢复工具集8.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Diagnostics and Recovery Toolset 8.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [Service pack 策略](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)"

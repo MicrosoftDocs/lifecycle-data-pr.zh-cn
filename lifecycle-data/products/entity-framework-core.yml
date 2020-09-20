@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Entity Framework Core
-  description: Entity Framework Core 遵循新式生命周期策略。
+  description: Entity Framework Core 遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849447"
 name: Entity Framework Core
 summary: >+
-  Entity Framework Core 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Entity Framework Core 遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答-.NET Core](/lifecycle/faq/dotnet-core)\n* [服务信息](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET 路线图](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题解答 - .NET Core](/lifecycle/faq/dotnet-core)\n* [服务信息](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET 路线图](https://github.com/dotnet/core/blob/master/roadmap.md)"

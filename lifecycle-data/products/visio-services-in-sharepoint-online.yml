@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SharePoint Online 中的 Visio Services
-  description: SharePoint Online 中的 Visio Services 遵循新式生命周期策略。
+  title: SharePoint 在线中的 Visio 服务
+  description: Visio Services in SharePoint Online 遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805734"
-name: SharePoint Online 中的 Visio Services
+name: SharePoint 在线中的 Visio 服务
 summary: >+
-  SharePoint Online 中的 Visio Services 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  SharePoint Online 中的 Visio Services 遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 products:

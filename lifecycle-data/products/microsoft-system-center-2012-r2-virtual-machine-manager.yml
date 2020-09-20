@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 45aa95c9e57ed369960f4142c01764f36a8a0495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849181"
 name: Microsoft System Center 2012 R2 Virtual Machine Manager
 summary: >+
-  Microsoft System Center 2012 R2 Virtual Machine Manager 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft System Center 2012 R2 Virtual Machine Manager 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>链接 \n* [System Center 文档](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>链接 \n* [System Center 文档](/system-center/#pivot=components&panel=components-all)\n* [System Center 资源](https://www.microsoft.com/system-center/resources)"

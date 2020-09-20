@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Surface Hub 上的 Windows 10
-  description: Surface Hub 上的 Windows 10 遵循固定生命周期策略。
+  description: Windows 10 on Surface Hub 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849146"
 name: Surface Hub 上的 Windows 10
 summary: >+
-  Surface Hub 上的 Windows 10 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows 10 on Surface Hub 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows 更新（Surface Hub）](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> 请参阅 Windows update （Surface Hub）页面，以确保你获取的是最新的 Surface Hub 更新。"
+content: "\n## <a name=\"links\"></a>链接 \n* [Windows 更新 (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> 请参阅 Windows 更新 (Surface Hub) 页面，以确保获得最新的 Surface Hub 更新。"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2011 for Mac
-  description: 适用于 Mac 的 PowerPoint 2011 遵循固定生命周期策略。
+  description: PowerPoint 2011 for Mac 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849538"
 name: PowerPoint 2011 for Mac
 summary: >+
-  适用于 Mac 的 PowerPoint 2011 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  PowerPoint 2011 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> 为 Microsoft Office for Mac 2011 提供主流支持的扩展，如向所有客户提供标准生命周期转换时间线"
+content: "\n\n> [!NOTE]\n> 对 Microsoft Office for Mac 2011 的主流支持将按所示进行扩展，以便为所有客户提供标准生命周期过渡时间表。"
