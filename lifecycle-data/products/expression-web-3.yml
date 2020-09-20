@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 表达式3
-  description: 表达式3遵循固定生命周期策略。
+  title: Expression 3
+  description: Expression 3 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930740"
-name: 表达式3
+name: Expression 3
 summary: >+
-  表达式3遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Expression 3 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本： Design、编码器、Studio、Web
+  适用于以下版本：Design、Encoder、Studio、Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> 表达式设计3的开始日期是2009年11月19日。 \n\n## <a name=\"editions\"></a>版本 \n* 设计\n* 编码\n* 工作室\n* Web"
+content: "\n\n> [!NOTE]\n> Expression Design 3 的开始日期为 2009 年 11 月 19 日。 \n\n## <a name=\"editions\"></a>版本 \n* Design\n* Encoder\n* Studio\n* Web"

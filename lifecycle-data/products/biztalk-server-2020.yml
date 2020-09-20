@@ -6,13 +6,13 @@ metadata:
   keywords: Branch,Developer,Enterprise,Standard
   ms.openlocfilehash: 029f4f55b44e8b40b27261ba44bdd3cef775e6d0
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932109"
 name: BizTalk Server 2020
 summary: >+
-  BizTalk Server 2020 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  BizTalk Server 2020 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：分支版、开发人员版、企业版、标准版

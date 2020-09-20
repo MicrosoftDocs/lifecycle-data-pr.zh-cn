@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 表达式2
-  description: 表达式2遵循固定生命周期策略。
+  title: Expression 2
+  description: Expression 2 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930814"
-name: 表达式2
-summary: "表达式2遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。\n\n这适用于以下版本：混合、设计、编码器、Studio、Web\n\n> [!IMPORTANT]\n> 此产品的支持已结束。 \n"
+name: Expression 2
+summary: "Expression 2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：Blend、Design、Encoder、Studio、Web\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 混合\n* 设计\n* 编码\n* 工作室\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Blend\n* Design\n* Encoder\n* Studio\n* Web"
