@@ -6,16 +6,16 @@ metadata:
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933441"
 name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Microsoft Lync 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：助理、与会者、组聊天、标准
+  适用于以下版本：助理版，与会者版，群聊版，标准版
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 随\n* Attendee\n* 群聊\n* 标准"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 助理版\n* 与会者版\n* 群聊版\n* 标准"
