@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903874"
 name: Microsoft Works
 summary: >+
-  Microsoft Works 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+  Microsoft Works 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> 此列表包含 2003 到 2007 之间的所有 Microsoft Works 产品。"
+content: "\n\n> [!NOTE]\n> 此列表包含 2003 年至 2007 年之间发布的所有 Microsoft Works 产品。"
