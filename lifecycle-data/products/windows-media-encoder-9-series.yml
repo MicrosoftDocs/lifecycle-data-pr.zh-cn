@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Media 编码器9系列
-  description: Windows Media 编码器9系列遵循固定生命周期策略。
+  title: Windows Media Encoder 9 系列
+  description: Windows Media Encoder 9 系列遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939990"
-name: Windows Media 编码器9系列
+name: Windows Media Encoder 9 系列
 summary: >+
-  Windows Media 编码器9系列遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Windows Media Encoder 9 系列遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：64位，Standard
+  这适用于以下版本：64 位版，标准版
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Windows Media 编码器9系列 x64 Edition 发布于2005年9月15日。\n\n## <a name=\"editions\"></a>版本 \n* 64 位\n* 标准"
+content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 系列 x64 版于 2005 年 9 月 15 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 64 位版\n* 标准"

@@ -6,13 +6,13 @@ metadata:
   keywords: ''
   ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
   ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "941066"
 name: SharePoint Foundation 2013
 summary: >+
-  SharePoint Foundation 2013 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  SharePoint Foundation 2013 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

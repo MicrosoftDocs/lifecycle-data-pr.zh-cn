@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Workflow Manager 1.0
+  description: Workflow Manager 1.0 遵循已修复生命周期策略。
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002590"
+name: Workflow Manager 1.0
+summary: "Workflow Manager 1.0 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：客户端版、标准版\n\n"
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>链接 \n* [SharePoint 2016 服务信息](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 服务信息](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Workflow Manager 是 SharePoint Server 2016 或 SharePoint Server 2013 的组件时，将根据相应 SharePoint Server 版本的支持结束日期为其提供支持。\n\n## <a name=\"editions\"></a>版本 \n* 客户端\n* 标准"

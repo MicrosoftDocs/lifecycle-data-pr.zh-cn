@@ -6,13 +6,13 @@ metadata:
   keywords: ''
   ms.openlocfilehash: 04aeff151809d56448eda49c96441651a9675171
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941660"
 name: SharePoint Server 2019
 summary: >+
-  SharePoint Server 2019 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  SharePoint Server 2019 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> 请参阅 [产品](https://docs.microsoft.com/sharepoint/sharepoint-server) 和 [开发人员](https://developer.microsoft.com/sharepoint/docs) 文档"
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> 请参阅[产品](https://docs.microsoft.com/sharepoint/sharepoint-server)和[开发人员](https://developer.microsoft.com/sharepoint/docs)文档"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Web Server 2008
+  title: Windows Web Server 2008
   description: Windows Web Server 2008 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938880"
-name: Windows Web Server 2008
+name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Windows Web Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：标准
+  适用于以下版本：标准版
 
 products:
 - windows
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> 对于每个 Windows Server 2008 Service Pack 2，此产品在2020年1月14日到达支持的结尾。\n\n## <a name=\"editions\"></a>版本 \n* 标准"
+content: "\n\n> [!NOTE]\n> 根据 Windows Server 2008 Service Pack 2，对此产品的支持已于 2020 年 1 月 14 日终止。\n\n## <a name=\"editions\"></a>版本 \n* 标准"
