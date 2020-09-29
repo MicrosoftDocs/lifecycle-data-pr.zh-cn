@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'EMET 设备的Toolkit (化的缓解) '
-  description: EMET 中提供的增强 Toolkit (的符合固定生命周期) 。
+  title: 增强的缓解体验工具包 (EMET)
+  description: 增强型减灾体验工具包 (EMET) 遵循固定生命周期策略。
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905277"
-name: 'EMET 设备的Toolkit (化的缓解) '
+name: 增强的缓解体验工具包 (EMET)
 summary: >+
-  EMET 中包含的Toolkit (化缓解) 符合 [固定生命](/lifecycle/policies/fixed) 周期策略。
+  增强型减灾体验工具包 (EMET) 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

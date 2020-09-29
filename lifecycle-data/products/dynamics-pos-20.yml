@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/19/2020
   ms.openlocfilehash: 3d3243b12c58bd8aa66c9dbb674fa5a471a3407e
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904785"
 name: Dynamics POS 2.0
 summary: >+
-  Dynamics POS 2.0 遵循固定 [生](/lifecycle/policies/fixed) 命周期策略。
+  Dynamics POS 2.0 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

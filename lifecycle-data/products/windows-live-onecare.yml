@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Live OneCare
-  description: Windows Live OneCare 遵循新式生命周期策略。
+  description: Windows Live OneCare 遵循现代生命周期策略。
   ms.date: 08/19/2020
   ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902686"
 name: Windows Live OneCare
 summary: >+
-  Windows Live OneCare 遵循 [新式](/lifecycle/policies/modern) 生命周期策略。
+  Windows Live OneCare 遵循现代[](/lifecycle/policies/modern)生命周期策略。
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Microsoft PlayReady 服务器软件开发工具包 '
-  description: Microsoft PlayReady服务器软件开发工具包遵循固定生命周期策略。
+  title: 'Microsoft PlayReady Server 软件开发工具包 '
+  description: Microsoft PlayReady Server Software Development Kit 遵循固定生命周期策略。
   ms.date: 08/21/2020
   ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908011"
-name: 'Microsoft PlayReady 服务器软件开发工具包 '
+name: 'Microsoft PlayReady Server 软件开发工具包 '
 summary: >+
-  Microsoft PlayReady 服务器软件开发工具包遵循固定 [生命](/lifecycle/policies/fixed) 周期策略。
+  Microsoft PlayReady Server Software Development Kit 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
