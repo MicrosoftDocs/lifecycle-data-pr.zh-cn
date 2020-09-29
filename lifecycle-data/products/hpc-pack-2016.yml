@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HPC 包2016
-  description: HPC 包2016遵循固定生命周期策略。
+  title: HPC Pack 2016
+  description: HPC Pack 2016 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849278"
-name: HPC 包2016
+name: HPC Pack 2016
 summary: >+
-  HPC 包2016遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  HPC Pack 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

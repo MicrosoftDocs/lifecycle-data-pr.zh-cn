@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 用于 MQSeries 2005 的 BizTalk 适配器
-  description: MQSeries 2005 的 BizTalk 适配器遵循固定生命周期策略。
+  title: BizTalk Adapter for MQSeries 2005
+  description: BizTalk Adapter for MQSeries 2005 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806488"
-name: 用于 MQSeries 2005 的 BizTalk 适配器
+name: BizTalk Adapter for MQSeries 2005
 summary: >+
-  MQSeries 2005 的 BizTalk 适配器遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  BizTalk Adapter for MQSeries 2005 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:

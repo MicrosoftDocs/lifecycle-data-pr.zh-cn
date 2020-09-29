@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure 云服务
-  description: Azure 云服务遵循新式生命周期策略。
+  description: Azure 云服务遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806489"
 name: Azure 云服务
 summary: >+
-  Azure 云服务遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Azure 云服务遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>链接 \n* [Azure 来宾 OS 可支持性和退休策略信息](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>链接 \n* [Azure 来宾操作系统可支持性和停用策略信息](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

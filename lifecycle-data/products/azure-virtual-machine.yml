@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure 虚拟机
-  description: Azure 虚拟机遵循新式生命周期策略。
+  description: Azure 虚拟机遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849345"
 name: Azure 虚拟机
 summary: >+
-  Azure 虚拟机遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Azure 虚拟机遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 products:
