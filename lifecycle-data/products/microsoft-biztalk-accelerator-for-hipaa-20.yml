@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 适用于 HIPAA 2.0 的 Microsoft BizTalk 加速器
-  description: 适用于 HIPAA 2.0 的 Microsoft BizTalk 加速器遵循固定生命周期策略。
+  title: Microsoft BizTalk Accelerator for HIPAA 2.0
+  description: Microsoft BizTalk Accelerator for HIPAA 2.0 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935291"
-name: 适用于 HIPAA 2.0 的 Microsoft BizTalk 加速器
+name: Microsoft BizTalk Accelerator for HIPAA 2.0
 summary: >+
-  适用于 HIPAA 2.0 的 Microsoft BizTalk 加速器遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Microsoft BizTalk Accelerator for HIPAA 2.0 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：企业，标准

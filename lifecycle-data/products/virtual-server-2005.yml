@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 虚拟服务器2005
-  description: 虚拟服务器2005遵循固定生命周期策略。
+  title: Virtual Server 2005
+  description: Virtual Server 2005 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937881"
-name: 虚拟服务器2005
+name: Virtual Server 2005
 summary: >+
-  虚拟服务器2005遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Virtual Server 2005 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本： Enterprise、Management Pack、Standard
+  适用于以下版本：企业，管理包，标准
 
 products:
 - windows

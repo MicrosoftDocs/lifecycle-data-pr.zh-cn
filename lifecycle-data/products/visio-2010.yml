@@ -6,16 +6,16 @@ metadata:
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937844"
 name: Visio 2010
 summary: >+
-  Visio 2010 遵循 [固定](/lifecycle/policies/fixed) 生命周期策略。
+  Visio 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：高级版、专业版、标准版
+  适用于以下版本：高级版、专业版、标准版
 
 products:
 - office
