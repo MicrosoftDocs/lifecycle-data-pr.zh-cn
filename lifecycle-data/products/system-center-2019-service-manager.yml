@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2019 服务管理器
-  description: System Center 2019 服务管理器遵循固定生命周期策略。
+  title: System Center 2019 Service Manager
+  description: System Center 2019 Service Manager 遵循固定生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 488ee016cd574e0318bd9e0062bc2919299b89d8
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868010"
-name: System Center 2019 服务管理器
+name: System Center 2019 Service Manager
 summary: >+
-  System Center 2019 服务管理器遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  System Center 2019 Service Manager 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
