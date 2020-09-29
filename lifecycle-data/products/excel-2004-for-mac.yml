@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 51b0adf9f1c97f1ab2032784a18f4d0fbd9912c0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805892"
 name: Microsoft Excel 2004 for Mac
-summary: "Microsoft Excel 2004 for Mac 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n\n> [!IMPORTANT]\n> 对此产品的支持已结束。 \n"
+summary: "Microsoft Excel 2004 for Mac 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - office
 policyType: fixed-mainstream-only

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure Service Fabric
-  description: Azure Service Fabric 遵循新式生命周期策略。
+  description: Azure Service Fabric 遵循现代生命周期策略。
   ms.date: 07/28/2020
   ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849106"
 name: Azure Service Fabric
 summary: >+
-  Azure Service Fabric 遵循[新式](/lifecycle/policies/modern)生命周期策略。
+  Azure Service Fabric 遵循[现代](/lifecycle/policies/modern)生命周期策略。
 
 
 products:

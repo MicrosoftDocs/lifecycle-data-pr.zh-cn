@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849532"
 name: System Center 2016 数据保护
 summary: >+
-  System Center 2016 数据保护遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  System Center 2016 数据保护遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
 products:
