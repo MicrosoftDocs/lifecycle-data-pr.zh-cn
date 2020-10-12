@@ -2,16 +2,16 @@
 metadata:
   title: Windows 10 Home 和 Pro
   description: Windows 10 Home 和 Pro 遵循现代生命周期策略。
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938362"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026875"
 name: Windows 10 Home 和 Pro
-summary: "Windows 10 Home 和 Pro 遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：家庭版、专业版、专业教育版、专业工作站版、专业版\n\n> [!IMPORTANT]\n> 2025 年 10 月 14 日前，Microsoft 将继续支持至少一个 Windows 10 半年频道。\n"
+summary: "Windows 10 Home 和 Pro 遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：家庭版、专业版、专业教育版、专业工作站版\n\n> [!IMPORTANT]\n> 2025 年 10 月 14 日前，Microsoft 将继续支持至少一个 Windows 10 半年频道。\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -30,9 +30,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -49,4 +49,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows 即服务 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 生命周期说明书](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation 首次发布版本 1703\n> [!NOTE]\n> 除非延迟，否则可能会在列出的主流支持日期结束之前安装后续的 Windows 10 半年频道功能更新。\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* Pro 版\n* 专业教育版\n* 专业工作站版\n* 专业"
+content: "\n## <a name=\"links\"></a>链接 \n* [Windows 即服务 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 生命周期说明书](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 专业工作站版首次随版本 1709 发布。\n> [!NOTE]\n> 除非延迟，否则可能会在列出的主流支持日期结束之前安装后续的 Windows 10 半年频道功能更新。\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* Pro 版\n* 专业教育版\n* 专业工作站版"
