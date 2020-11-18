@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1002452"
 name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Windows MultiPoint Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：学术版、标准版
+  这适用于以下版本：学院版、标准版
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [其他迁移指南](/windows-server/get-started/installation-and-upgrade)\n* [产品信息](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>版本 \n* 学院版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [其他迁移指南](/windows-server/get-started/installation-and-upgrade)\n* [产品信息](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>版本 \n* 学院版\n* 标准版"
