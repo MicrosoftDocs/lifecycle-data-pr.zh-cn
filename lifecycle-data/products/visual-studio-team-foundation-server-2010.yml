@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1000047"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Visual Studio Team Foundation Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：所有版本、外置连接器
+  适用于以下版本：全部适用、外部连接器
 
 products:
 - vs

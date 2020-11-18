@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
-  description: 用于 Windows Desktops 的  Microsoft Application Virtualization Hosting 4.6 遵循固定生命周期策略。
+  description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
@@ -11,7 +11,12 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935439"
 name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
-summary: "用于 Windows Desktops 的  Microsoft Application Virtualization Hosting 4.6 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：Windows Desktops\n\n"
+summary: >+
+  Microsoft Application Virtualization Hosting 4.6 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  这适用于以下版本：Windows 桌面版
+
 products:
 - windows
 policyType: fixed
@@ -32,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。\n\n## <a name=\"editions\"></a>版本 \n* 适用于 Windows 桌面"
+content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。\n\n## <a name=\"editions\"></a>版本 \n* Windows 桌面版"

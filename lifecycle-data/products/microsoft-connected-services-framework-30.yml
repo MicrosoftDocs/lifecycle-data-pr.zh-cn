@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "999972"
 name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Microsoft Connected Services Framework 3.0 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Connected Services Framework 3.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：计费标准业务事件、订单处理标准业务事件、服务器、标准、带有标准业务事件的标准服务器
+  适用于以下版本：计费标准业务事件版、订单处理标准业务事件版、服务器版、标准版、带有标准业务事件的标准服务器版
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 计费标准业务事件\n* 订单处理标准业务事件\n* 服务器\n* 标准\n* 带有标准业务事件的标准服务器"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 计费标准业务事件版\n* 订单处理标准业务事件版\n* 服务器版\n* 标准版\n* 带有标准业务事件的标准服务器版"

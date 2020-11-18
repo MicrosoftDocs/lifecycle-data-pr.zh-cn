@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001860"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：开发人员版、企业版、标准版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
+summary: "Microsoft Host Integration Server 2004 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：开发人员版、企业版、标准版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 企业版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 企业版\n* 标准版"

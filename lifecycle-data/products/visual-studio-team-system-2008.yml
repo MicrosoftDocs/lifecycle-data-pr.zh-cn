@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "945286"
 name: Visual Studio Team System 2008
-summary: "Visual Studio Team System 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：全部、体系结构、数据库、开发、Team Explorer、Team Test Load Agent\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
+summary: "Visual Studio Team System 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：全部、架构版、数据库版、开发版、Team Explorer、Team Test Load Agent\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [迁移指南](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 体系结构\n* 数据库\n* 开发\n* 团队资源管理器\n* Team Test Load Agent\n* TFS"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [迁移指南](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 架构版\n* 数据库版\n* 开发版\n* Team Explorer\n* Team Test Load Agent\n* TFS 版"

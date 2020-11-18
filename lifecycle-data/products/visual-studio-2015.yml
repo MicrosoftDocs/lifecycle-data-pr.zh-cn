@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：代理、社区、企业、Express for Web、Express for Windows 10、Express for Windows Desktop、建模 SDK、专业、PSM、版本管理、远程工具、SDK、Shell （集成）、Shell （独立）、测试专业、TPS、Visual C++ 可再发行版本
+  适用于以下版本：代理版、社区版、企业版、ESM 版、Express for Web、Express for Windows 10、Express for Windows Desktop、建模 SDK 版、专业版、PSM 版、发布管理版、远程工具版、SDK 版、Shell （集成）版、Shell（独立）版、专业测试工具版、TPS 版、Visual C++ 可再发行版
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 社区\n* 企业版\n* ESM\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* 建模 SDK\n* 专业\n* PSM\n* 发布管理\n* 远程工具\n* SDK 版\n* Shell（集成）\n* Shell（独立）\n* 专业测试工具版\n* TPS\n* Visual C++ 可再发行程序包"
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* 代理版\n* 社区版\n* 企业版\n* ESM 版\n* Express for Web \n* Express for Windows 10\n* Express for Windows Desktop\n* 建模 SDK 版\n* 专业版\n* PSM 版\n* 发布管理版\n* 远程工具版\n* SDK 版\n* Shell（集成）版\n* Shell（独立）版\n* 专业测试工具版\n* TPS 版\n* Visual C++ 可再发行版"

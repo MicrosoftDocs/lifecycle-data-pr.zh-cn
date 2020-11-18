@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1000195"
 name: Microsoft BizTalk Adapters for Host Systems 2.0
-summary: "Microsoft BizTalk Adapters for Host Systems 2.0 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：开发人员版、标准版\n\n"
+summary: "Microsoft BizTalk Adapters for Host Systems 2.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：开发人员版、标准版\n\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 标准版"

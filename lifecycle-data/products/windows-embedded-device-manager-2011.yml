@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 客户端\n* SDK 版\n* 服务器"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 客户端版\n* SDK 版\n* 服务器版"

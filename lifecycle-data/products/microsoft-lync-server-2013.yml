@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 遵循已修复生命周期策略。
+  description: Microsoft Lync Server 2013 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
   ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "930666"
 name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft Lync Server 2013 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Lync Server 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：企业版、持久聊天软件开发工具包版、电话版、SDK 版、标准版
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Server 2010 和  Lync Server 2013 支持 Lync 电话版。 Lync Phone Edition 的支持日期已延长 2 年，以与 Lync Server 2013 生命周期保持一致。\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 持久聊天软件开发工具包版\n* 电话版\n* SDK 版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Server 2010 和  Lync Server 2013 支持 Lync 电话版。 Lync 电话版的支持日期已延长 2 年，以与 Lync Server 2013 生命周期保持一致。\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 持久聊天软件开发工具包版\n* 电话版\n* SDK 版\n* 标准版"

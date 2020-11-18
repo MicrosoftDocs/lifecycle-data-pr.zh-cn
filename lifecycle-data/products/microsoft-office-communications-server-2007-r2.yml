@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001753"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：所有适用、企业版、XMPP 网关\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
+summary: "Microsoft Office Communications Server 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：全部适用、企业版、XMPP 网关版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP 网关于 2009 年 9 月 28 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 企业版\n* XMPP 网关"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP 网关版于 2009 年 9 月 28 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 企业版\n* XMPP 网关版"

@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002045"
 name: Windows Embedded 8
 summary: >+
-  Windows Embedded 8 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Windows Embedded 8 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：专业版、标准版
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> 客户必须迁移到 Windows Emdedded 8.1 才能继续获得支持。\n\n## <a name=\"editions\"></a>版本 \n* Pro 版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> 客户必须迁移到 Windows Emdedded 8.1 才能继续获得支持。\n\n## <a name=\"editions\"></a>版本 \n* 专业版\n* 标准版"

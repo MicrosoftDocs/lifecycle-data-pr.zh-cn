@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1000108"
 name: Microsoft BizTalk Server 2004
 summary: >+
-  Microsoft BizTalk Server 2004 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft BizTalk Server 2004 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：开发人员版、企业版、合作伙伴版、标准版
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 企业版\n* 合作伙伴\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 企业版\n* 合作伙伴版\n* 标准版"

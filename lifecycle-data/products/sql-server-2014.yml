@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937992"
 name: SQL Server 2014
-summary: "SQL Server 2014 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商业智能，开发人员，企业，企业核心，速成，标准，Web\n\n"
+summary: "SQL Server 2014 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商业智能版、开发人员版、企业版、企业核心版、Express 版、标准版、Web 版\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业智能\n* 开发人员版\n* 企业版\n* 企业核心\n* Express\n* 标准\n* Web"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业智能版\n* 开发人员版\n* 企业版\n* 企业核心版\n* Express 版\n* 标准版\n* Web 版"

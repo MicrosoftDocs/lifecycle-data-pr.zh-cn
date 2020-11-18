@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：数据中心，基础，外部连接器，嵌入式系统，基础，标准
+  适用于以下版本：数据中心版、精华版、外部连接器版、嵌入式系统版、基础版、标准版
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-overview)\n* [产品信息](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。 Windows Server Essentials 于 2013 年 1 月 2 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 写作版\n* 外部连接器\n* 嵌入式系统版\n* Foundation 版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-overview)\n* [产品信息](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。 Windows Server 精华版于 2013 年 1 月 2 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 精华版\n* 外部连接器版\n* 嵌入式系统版\n* 基础版\n* 标准版"

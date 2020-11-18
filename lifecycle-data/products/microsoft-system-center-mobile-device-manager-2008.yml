@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1001416"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft System Center Mobile Device Manager 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  这适用于以下版本：所有版本、wSQL
+  这适用于以下版本：全部适用、wSQL 版
 
 products:
 - msc
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* wSQL"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* wSQL 版"

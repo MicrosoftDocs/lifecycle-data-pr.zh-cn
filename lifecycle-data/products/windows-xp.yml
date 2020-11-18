@@ -15,7 +15,7 @@ summary: >
   Windows XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：家庭，专业，嵌入式系统专业，专业 x64，入门
+  适用于以下版本：家庭版、专业版、嵌入式系统专业版、专业版 x64、入门版
 
 
   > [!IMPORTANT]
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP 专业 x64 版的开始日期是 2005 年 4 月 24 日。\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* 专业\n* 嵌入系统专业版\n* 专业 x64\n* 入门版"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP 专业版 x64 的开始日期是 2005 年 4 月 24 日。\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* 专业版\n* 嵌入系统专业版\n* 专业版 x64\n* 入门版"

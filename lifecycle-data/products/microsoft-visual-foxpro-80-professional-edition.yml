@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "929028"
 name: Microsoft Visual FoxPro 8.0 Professional Edition
 summary: >+
-  Microsoft Visual FoxPro 8.0 Professional Edition 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Microsoft Visual FoxPro 8.0 Professional Edition 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
   适用于以下版本：专业版
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 专业"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 专业版"
