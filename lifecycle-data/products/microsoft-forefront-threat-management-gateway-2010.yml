@@ -11,7 +11,16 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933811"
 name: Microsoft Forefront Threat Management Gateway 2010
-summary: "Microsoft Forefront Threat Management Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业，标准\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
+summary: >
+  Microsoft Forefront Threat Management Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
+  适用于以下版本：企业版、标准版
+
+
+  > [!IMPORTANT]
+
+  > 支持已结束。 请参阅下面的迁移指南。
 products:
 - office
 policyType: fixed
@@ -29,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准版"

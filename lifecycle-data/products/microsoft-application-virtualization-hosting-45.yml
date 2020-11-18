@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935476"
 name: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops
-summary: "Microsoft Application Virtualization Hosting 4.5 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：Windows Desktops\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅以下迁移信息。\n"
+summary: "Microsoft Application Virtualization Hosting 4.5 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：Windows 桌面版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅以下迁移信息。\n"
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 适用于 Windows 桌面"
+content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Windows 桌面版"

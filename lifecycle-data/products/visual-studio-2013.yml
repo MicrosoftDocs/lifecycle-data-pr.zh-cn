@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013 遵循已修复生命周期策略。
+  description: Visual Studio 2013 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
   ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937437"
 name: Visual Studio 2013
-summary: "Visual Studio 2013 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Agents、 All、社区、Express for Web、Express for Windows、Express for Windows Desktop、IntelliTrace 收集器、建模 SDK、多字节 MFC 库、高级、专业、版本管理、远程工具、SDK、Shell（集成）、Shell（独立）、团队资源管理器、专业测试工具版、Ultimate、Visual C++ 可再发行程序包、Web 工具扩展\n\n"
+summary: "Visual Studio 2013 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：代理版、全部、社区版、Express for Web、Express for Windows、Express for Windows Desktop、IntelliTrace 收集器版、建模 SDK 版、多字节 MFC 库版、高级版、专业版、发布管理版、远程工具版、SDK 版、Shell（集成）版、Shell（独立）版、Team Explorer、Test Professional、旗舰版、Visual C++ 可再发行版、Web 工具扩展版\n\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 全部\n* 社区\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace 收集器\n* 建模 SDK\n* 多字节 MFC 库\n* 高级\n* 专业\n* 发布管理\n* 远程工具\n* SDK 版\n* Shell（集成）\n* Shell（独立）\n* 团队资源管理器\n* 专业测试工具版\n* Ultimate\n* Visual C++ 可再发行程序包\n* Web 工具扩展"
+content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* 代理版\n* 全部\n* 社区版\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace 收集器版\n* 建模 SDK 版\n* 多字节 MFC 库版\n* 高级版\n* 专业版\n* 发布管理版\n* 远程工具版\n* SDK 版\n* Shell（集成）版\n* Shell（独立）版\n* Team Explorer\n* Test Professional\n* 旗舰版\n* Visual C++ 可再发行版\n* Web 工具扩展版"

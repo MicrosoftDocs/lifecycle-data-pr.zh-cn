@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：基础，企业，家庭和学生，多语言包，专业，专业增强，小企业，标准，旗舰
+  适用于以下版本：普通版、企业版、家庭和学生版、多语言包版、专业版、专业增强版、小型企业版、标准版、旗舰版
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 企业版\n* 家庭版和学生版\n* 多语言包\n* 专业\n* Professional Plus\n* 小型企业版\n* 标准\n* Ultimate"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>版本 \n* 普通版\n* 企业版\n* 家庭版和学生版\n* 多语言包版\n* 专业版\n* 专业增强版\n* 小型企业版\n* 标准版\n* 旗舰版"

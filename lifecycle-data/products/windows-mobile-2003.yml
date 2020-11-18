@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "1002082"
 name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+  Windows Mobile 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：Pocket PC、智能手机、Pocket PC 手机的第二版软件、智能手机的第二版软件
+  适用于以下版本：Pocket PC 版、智能手机版、Second Edition software for Pocket PC Phone、Second Edition software for Smartphone
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Pocket PC 版\n* 智能手机版\n* 第二版软件 Pocket PC 版\n* 第二版软件智能手机版"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Pocket PC 版\n* 智能手机版\n* Second Edition software for Pocket PC Phone\n* Second Edition software for Smartphone"

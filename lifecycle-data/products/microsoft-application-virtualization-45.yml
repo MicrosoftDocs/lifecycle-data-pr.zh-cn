@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935624"
 name: Microsoft Application Virtualization 4.5
-summary: "Microsoft Application Virtualization 4.5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：终端服务、Windows 桌面\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
+summary: "Microsoft Application Virtualization 4.5 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：终端服务版、Windows 桌面版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。\n\n## <a name=\"editions\"></a>版本 \n* 适用于终端服务\n* 适用于 Windows 桌面"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。\n\n## <a name=\"editions\"></a>版本 \n* 终端服务版\n* Windows 桌面版"

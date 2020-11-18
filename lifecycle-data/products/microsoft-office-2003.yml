@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936808"
 name: Microsoft Office 2003
-summary: "Microsoft Office 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：普通，专业，专业企业，小型企业，标准，Student and Teacher，Web 组件\n\n"
+summary: "Microsoft Office 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：普通版、专业版、专业企业版、小型企业版、标准版、学生和教师版、Web 组件版\n\n"
 products:
 - office
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 专业\n* 专业企业\n* 小型企业版\n* 标准\n* Student and Teacher\n* Web 组件"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 普通版\n* 专业版\n* 专业企业版\n* 小型企业版\n* 标准版\n* 学生和教师版\n* Web 组件版"

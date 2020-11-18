@@ -15,7 +15,7 @@ summary: >+
   Office XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：开发人员，专业，校对工具，标准，Web 组件
+  适用于以下版本：开发人员版、专业版、校对工具版、标准版、Web 组件版
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 专业\n* 校对工具\n* 标准\n* Web 组件"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 开发人员版\n* 专业版\n* 校对工具版\n* 标准版\n* Web 组件版"

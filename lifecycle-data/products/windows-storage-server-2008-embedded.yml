@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939065"
 name: Windows Storage Server 2008 Embedded
-summary: "Windows Storage Server 2008 Embedded 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：32 位，64 位，普通，普通 32 位， 企业，标准，工作组\n\n"
+summary: "Windows Storage Server 2008 Embedded 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：32 位版、64 位版、普通版、普通版 32 位、企业版、标准版、工作组版\n\n"
 products:
 - windows
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> 此产品的支持已终止。 有关迁移指南，请参阅下文。\n\n## <a name=\"editions\"></a>版本 \n* 32 位\n* 64 位\n* 基本\n* 普通 32 位\n* 企业版\n* 标准\n* 工作组"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> 此产品的支持已终止。 有关迁移指南，请参阅下文。\n\n## <a name=\"editions\"></a>版本 \n* 32 位版\n* 64 位版\n* 普通版\n* 普通版 32 位\n* 企业版\n* 标准版\n* 工作组版"

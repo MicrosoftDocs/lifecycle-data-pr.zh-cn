@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001712"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：全部适用，Phone 版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
+summary: "Microsoft Office Communicator 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：全部适用、电话版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
 products:
 - office
 policyType: fixed

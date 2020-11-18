@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935513"
 name: Microsoft Application Virtualization 5.0
-summary: "Microsoft Application Virtualization 5.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：远程桌面服务、终端服务、Windows 桌面\n\n"
+summary: "Microsoft Application Virtualization 5.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：远程桌面服务版、终端服务版、Windows 桌面版\n\n"
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 适用于远程桌面服务\n* 适用于终端服务\n* 适用于 Windows 桌面"
+content: "\n## <a name=\"links\"></a>链接 \n* [产品信息](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 远程桌面服务版\n* 终端服务版\n* Windows 桌面版"

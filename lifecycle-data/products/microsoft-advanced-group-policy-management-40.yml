@@ -10,7 +10,10 @@ metadata:
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806293"
 name: Microsoft Advanced Group Policy Management 4.0
-summary: "Microsoft Advanced Group Policy Management 4.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
+summary: >+
+  Microsoft Advanced Group Policy Management 4.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
 products:
 - windows
 policyType: fixed

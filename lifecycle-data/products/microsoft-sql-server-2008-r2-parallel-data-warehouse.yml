@@ -10,7 +10,10 @@ metadata:
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "805837"
 name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
-summary: "Microsoft SQL Server 2008 R2 Parallel Data Warehouse 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
+summary: >+
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
+
 products:
 - sql-server
 policyType: fixed
