@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 遵循固定生命周期策略。
-  ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESGH,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSGH,PSM,Remote Tools,Team Explorer,Visual C++ Redistributable
-  ms.openlocfilehash: 944f1805bb73b6937043cdb30b72b59732fe5e1c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 12/08/2020
+  keywords: 
+  ms.openlocfilehash: b0c62a885196785982c3d308a9088d4baee93e7a
+  ms.sourcegitcommit: 3ab84f41d3282b710920b60cd302c8c52d9c6808
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937289"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "1338263"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：代理、生成工具、社区、企业、ESGH、Mac、IntelliTrace 独立收集器、性能工具、专业、PSGH、PSM、远程工具、团队资源管理器、Visual C++ 可再发行版
+  适用于以下版本：Agents、生成工具、社区、企业、Mac、IntelliTrace 独立收集器、性能工具、专业、远程工具、团队资源管理器、Visual C++ 可再发行程序包
 
 products:
 - vs
@@ -25,10 +25,13 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Version 16.7
+  startDate: 08/05/2020
+  endDate: 04/10/2029
 - version: Version 16.4
   startDate: 12/03/2019
-  endDate: 04/10/2029
+  endDate: 10/12/2021
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [服务信息](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* ESGH\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* PSGH\n* PSM\n* 远程工具\n* 团队资源管理器\n* Visual C++ 可再发行程序包"
+content: "\n## <a name=\"links\"></a>链接 \n* [Visual Studio 博客公告](https://devblogs.microsoft.com/visualstudio/)\n* [服务信息](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 下载页](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 版本说明](/visualstudio/releases/2019/release-notes)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* 远程工具\n* 团队资源管理器\n* Visual C++ 可再发行程序包"
