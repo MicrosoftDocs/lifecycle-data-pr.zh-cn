@@ -2,15 +2,16 @@
 metadata:
   title: Windows Server Update Services 3.0
   description: Windows Server Update Services 3.0 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 05/28/2021
+  keywords: 
+  ms.openlocfilehash: 023eb852bc7c97e08a6a1d3602ed673e0ee660c1
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806435"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029791"
 name: Windows Server Update Services 3.0
-summary: "Windows Server Update Services 3.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 支持已结束。 请参阅下面的迁移指南。\n"
+summary: "Windows Server Update Services 3.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n\n\n> [!IMPORTANT]\n> 支持已结束。 请注意，WSUS 3.0 SP2 不支持更安全的 TLS 1.2 加密协议。 任何仍在使用 WSUS 3.0 SP2 的组织必须在 2021 年 10 月 31 日之前迁移到受支持的 WSUS 版本。\n\n"
 products:
 - windows
 policyType: fixed
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 支持从 2017 年 7 月 11 日延长至 2020 年 1 月 14 日。"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> 支持从 2017 年 7 月 11 日延长至 2020 年 1 月 14 日。"

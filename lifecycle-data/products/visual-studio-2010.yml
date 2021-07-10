@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 遵循固定生命周期策略。
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375239"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029939"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：代理版、全部、ASP.NET MVC 4、Express 版、F# 2.0 运行时版、实验室管理工具版、性能工具版、高级版、专业版、Professional w/MSDN、PSM 版、远程调试器版、SDK 版、Shell（集成）版、Shell（独立）版、Team Agents、Team Explorer、Test Professiona、Tools for Office System 4.0 Runtime (VSTO)、旗舰版、Ultimate with MSDN、Visual Basic Express、Visual C# Express、Visual C++ Express、Visual Web Developer Express、可视化与建模 SDK 版
+
+  适用于以下版本：代理版、全部、ASP.NET MVC 4、Express 版、F#2.0 运行时版、实验室管理版、性能工具版、高级版、专业版、MSDN 专业版、PSM 版、远程调试器版、SDK 版、Shell（集成）版、Shell（独立）版、Team Agents、Team Explorer、专业测试工具版、旗舰版、MSDN 旗舰版、Visual Basic Express、Visual C# Express、Visual C++ Express、Visual Web Developer Express、可视化与建模 SDK 版
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 全部\n* ASP .NET MVC 4\n* Express\n* F# 2.0 运行时\n* 实验室管理\n* 性能工具\n* 高级\n* 专业\n* 专业 w/MSDN \n* PSM\n* 远程调试器\n* SDK 版\n* Shell（集成）\n* Shell（独立）\n* 团队代理\n* 团队资源管理器\n* 专业测试工具版\n* Tools for Office System 4.0 Runtime (VSTO)\n* Ultimate\n* MSDN 终极版\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* 可视化和建模 SDK"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010 Tools for Office (VSTO) 运行时随各种版本的 Visual Studio 和 Microsoft Office 一起提供，并遵循父产品的生命周期。 也可以单独下载， [此处](https://www.microsoft.com/download/details.aspx?id=56961)。\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 全部\n* ASP .NET MVC 4\n* Express\n* F# 2.0 运行时\n* 实验室管理\n* 性能工具\n* 高级\n* 专业\n* 专业 w/MSDN \n* PSM\n* 远程调试器\n* SDK 版\n* Shell（集成）\n* Shell（独立）\n* 团队代理\n* 团队资源管理器\n* 专业测试工具版\n* Ultimate\n* MSDN 终极版\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* 可视化和建模 SDK"

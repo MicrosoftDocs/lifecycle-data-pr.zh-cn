@@ -2,19 +2,23 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework 遵循组件生命周期策略。
-  ms.date: 12/16/2020
+  ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347336"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029458"
 name: Microsoft .NET Framework
-summary: >+
+summary: >
   Microsoft .NET Framework 遵循[组件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
 
 
+
+  > [!IMPORTANT]
+
+  > .NET Framework 4.5.2、4.6 和 4.6.1 将于 2022 年 4 月 26 日停用。 这些特定版本先前使用安全哈希算法 (SHA-1) 证书进行了数字签名。 该算法不再认为是安全的。 鼓励客户使用 SHA-2。 请转到[此处](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)以了解更多信息。
 products:
 - dotnet
 policyType: component
@@ -33,10 +37,13 @@ releases:
   startDate: 08/02/2016
 - version: .NET Framework 4.6.1
   startDate: 11/30/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.6
   startDate: 07/29/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.2
   startDate: 05/05/2014
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.1
   startDate: 01/15/2014
   endDate: 01/12/2016
@@ -52,4 +59,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问答 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [产品信息](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) 是按照固定策略运行的独立产品，从 Windows 10 版本 1809 和 Windows Server 2019 开始。 在此之前，.NET Framework 3.5 SP1 被视为安装它的 Windows 操作系统的组件。"
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问答 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [产品信息](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 停用 4.5.2、4.6、4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) 是按照固定策略运行的独立产品，从 Windows 10 版本 1809 和 Windows Server 2019 开始。 在此之前，.NET Framework 3.5 SP1 被视为安装它的 Windows 操作系统的组件。"
