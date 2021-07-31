@@ -2,16 +2,16 @@
 metadata:
   title: Microsoft System Center 2012 Endpoint Protection
   description: Microsoft System Center 2012 Endpoint Protection 遵循固定生命周期策略。
-  ms.date: 09/01/2020
-  keywords: for Mac
-  ms.openlocfilehash: 3a2117da623b0703923ec5be8fb9a3d9e083a3fa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/27/2021
+  keywords: 
+  ms.openlocfilehash: 19d214a2ef4e1e2f97d36fc529606178e198e61f
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937659"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255085"
 name: Microsoft System Center 2012 Endpoint Protection
-summary: "Microsoft System Center 2012 Endpoint Protection 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：Mac\n\n"
+summary: "Microsoft System Center 2012 Endpoint Protection 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n\n\n\n"
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [迁移指南](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [System Center 文档](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> 客户必须随时了解最新的反恶意软件平台更新，才能得到完全支持。\n\n## <a name=\"editions\"></a>版本 \n* Mac"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [服务信息](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [迁移指南](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [System Center 文档](/system-center/#pivot=components&panel=components-all)\n\n\n> [!NOTE]\n> 客户必须随时了解最新的反恶意软件平台更新，才能得到完全支持。"
