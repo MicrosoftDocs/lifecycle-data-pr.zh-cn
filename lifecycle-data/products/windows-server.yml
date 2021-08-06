@@ -2,22 +2,25 @@
 metadata:
   title: Windows Server
   description: Windows Server 遵循现代生命周期策略。
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162323"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255159"
 name: Windows Server
-summary: "Windows Server 遵循现代[](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：数据中心版，标准版\n\n"
+summary: "Windows Server 遵循现代[](/lifecycle/policies/modern)生命周期策略。 \n\n\n适用于以下版本：数据中心版，标准版\n\n\n\n"
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -39,4 +42,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows Server 服务渠道：LTSC 和 SAC](/windows-server/get-started-19/servicing-channels-19)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server 版本 1809 于 2018 年 11 月 13 日重新发布。 支持日期也相应做出了调整。\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 标准"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [Windows 容器基础映像服务生命周期](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [Windows Server 服务渠道：LTSC 和 SAC](/windows-server/get-started-19/servicing-channels-19)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> 与上面列出的 Windows Server 版本一起发布的容器遵循相同的生命周期日期。 导航到位于 [Windows 容器基础映像服务生命周期](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)的基础映像服务页面查看更多细节。\n> [!NOTE]\n> Windows Server 版本 1809 于 2018 年 11 月 13 日重新发布。 支持日期也相应做出了调整。\n\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 标准"
