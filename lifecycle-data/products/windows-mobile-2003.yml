@@ -4,18 +4,18 @@ metadata:
   description: Windows Mobile 2003 遵循固定生命周期策略。
   ms.date: 09/10/2020
   keywords: for Pocket PC,for Smartphones,Second Edition software for Pocket PC Phone,Second Edition software for Smartphone
-  ms.openlocfilehash: c52bd0f85c680da23bee4cb5e6ae669a53c1038c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 7d7a86e29b2495fd19423f48166f023430bc728c36d921604a5980c5bfabaff8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002082"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2483739"
 name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+  Windows Mobile 2003 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：Pocket PC 版、智能手机版、Second Edition software for Pocket PC Phone、Second Edition software for Smartphone
+  适用于以下版本：Pocket PC、智能手机、Pocket PC 手机的第二版软件、智能手机的第二版软件
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Pocket PC 版\n* 智能手机版\n* Second Edition software for Pocket PC Phone\n* Second Edition software for Smartphone"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Pocket PC 版\n* 智能手机版\n* 第二版软件 Pocket PC 版\n* 第二版软件智能手机版"
