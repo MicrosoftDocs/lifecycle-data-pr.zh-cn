@@ -3,12 +3,12 @@ metadata:
   title: Azure 计划程序
   description: Azure Scheduler 遵循现代生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 8784da0b0e19819cc23b5a7b5580a91a544fe5720609f56705b18f5024b5810a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849104"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492952"
 name: Azure 计划程序
 summary: >+
   Azure Scheduler 遵循现代[](/lifecycle/policies/modern)生命周期策略。
