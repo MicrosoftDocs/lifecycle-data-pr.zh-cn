@@ -4,12 +4,12 @@ metadata:
   description: Dynamics Retail Management System 2.0 遵循已修复生命周期策略。
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
-  ms.openlocfilehash: ed65c203ac5467c21346178a7a8827509e6e3daa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 62d01907b248dd2ac2a8cee5c43db2803dc47ed60e35827703528ba9f70702e1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931961"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490621"
 name: Dynamics Retail Management System 2.0
 summary: "Dynamics Retail Management System 2.0 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：总部，商店运营\n\n"
 products:
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>链接 \n* [服务包策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 总部\n* 商店运营"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 总部\n* 商店运营"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 遵循固定生命周期策略。
+  description: Microsoft Visual Studio 2005 遵循已修复生命周期策略。
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937585"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497873"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：专业版、标准版、Standard Edition academic license、Team Edition for Database Professionals、Team Edition for Software Architects、Team Edition for Software Developers、Team Edition for Software Testers、Team Suite、Team Test Load Agent、Tools for the Microsoft Office System、VB Express、Visual C# Express、Visual C++ Express、Visual J# Express、Visual Web Developer Express
+  适用于以下版本：专业版、标准版、标准版学术许可证、Team Edition for Database Professionals、Team Edition for Software Architects、Team Edition for Software Developers、Team Edition for Software Testers、Team Suite、Team Test Load Agent、适用于 Microsoft Office 系统的工具、VB Express、Visual C# Express、Visual C++ Express、Visual J# Express、Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# 支持信息](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio 产品信息](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 对该产品的支持已结束。 有关迁移指南，请参阅下文。\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals 于 2007 年 3 月 2 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 专业版\n* 标准版\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# 支持信息](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio 产品信息](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 对该产品的支持已结束。 有关迁移指南，请参阅下文。\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals 于 2007 年 3 月 2 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 专业\n* 标准\n* 标准版学术许可证\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* 适用于 Microsoft Office 系统的工具\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
