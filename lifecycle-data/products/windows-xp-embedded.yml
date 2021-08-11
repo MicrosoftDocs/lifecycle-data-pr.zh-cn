@@ -4,12 +4,12 @@ metadata:
   description: Windows XP Embedded 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Embedded
-  ms.openlocfilehash: 7f65f5c146bb41fda3529b2ad4457a7e77e0024a
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2d2f2aca6231f8180654434446c2b88c44854e1abd90888a9f12414aa9f938fe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938843"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2508122"
 name: Windows XP Embedded
 summary: "Windows XP Embedded 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Embedded\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。\n"
 products:
