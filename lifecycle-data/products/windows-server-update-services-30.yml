@@ -4,12 +4,12 @@ metadata:
   description: Windows Server Update Services 3.0 遵循固定生命周期策略。
   ms.date: 05/28/2021
   keywords: 
-  ms.openlocfilehash: 023eb852bc7c97e08a6a1d3602ed673e0ee660c1
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: 5ccb7e6e041d9af8eb96bf7fd6193ff116c591e8dd01dd9381f986d4a49b58ec
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029791"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493655"
 name: Windows Server Update Services 3.0
 summary: "Windows Server Update Services 3.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n\n\n> [!IMPORTANT]\n> 支持已结束。 请注意，WSUS 3.0 SP2 不支持更安全的 TLS 1.2 加密协议。 任何仍在使用 WSUS 3.0 SP2 的组织必须在 2021 年 10 月 31 日之前迁移到受支持的 WSUS 版本。\n\n"
 products:

@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2013 遵循已修复生命周期策略。
   ms.date: 09/01/2020
   keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: 100aa95885f04cb46c643954c2f6de0cfac1073e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: eb8d8d8be4318a095db75c918146b9967c89e78c4ea849c030648ef9768a101d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932183"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495875"
 name: BizTalk Server 2013
 summary: "BizTalk Server 2013 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：分支版、开发人员版、企业版、标准版\n\n"
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 06/12/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [服务包策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>版本 \n* 分支版\n* 开发人员版\n* 企业版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>版本 \n* 分支版\n* 开发人员版\n* 企业版\n* 标准"

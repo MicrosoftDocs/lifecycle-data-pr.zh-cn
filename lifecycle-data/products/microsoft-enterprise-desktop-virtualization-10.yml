@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Enterprise Desktop Virtualization 1.0 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 2e3879b453726a643faf1a53bfb51628d44ddd02
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: c215b7dfc53421e6fa052ff45ed7f4547ad2e96f7873ef3b3ef0a97a52753823
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933959"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511637"
 name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: "Microsoft Enterprise Desktop Virtualization 1.0 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
