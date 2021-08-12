@@ -4,14 +4,14 @@ metadata:
   description: Microsoft Office Communications Server 2007 R2 遵循固定生命周期策略。
   ms.date: 09/10/2020
   keywords: All applicable,Enterprise,XMPP Gateway
-  ms.openlocfilehash: f2ffe44d722e5b27e1ad852b480a531b49c729c0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: d6578ffee53ac99b0521db6f061d3936e2f9b6c82f9168dc79e8dfd07f969f7c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001753"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518593"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：全部适用、企业版、XMPP 网关版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
+summary: "Microsoft Office Communications Server 2007 R2 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：所有适用、企业版、XMPP 网关\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅迁移指南。 \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP 网关版于 2009 年 9 月 28 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 企业版\n* XMPP 网关版"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP 网关于 2009 年 9 月 28 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 全部适用\n* 企业版\n* XMPP 网关"

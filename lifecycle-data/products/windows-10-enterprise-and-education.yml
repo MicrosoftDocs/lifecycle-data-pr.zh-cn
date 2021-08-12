@@ -4,12 +4,12 @@ metadata:
   description: Windows 10 企业版和教育版遵循现代生命周期策略。
   ms.date: 04/23/2021
   keywords: 
-  ms.openlocfilehash: 0642fb0309b42b0a86300bb8e8f0fe2f5e15deec
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: e4f4d2c662017aa3334a0b08db7b1e46e752c50257c057dd511222e65e58a3e1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029902"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497540"
 name: Windows 10 企业版和教育版
 summary: "Windows 10 企业版和教育版遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：教育版，企业版\n\n> [!IMPORTANT]\n> Microsoft 将继续支持至少一个 Windows 10 半年频道的发布版本，直到 2025 年 10 月 14 日。\n下表显示了到目前为止发布的版本。\n"
 products:
