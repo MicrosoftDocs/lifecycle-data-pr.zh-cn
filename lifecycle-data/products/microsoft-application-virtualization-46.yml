@@ -3,33 +3,44 @@ metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
-  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935550"
+  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
 name: Microsoft Application Virtualization 4.6
-summary: "Microsoft Application Virtualization 4.6 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：远程桌面服务、Windows 桌面、Sequencer\n\n"
+summary: |+
+  Microsoft Application Virtualization 4.6 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  这适用于以下版本：远程桌面服务、Windows 桌面、Sequencer
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。\n\n## <a name=\"editions\"></a>版本 \n* 适用于远程桌面服务\n* 适用于 Windows 桌面\n* Sequencer"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>链接 
+  * [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [迁移指南](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > 由于 App-V 4.6 客户端使用 App-V 4.5 服务器，因此在与受支持的 App-V 4.6 客户端一起使用时，App-V 4.5 服务器将继续根据 App-V 4.6 的生命周期日期得到支持。
+
+  ## <a name="editions"></a>版本 
+  * 适用于远程桌面服务
+  * 适用于 Windows 桌面
+  * Sequencer

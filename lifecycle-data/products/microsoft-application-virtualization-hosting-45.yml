@@ -4,29 +4,37 @@ metadata:
   description: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 50fe924f5e1b5968a41beea54c1cc30d5df28434
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935476"
 name: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops
-summary: "Microsoft Application Virtualization Hosting 4.5 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n这适用于以下版本：Windows 桌面版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅以下迁移信息。\n"
+summary: |
+  Microsoft Application Virtualization Hosting 4.5 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  这适用于以下版本：Windows Desktops
+
+  > [!IMPORTANT]
+  > 对该产品的支持已结束。 请参阅以下迁移信息。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Windows 桌面版"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>链接 
+  * [产品和迁移信息](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>版本 
+  * 适用于 Windows 桌面

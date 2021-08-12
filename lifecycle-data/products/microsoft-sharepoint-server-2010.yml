@@ -3,30 +3,43 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: Microsoft SharePoint Server 2010 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941549"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: "Microsoft SharePoint Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：访问服务、全部适用、Excel 服务、Performance Point 服务\n\n"
+summary: |+
+  Microsoft SharePoint Server 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  适用于以下版本：访问服务、全部适用、Excel 服务、Performance Point 服务
+
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>链接 \n* [支持扩展](https://aka.ms/SharePoint/server/2010/supportextension)\n* [迁移指南](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Microsoft SharePoint Server 2010 开发人员文档](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Microsoft SharePoint Server 2010 产品文档](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> 本产品的支持截止日期已从 2020 年 4 月 14 日推迟到 2021 年 4 月 13 日。\n\n## <a name=\"editions\"></a>版本 \n* 访问服务\n* 全部适用\n* Excel Services\n* Performance Point 服务"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>链接 
+  * [支持扩展](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [迁移指南](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Microsoft SharePoint Server 2010 开发人员文档](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))
+  * [Microsoft SharePoint Server 2010 产品文档](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))
+
+  > [!NOTE]
+  > 本产品的支持截止日期已从 2020 年 4 月 14 日推迟到 2021 年 4 月 13 日。
+
+  ## <a name="editions"></a>版本 
+  * 访问服务
+  * 全部适用
+  * Excel Services
+  * Performance Point 服务
