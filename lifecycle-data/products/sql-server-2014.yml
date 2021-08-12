@@ -4,14 +4,14 @@ metadata:
   description: SQL Server 2014 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Business Intelligence,Developer,Enterprise,Enterprise Core,Express,Standard,Web
-  ms.openlocfilehash: 551c7b4fe8a3a36dfbc8866abd3006d022116dc6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 3d3669c46791dcd92c3ed444e693ea385bc0d8ef11ae6143f63482ac34ea8eac
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937992"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2516151"
 name: SQL Server 2014
-summary: "SQL Server 2014 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商业智能版、开发人员版、企业版、企业核心版、Express 版、标准版、Web 版\n\n"
+summary: "SQL Server 2014 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：商业智能，开发人员，企业，企业核心，速成，标准，Web\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业智能版\n* 开发人员版\n* 企业版\n* 企业核心版\n* Express 版\n* 标准版\n* Web 版"
+content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业智能\n* 开发人员版\n* 企业版\n* 企业核心\n* Express\n* 标准\n* Web"
