@@ -4,12 +4,12 @@ metadata:
   description: Windows Small Business Server 2011 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Essentials,Premium Add-On,Standard
-  ms.openlocfilehash: 600151f11d58d79951d9324ef85dbf693eebae02
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 5a763d45c8922cd4fcfef439fe3415e39bbf8cafe38225466aa427151087b178
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939139"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519925"
 name: Windows Small Business Server 2011
 summary: "Windows Small Business Server 2011 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Essentials，Premium Add-On，标准\n\n> [!IMPORTANT]\n> 此产品包的支持日期由其单个组件产品的各自生命周期决定。 请检查单个组件产品的生命周期，以确定其支持期限。\n"
 products:

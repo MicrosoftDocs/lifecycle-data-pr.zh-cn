@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Commerce Server 2009 R2 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: 2eb1fe96425cba49ef01816d6e90dc79c1a0a306
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 96171848b16af4e6f461e2b9884e011e389a162a4c3418a47ed225745e2c965e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934329"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2502461"
 name: Microsoft Commerce Server 2009 R2
 summary: "Microsoft Commerce Server 2009 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业，标准\n\n"
 products:
