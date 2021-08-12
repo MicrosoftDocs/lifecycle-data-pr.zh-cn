@@ -4,12 +4,12 @@ metadata:
   description: Windows Storage Server 2008 R2 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Essentials,Standard
-  ms.openlocfilehash: 0235c6e592408d81f63bfb30249288892d4732af
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 4daee683afcc609ab98daafc5a4f3d70c871fc37fe75821494316d44436c17bb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939102"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493507"
 name: Windows Storage Server 2008 R2
 summary: "Windows Storage Server 2008 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：协作版，标准版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>链接 \n* [终止支持日期](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [扩展安全更新程序常见问题](/lifecycle/faq/extended-security-updates)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> 协作版于 2011 年 6 月 28 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 基础版\n* 标准"
+content: "\n## <a name=\"links\"></a>链接 \n* [终止支持日期](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [扩展安全更新程序常见问题](/lifecycle/faq/extended-security-updates)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> 协作版于 2011 年 6 月 28 日发布。\n\n## <a name=\"editions\"></a>版本 \n* 写作版\n* 标准"
