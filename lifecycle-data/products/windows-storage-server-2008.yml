@@ -4,14 +4,14 @@ metadata:
   description: Windows Storage Server 2008 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
-  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 7c8c31e0c0a097e251c7f9ee15281b81ba1478ad5f3944020029630aa1bcdd0d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939028"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486440"
 name: Windows Storage Server 2008
-summary: "Windows Storage Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：普通版、普通版 32 位、普通版 64 位、普通嵌入式版、普通嵌入式版 32 位、企业版、企业嵌入式版、标准版、标准嵌入式版、工作组版\n\n> [!IMPORTANT]\n> 此产品的支持已终止。 有关迁移指南，请参阅下文。\n"
+summary: "Windows Storage Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：普通，普通 32 位，普通 64 位，普通嵌入式，普通嵌入式 32 位，企业，企业嵌入式，标准，标准嵌入式，工作组\n\n> [!IMPORTANT]\n> 此产品的支持已终止。 有关迁移指南，请参阅下文。\n"
 products:
 - windows
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>版本 \n* 普通版\n* 普通版 32 位\n* 普通版 64 位\n* 普通嵌入式版\n* 普通嵌入式版 32 位\n* 企业版\n* 企业嵌入式版\n* 标准版\n* 标准嵌入式版\n* 工作组版"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 普通 32 位\n* 普通 64 位\n* 普通嵌入式\n* 普通嵌入式 32 位\n* 企业版\n* 企业嵌入式\n* 标准\n* 标准嵌入式\n* 工作组"

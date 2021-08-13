@@ -4,18 +4,18 @@ metadata:
   description: Windows Vista 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Business,Business N,Business N 64-bit,Enterprise,Enterprise X64,Home Basic,Home Basic 64-bit,Home Basic N,Home Basic N 64-bit,Home Premium,Home Premium 64-bit,Starter,Ultimate,Ultimate 64-bit
-  ms.openlocfilehash: 4ee6353668b69dd9b05e6ee202a37dcfebb0ce10
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: d4faacd259c74779e99c5cf26d71cbaa38d7eb92260173378461b41bbe634589
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938917"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486329"
 name: Windows Vista
 summary: >
   Windows Vista 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
 
-  适用于以下版本：商业版、商业版 N、商业版 N 64 位、企业版、企业版 X64、家庭普通版、家庭普通版 64 位、家庭普通版 N、家庭普通版 N 64 位、家庭高级版、家庭高级版 64 位、入门版、旗舰版、旗舰版 64 位
+  适用于以下版本：商业，商业 N，商业 N 64 位，企业，企业 X64，家庭普通，家庭普通 64 位，家庭普通 N，家庭普通 N 64 位，家庭高级，家庭高级 64 位，入门，旗舰，旗舰 64 位
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升级和迁移注意事项](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* 商业版 N\n* 商业版 N 64 位\n* 企业版\n* 企业版 X64\n* 家庭普通版\n* 家庭普通版 64 位\n* 家庭普通版 N\n* 家庭普通版 N 64 位\n* 家庭高级版\n* 家庭高级版 64 位\n* 入门版\n* 旗舰版\n* 旗舰版 64 位"
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升级和迁移注意事项](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* 商业版 N\n* 商业 N 64 位\n* 企业版\n* 企业版 X64\n* 家庭普通\n* 家庭普通 64 位\n* 家庭普通版 N\n* 家庭普通版 N 64 位\n* 家庭高级版\n* 家庭高级 64 位\n* 入门版\n* Ultimate\n* 旗舰版 64 位"
