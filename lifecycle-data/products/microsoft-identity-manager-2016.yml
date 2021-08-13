@@ -3,29 +3,32 @@ metadata:
   title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016 遵循固定生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849241"
 name: Microsoft Identity Manager 2016
-summary: "Microsoft Identity Manager 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
+summary: |+
+  Microsoft Identity Manager 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 09/28/2015
   end: 01/12/2021
   extendedEnd: 01/13/2026
 releases:
-- version: Service Pack 2
-  startDate: 11/04/2019
-  endDate: 01/13/2026
-- version: Service Pack 1
-  startDate: 09/20/2016
-  endDate: 11/04/2020
-- version: Original Release
-  startDate: 09/28/2015
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>链接 \n* [到 Microsoft Identity Manager 2016 扩展支持结束为止，Azure 支持可用于 Azure AD 集成组件。](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure 支持计划。](https://azure.microsoft.com/support/plans/)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+  - version: Service Pack 2
+    startDate: 11/04/2019
+    endDate: 01/13/2026
+  - version: Service Pack 1
+    startDate: 09/20/2016
+    endDate: 11/04/2020
+  - version: Original Release
+    startDate: 09/28/2015
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>链接 
+  * [到 Microsoft Identity Manager 2016 扩展支持结束为止，Azure 支持可用于 Azure AD 集成组件。](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)
+  * [Azure 支持计划。](https://azure.microsoft.com/support/plans/)
+  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
+  * [产品信息](/microsoft-identity-manager/microsoft-identity-manager-2016)

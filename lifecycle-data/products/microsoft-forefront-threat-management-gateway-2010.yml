@@ -3,39 +3,38 @@ metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
   description: Microsoft Forefront Threat Management Gateway 2010 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: b14bccc0637b191a7523238e5ee8b25c39183469
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933811"
+  keywords: 'Enterprise,Standard'
 name: Microsoft Forefront Threat Management Gateway 2010
-summary: >
-  Microsoft Forefront Threat Management Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+summary: |
+  Microsoft Forefront Threat Management Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
 
-
-  适用于以下版本：企业版、标准版
-
+  适用于以下版本：企业，标准
 
   > [!IMPORTANT]
-
   > 支持已结束。 请参阅下面的迁移指南。
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 12/01/2009
   end: 04/14/2015
   extendedEnd: 04/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 10/04/2011
-  endDate: 04/14/2020
-- version: Service Pack 1
-  startDate: 06/07/2010
-  endDate: 01/08/2013
-- version: Original Release
-  startDate: 12/01/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准版"
+  - version: Service Pack 2
+    startDate: 10/04/2011
+    endDate: 04/14/2020
+  - version: Service Pack 1
+    startDate: 06/07/2010
+    endDate: 01/08/2013
+  - version: Original Release
+    startDate: 12/01/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>链接 
+  * [迁移指南](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)
+
+
+  ## <a name="editions"></a>版本 
+  * 企业版
+  * 标准

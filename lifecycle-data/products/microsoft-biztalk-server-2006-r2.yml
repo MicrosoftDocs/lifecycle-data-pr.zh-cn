@@ -3,17 +3,10 @@ metadata:
   title: Microsoft BizTalk Server 2006 R2
   description: Microsoft BizTalk Server 2006 R2 遵循固定生命周期策略。
   ms.date: 05/26/2021
-  keywords: 
-  ms.openlocfilehash: 4449e591b52a37a44752ded8a336266df2ba6b1b
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2030007"
+  keywords: null
 name: Microsoft BizTalk Server 2006 R2
-summary: >+
+summary: |+
   Microsoft BizTalk Server 2006 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
 
 
   适用于以下版本：分支版、开发人员版、企业版、标准版
@@ -21,17 +14,31 @@ summary: >+
 
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/23/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Service Pack 1
-  startDate: 04/27/2010
-  endDate: 07/12/2016
-- version: Original Release
-  startDate: 06/23/2006
-  endDate: 04/12/2011
-content: "\n\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [迁移指南](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n\n\n\n\n## <a name=\"editions\"></a>版本 \n* 分支版\n* 开发人员版\n* 企业版\n* 标准"
+  - version: Service Pack 1
+    startDate: 04/27/2010
+    endDate: 07/12/2016
+  - version: Original Release
+    startDate: 06/23/2006
+    endDate: 04/12/2011
+content: |+
+
+
+  ## <a name="links"></a>链接 
+  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
+  * [迁移指南](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)
+
+
+
+
+  ## <a name="editions"></a>版本 
+  * 分支版
+  * 开发人员版
+  * 企业版
+  * 标准

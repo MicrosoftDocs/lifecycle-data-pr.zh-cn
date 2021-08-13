@@ -3,24 +3,34 @@ metadata:
   title: Winternals
   description: Winternals 遵循已修复生命周期政策。
   ms.date: 09/01/2020
-  keywords: Administrator's Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0
-  ms.openlocfilehash: 23c4939c233902db0803caa6a5de406ab138bcb4
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938695"
+  keywords: 'Administrator''s Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0'
 name: Winternals
-summary: "Winternals 遵循[固定](/lifecycle/policies/fixed)生命周期政策。 \n\n适用于以下版本：Administrator's Pak 5.0，Defrag Manager 3.0，Protection Manager 2.0。Recovery Manager 3.0\n\n"
+summary: |+
+  Winternals 遵循[固定](/lifecycle/policies/fixed)生命周期政策。 
+
+  适用于以下版本：Administrator's Pak 5.0，Defrag Manager 3.0，Protection Manager 2.0。Recovery Manager 3.0
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
   extendedEnd: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>链接 \n* [Microsoft 收购的生命周期策略](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> 排除以前不支持的版本。 支持该产品时须遵守其购置条款。\n\n## <a name=\"editions\"></a>版本 \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* 保护管理器 2.0\n* Recovery Manager 3.0"
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>链接 
+  * [Microsoft 收购的生命周期策略](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)
+
+  > [!NOTE]
+  > 排除以前不支持的版本。 支持该产品时须遵守其购置条款。
+
+  ## <a name="editions"></a>版本 
+  * Administrator's Pak 5.0
+  * Defrag Manager 3.0
+  * 保护管理器 2.0
+  * Recovery Manager 3.0
