@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.0
   description: Microsoft Internet Information Services 7.0 遵循组件生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806579"
 name: Microsoft Internet Information Services 7.0
-summary: >+
+summary: |+
   Microsoft Internet Information Services 7.0 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 01/25/2007
 releases:
-- version: Original Release
-  startDate: 01/25/2007
-content: "> [!TIP]\n> 此版本称为遵循其父级主要产品 Windows Server 2008 的支持生命周期的组件\n\n## <a name=\"links\"></a>链接 \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)"
+  - version: Original Release
+    startDate: 01/25/2007
+content: |+
+  > [!TIP]
+  > 此版本称为遵循其父级主要产品 Windows Server 2008 的支持生命周期的组件
+
+  ## <a name="links"></a>链接 
+  * [Windows Server 2008](/lifecycle/products/windows-server-2008)
