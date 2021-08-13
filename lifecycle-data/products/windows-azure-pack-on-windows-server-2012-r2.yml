@@ -3,32 +3,33 @@ metadata:
   title: Windows Azure Pack（在 Windows Server 2012 R2 上）
   description: Windows Azure Pack（在 Windows Server 2012 R2 上）遵循固定生命周期策略。
   ms.date: 10/19/2020
-  keywords: 
-  ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
-  ms.sourcegitcommit: 2898ade954d468d09e16a723f0685bbac5214be0
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "1160900"
+  keywords: null
 name: Windows Azure Pack（在 Windows Server 2012 R2 上）
-summary: >+
+summary: |+
   Windows Azure Pack（在 Windows Server 2012 R2 上）遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
 
   这适用于以下版本：Windows Server 2012 R2
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/14/2014
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: on Windows Server 2012 R2
-  startDate: 01/14/2014
-  endDate: 07/12/2022
-- version: V2 Web Sites
-  startDate: 01/14/2014
-  endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>链接 \n* [Windows Azure Pack Web Sites V2 支持生命周期日期](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure Pack for Windows Server 产品信息](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>版本 \n* Windows Server 2012 R2"
+  - version: on Windows Server 2012 R2
+    startDate: 01/14/2014
+    endDate: 07/12/2022
+  - version: V2 Web Sites
+    startDate: 01/14/2014
+    endDate: 07/12/2022
+content: |
+
+  ## <a name="links"></a>链接 
+  * [Windows Azure Pack Web Sites V2 支持生命周期日期](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)
+  * [Windows Azure Pack for Windows Server 产品信息](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+
+  ## <a name="editions"></a>版本 
+  * Windows Server 2012 R2

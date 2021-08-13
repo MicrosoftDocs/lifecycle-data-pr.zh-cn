@@ -3,17 +3,10 @@ metadata:
   title: Windows Server 2003 R2
   description: Windows Server 2003 R2 遵循固定生命周期策略。
   ms.date: 05/26/2021
-  keywords: 
-  ms.openlocfilehash: c50fad87d8461c8c77bc535d02ae2c3c6385c882
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2030011"
+  keywords: null
 name: Windows Server 2003 R2
-summary: >+
+summary: |+
   Windows Server 2003 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
 
 
   适用于以下版本：数据中心，数据中心（32 位 x86），数据中心 (x64)，企业（32 位 x86），企业 x64，标准（32 位 x86），标准 x64
@@ -21,17 +14,35 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [从 Windows Server 2003 升级到 Windows Server 2008 的支持路径](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [准备 Windows Server 2003 计算机进行迁移](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 数据中心（32 位 x86）\n* 数据中心 (x64)\n* 企业（32 位 x86）\n* 企业版 X64\n* 标准（32 位 x86）\n* 标准 X64 版"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |+
+
+
+  ## <a name="links"></a>链接 
+  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
+  * [从 Windows Server 2003 升级到 Windows Server 2008 的支持路径](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
+  * [准备 Windows Server 2003 计算机进行迁移](/azure/migrate/prepare-windows-server-2003-migration)
+
+
+
+
+  ## <a name="editions"></a>版本 
+  * 数据中心版
+  * 数据中心（32 位 x86）
+  * 数据中心 (x64)
+  * 企业（32 位 x86）
+  * 企业版 X64
+  * 标准（32 位 x86）
+  * 标准 X64 版

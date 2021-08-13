@@ -3,32 +3,47 @@ metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 5b020aa502db37cded2369b6c15eeb0c00d3b878
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937363"
+  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
 name: Visual Studio 2017
-summary: >+
+summary: |+
   Visual Studio 2017 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
 
   适用于以下版本：代理、生成工具、社区、企业、ESM、反馈客户端、Mac、IntelliTrace 独立收集器、性能工具、专业、PSM、远程工具、Team Explorer、Test Professional、Visual C++ 可再发行版
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-- version: Version 15.9
-  startDate: 11/13/2018
-  endDate: 04/13/2027
-- version: Version 15.0
-  startDate: 03/07/2017
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>链接 \n* [公告](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [服务信息](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 生成工具\n* 社区\n* 企业版\n* ESM\n* 反馈客户端\n* Mac\n* IntelliTrace 独立收集器\n* 性能工具\n* 专业\n* PSM\n* 远程工具\n* 团队资源管理器\n* 专业测试工具版\n* Visual C++ 可再发行程序包"
+  - version: Version 15.9
+    startDate: 11/13/2018
+    endDate: 04/13/2027
+  - version: Version 15.0
+    startDate: 03/07/2017
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>链接 
+  * [公告](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
+  * [服务信息](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
+
+
+  ## <a name="editions"></a>版本 
+  * Agents
+  * 生成工具
+  * 社区
+  * 企业版
+  * ESM
+  * 反馈客户端
+  * Mac
+  * IntelliTrace 独立收集器
+  * 性能工具
+  * 专业
+  * PSM
+  * 远程工具
+  * 团队资源管理器
+  * 专业测试工具版
+  * Visual C++ 可再发行程序包

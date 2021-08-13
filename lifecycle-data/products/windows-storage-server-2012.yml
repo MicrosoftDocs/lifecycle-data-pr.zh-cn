@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 遵循固定生命周期策略。
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002230"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
-
 
   适用于以下版本：标准版、工作组版
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。\n\n## <a name=\"editions\"></a>版本 \n* 标准\n* 工作组"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>链接 
+  * [迁移指南](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。
+
+  ## <a name="editions"></a>版本 
+  * 标准
+  * 工作组
