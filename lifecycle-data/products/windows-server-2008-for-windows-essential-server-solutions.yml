@@ -3,27 +3,36 @@ metadata:
   title: 用于 Windows Essential Server 解决方案的 Windows Server 2008
   description: 用于 Windows Essential Server 解决方案的 Windows Server 2008 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939546"
+  keywords: 'Standard,without Hyper-V'
 name: 用于 Windows Essential Server 解决方案的 Windows Server 2008
-summary: "用于 Windows Essential Server 解决方案的 Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：标准版，无 Hyper-V\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
+summary: |
+  用于 Windows Essential Server 解决方案的 Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  适用于以下版本：标准版，无 Hyper-V
+
+  > [!IMPORTANT]
+  > 对该产品的支持已结束。 请参阅下面的迁移指南。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/18/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 02/18/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [产品信息](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>版本 \n* 标准\n* 无 Hyper-V"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 02/18/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>链接 
+  * [迁移指南](https://aka.ms/AA1ovn4)
+  * [产品信息](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)
+
+
+  ## <a name="editions"></a>版本 
+  * 标准
+  * 无 Hyper-V

@@ -4,23 +4,28 @@ metadata:
   description: Microsoft Office Communicator 2005 遵循固定生命周期策略。
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936253"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 遵循固定[](/lifecycle/policies/fixed)生命周期策略。\n\n适用于以下版本：标准版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
+summary: |
+  Microsoft Office Communicator 2005 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+
+  适用于以下版本：标准版
+
+  > [!IMPORTANT]
+  > 对该产品的支持已结束。 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 标准"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>版本 
+  * 标准

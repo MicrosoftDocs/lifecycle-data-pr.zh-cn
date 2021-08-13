@@ -3,24 +3,35 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Essentials,Standard,Workgroup
-  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938991"
+  keywords: 'Essentials,Standard,Workgroup'
 name: Windows Storage Server 2012 R2
-summary: "Windows Storage Server 2012 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Essentials，标准，工作组\n\n"
+summary: |+
+  Windows Storage Server 2012 R2 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  适用于以下版本：Essentials，标准，工作组
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。\n> [!NOTE]\n> Essentials 版的开始日期为 2014 年 9 月 25 日。 \n\n## <a name=\"editions\"></a>版本 \n* 写作版\n* 标准\n* 工作组"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>链接 
+  * [迁移指南](/windows-server/upgrade/upgrade-2012r2-to-2019)
+
+  > [!NOTE]
+  > 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。
+  > [!NOTE]
+  > Essentials 版的开始日期为 2014 年 9 月 25 日。 
+
+  ## <a name="editions"></a>版本 
+  * 写作版
+  * 标准
+  * 工作组

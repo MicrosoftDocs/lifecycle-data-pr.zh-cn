@@ -3,33 +3,41 @@ metadata:
   title: Microsoft Office Project 2003
   description: Microsoft Office Project 2003 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 5d27a4ac1b21778f175b31fd897a986ec8159342
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932812"
+  keywords: 'Professional,Standard'
 name: Microsoft Office Project 2003
-summary: "Microsoft Office Project 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：专业，标准\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 \n"
+summary: |
+  Microsoft Office Project 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  适用于以下版本：专业，标准
+
+  > [!IMPORTANT]
+  > 对该产品的支持已结束。 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 11/17/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 3
-  startDate: 09/17/2007
-  endDate: 04/08/2014
-- version: Service Pack 2
-  startDate: 09/26/2005
-  endDate: 10/14/2008
-- version: Service Pack 1
-  startDate: 07/27/2004
-  endDate: 10/10/2006
-- version: Original Release
-  startDate: 11/17/2003
-  endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>链接 \n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 专业\n* 标准"
+  - version: Service Pack 3
+    startDate: 09/17/2007
+    endDate: 04/08/2014
+  - version: Service Pack 2
+    startDate: 09/26/2005
+    endDate: 10/14/2008
+  - version: Service Pack 1
+    startDate: 07/27/2004
+    endDate: 10/10/2006
+  - version: Original Release
+    startDate: 11/17/2003
+    endDate: 07/27/2005
+content: |
+
+  ## <a name="links"></a>链接 
+  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>版本 
+  * 专业
+  * 标准
