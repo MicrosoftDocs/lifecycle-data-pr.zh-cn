@@ -3,38 +3,46 @@ metadata:
   title: Microsoft Office 2007
   description: Microsoft Office 2007 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Basic,Enterprise,Home and Student,Multi Language Pack,Professional,Professional Plus,Small Business,Standard,Ultimate
-  ms.openlocfilehash: 9ae47c5cee79a22aa61684c3dc132896aeacfc01
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936771"
+  keywords: 'Basic,Enterprise,Home and Student,Multi Language Pack,Professional,Professional Plus,Small Business,Standard,Ultimate'
 name: Microsoft Office 2007
-summary: >+
+summary: |+
   Microsoft Office 2007 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
-
-  适用于以下版本：普通版、企业版、家庭和学生版、多语言包版、专业版、专业增强版、小型企业版、标准版、旗舰版
+  适用于以下版本：基础，企业，家庭和学生，多语言包，专业，专业增强，小企业，标准，旗舰
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Service Pack 3
-  startDate: 10/25/2011
-  endDate: 10/10/2017
-- version: Service Pack 2
-  startDate: 04/28/2009
-  endDate: 01/08/2013
-- version: Service Pack 1
-  startDate: 12/11/2007
-  endDate: 07/13/2010
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>版本 \n* 普通版\n* 企业版\n* 家庭版和学生版\n* 多语言包版\n* 专业版\n* 专业增强版\n* 小型企业版\n* 标准版\n* 旗舰版"
+  - version: Service Pack 3
+    startDate: 10/25/2011
+    endDate: 10/10/2017
+  - version: Service Pack 2
+    startDate: 04/28/2009
+    endDate: 01/08/2013
+  - version: Service Pack 1
+    startDate: 12/11/2007
+    endDate: 07/13/2010
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 01/13/2009
+content: |
+
+  ## <a name="links"></a>链接 
+  * [迁移指南](https://support.microsoft.com/kb/3198497)
+
+
+  ## <a name="editions"></a>版本 
+  * 基本
+  * 企业版
+  * 家庭版和学生版
+  * 多语言包
+  * 专业
+  * Professional Plus
+  * 小型企业版
+  * 标准
+  * Ultimate
