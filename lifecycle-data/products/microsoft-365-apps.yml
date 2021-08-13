@@ -3,26 +3,32 @@ metadata:
   title: Microsoft 365 应用版
   description: Microsoft 365 应用遵循现代生命周期策略。
   ms.date: 04/07/2021
-  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
-  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2030006"
+  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
 name: Microsoft 365 应用版
-summary: >+
+summary: |+
   Microsoft 365 应用版遵循[现代](/lifecycle/policies/modern)生命周期策略。
-
 
   这适用于以下版本：商业版、企业版
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 09/22/2015
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>链接 \n* [支持的版本](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [系统要求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Office 配置支持列表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Microsoft 365 应用版部署指南](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Microsoft 365 企业应用版旧称为“Office 365 专业增强版”。 Microsoft 365 商业应用版旧称为“Office 365 商业版”。\n\n## <a name=\"editions\"></a>版本 \n* 商业版\n* 企业版"
+  - version: Original Release
+    startDate: 09/22/2015
+content: |
+
+  ## <a name="links"></a>链接 
+  * [支持的版本](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
+  * [系统要求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [Office 配置支持列表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
+  * [Microsoft 365 应用版部署指南](/DeployOffice/deployment-guide-microsoft-365-apps)
+
+  > [!NOTE]
+  > Microsoft 365 企业应用版旧称为“Office 365 专业增强版”。 Microsoft 365 商业应用版旧称为“Office 365 商业版”。
+
+  ## <a name="editions"></a>版本 
+  * 商业版
+  * 企业版

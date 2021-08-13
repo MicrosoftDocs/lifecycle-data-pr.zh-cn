@@ -3,30 +3,52 @@ metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937474"
+  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
 name: Visual Studio 2012
-summary: "Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：代理版、社区 2013 版、Express for Web、Express for Windows 8、Express for Windows Desktop、IntelliTrace 收集器版、Microsoft Azure 工具版、高级版、专业版、远程工具版、Shell（集成）版、Shell（独立）版、SQL Server 数据工具版、Team Explorer、专业测试工具 2013 版、旗舰版、Visual C++ 可再发行版、Web 工具扩展版\n\n"
+summary: |+
+  Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+  适用于以下版本：Agents，Community 2013，Express for Web，Express for Windows 8，Express for Windows Desktop，IntelliTrace Collector，Microsoft Azure 工具，高级，专业，远程工具，Shell（集成），Shell（独立），SQL Server 数据工具，Team Explorer，Test Professional 2013，Ultimate，Visual C++ 可再发行程序包，Web 工具扩展
+
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Update 5
-  startDate: 08/21/2015
-  endDate: 01/10/2023
-- version: Update 4
-  startDate: 11/12/2013
-  endDate: 10/08/2019
-- version: Original Release
-  startDate: 10/31/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>链接 \n* [Visual Studio 产品生命周期和服务](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* 代理版\n* 社区 2013 版\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace 收集器版\n* Microsoft Azure 工具版\n* 高级版\n* 专业版\n* 远程工具版\n* Shell（集成）版\n* Shell（独立）版\n* SQL Server 数据工具版\n* Team Explorer\n* 专业测试工具 2013 版\n* 旗舰版\n* Visual C++ 可再发行版\n* Web 工具扩展版"
+  - version: Update 5
+    startDate: 08/21/2015
+    endDate: 01/10/2023
+  - version: Update 4
+    startDate: 11/12/2013
+    endDate: 10/08/2019
+  - version: Original Release
+    startDate: 10/31/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>链接 
+  * [Visual Studio 产品生命周期和服务](/visualstudio/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>版本 
+  * Agents
+  * Community 2013
+  * Express for Web
+  * Express for Windows 8
+  * Express for Windows Desktop
+  * IntelliTrace 收集器
+  * Microsoft Azure Tools
+  * 高级
+  * 专业
+  * 远程工具
+  * Shell（集成）
+  * Shell（独立）
+  * SQL Server 数据工具
+  * 团队资源管理器
+  * Test Professional 2013
+  * Ultimate
+  * Visual C++ 可再发行程序包
+  * Web 工具扩展

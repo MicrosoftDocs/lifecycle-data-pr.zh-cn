@@ -3,29 +3,25 @@ metadata:
   title: Windows 10 移动版，2017 年 4 月发布
   description: 2017 年 4 月发布的 Windows 10 Mobile 遵循固定生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0342a513e9223085885577a70a595292c7b43ce
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867956"
 name: Windows 10 移动版，2017 年 4 月发布
-summary: >
+summary: |
   2017 年 4 月发布的 Windows 10 Mobile 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-
   > [!IMPORTANT]
-
   > 对该产品的支持已结束。
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/25/2017
   end: 06/11/2019
 releases:
-- version: Original Release
-  startDate: 04/25/2017
-  endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [设备操作系统生命周期常见问题解答](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile 于 2019 年 12 月 10 日终止支持](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 04/25/2017
+    endDate: 06/11/2019
+content: |+
+
+  ## <a name="links"></a>链接 
+  * [设备操作系统生命周期常见问题解答](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobile 于 2019 年 12 月 10 日终止支持](/lifecycle/announcements/windows-10-mobile-end-of-support)

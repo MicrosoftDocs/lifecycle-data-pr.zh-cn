@@ -3,23 +3,30 @@ metadata:
   title: Windows Server 2016 Nano Server 安装选项
   description: Windows Server 2016 Nano Server 安装选项遵循现代生命周期策略。
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939398"
+  keywords: 'Datacenter,Standard'
 name: Windows Server 2016 Nano Server 安装选项
-summary: "Windows Server 2016 Nano Server 安装选项遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n适用于以下版本：数据中心版，标准版\n\n"
+summary: |+
+  Windows Server 2016 Nano Server 安装选项遵循[现代](/lifecycle/policies/modern)生命周期策略。 
+
+  适用于以下版本：数据中心版，标准版
+
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [服务信息](/windows-server/get-started/nano-in-semi-annual-channel)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 标准"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>链接 
+  * [服务信息](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>版本 
+  * 数据中心版
+  * 标准

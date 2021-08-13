@@ -3,20 +3,24 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 遵循组件生命周期策略。
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893599"
 name: Internet Explorer 9
-summary: "Internet Explorer 9 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 \n\n\n"
+summary: |+
+  Internet Explorer 9 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 
+
+
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命周期策略常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 从 2016 年 1 月 12 日开始，只有适用于受支持操作系统的最新版本的 Internet Explorer 才会获得技术支持和安全更新。"
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>链接 
+  * [迁移指南](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Internet Explorer 生命周期策略常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > 从 2016 年 1 月 12 日开始，只有适用于受支持操作系统的最新版本的 Internet Explorer 才会获得技术支持和安全更新。
