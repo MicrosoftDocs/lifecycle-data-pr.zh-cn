@@ -3,29 +3,25 @@ metadata:
   title: 2015 年 11 月发布的 Windows 10 移动企业版
   description: 2015 年 11 月发布的 Windows 10 Mobile Enterprise 遵循固定生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0299ce6896a2fc30f3000e41d4d09469358fd1c8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849145"
 name: 2015 年 11 月发布的 Windows 10 移动企业版
-summary: >
+summary: |
   2015 年 11 月发布的 Windows 10 Mobile Enterprise 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
-
   > [!IMPORTANT]
-
   > 对该产品的支持已结束。
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/16/2015
   end: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 11/16/2015
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [设备操作系统生命周期常见问题解答](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile 于 2019 年 12 月 10 日终止支持](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 11/16/2015
+    endDate: 01/09/2018
+content: |+
+
+  ## <a name="links"></a>链接 
+  * [设备操作系统生命周期常见问题解答](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobile 于 2019 年 12 月 10 日终止支持](/lifecycle/announcements/windows-10-mobile-end-of-support)
