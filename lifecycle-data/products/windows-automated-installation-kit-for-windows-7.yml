@@ -3,22 +3,21 @@ metadata:
   title: 适用于 Windows 7 的 Windows 自动安装工具包
   description: 适用于 Windows 7 的 Windows 自动安装工具包遵循已修复生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805568"
 name: 适用于 Windows 7 的 Windows 自动安装工具包
-summary: "适用于 Windows 7 的 Windows 自动安装工具包遵循已修复[](/lifecycle/policies/fixed)生命周期策略。 \n\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。\n"
+summary: |
+  适用于 Windows 7 的 Windows 自动安装工具包遵循已修复[](/lifecycle/policies/fixed)生命周期策略。 
+
+
+  > [!IMPORTANT]
+  > 对该产品的支持已结束。
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 01/13/2015
-content: ''
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 01/13/2015
+content: |+

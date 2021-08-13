@@ -3,23 +3,20 @@ metadata:
   title: Visual Studio Tools for the Microsoft Office System 2003 版
   description: Visual Studio Tools for the Microsoft Office System 2003 版遵循固定生命周期策略。
   ms.date: 07/28/2020
-  ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "805726"
 name: Visual Studio Tools for the Microsoft Office System 2003 版
-summary: "Visual Studio Tools for the Microsoft Office System 版本 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
+summary: |+
+  Visual Studio Tools for the Microsoft Office System 版本 2003 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
+
+
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 12/04/2003
   end: 01/13/2009
   extendedEnd: 01/14/2014
 releases:
-- version: Original Release
-  startDate: 12/04/2003
-  endDate: 01/14/2014
-content: ''
+  - version: Original Release
+    startDate: 12/04/2003
+    endDate: 01/14/2014
+content: |+

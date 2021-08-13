@@ -4,32 +4,32 @@ metadata:
   description: Windows Embedded 2009 遵循固定生命周期策略。
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 0513892d9abd37c001ef4b8019aaac4be0d4463f
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002193"
 name: Windows Embedded 2009
-summary: >
+summary: |
   Windows Embedded 2009 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
-
 
   适用于以下版本：标准版
 
-
   > [!IMPORTANT]
-
   > 支持已结束。 请参阅下面的迁移指南。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/14/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Original Release
-  startDate: 12/14/2008
-  endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>链接 \n* [对 Windows Embedded 2009 的支持已终止](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 专业版](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>版本 \n* 标准"
+  - version: Original Release
+    startDate: 12/14/2008
+    endDate: 01/08/2019
+content: |
+
+  ## <a name="links"></a>链接 
+  * [对 Windows Embedded 2009 的支持已终止](/lifecycle/announcements/windows-embedded-2009-end-of-support)
+  * [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)
+  * [Windows 10 专业版](https://www.microsoft.com/windowsforbusiness/windows-10-pro)
+
+
+  ## <a name="editions"></a>版本 
+  * 标准

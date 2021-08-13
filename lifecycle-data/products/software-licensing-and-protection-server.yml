@@ -3,24 +3,32 @@ metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server 遵循固定生命周期策略。
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001046"
+  keywords: 'Enterprise,Standard'
 name: Software Licensing and Protection Server
-summary: "Software Licensing and Protection Server 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：企业版、标准版\n\n> [!IMPORTANT]\n> 由于剥离 Software Licensing and Protection Server (SLPS)，Microsoft 对 SLPS 的支持持续到 2009 年 9 月 24 日。\n"
+summary: |
+  Software Licensing and Protection Server 遵循固定[](/lifecycle/policies/fixed)生命周期策略。 
+
+  适用于以下版本：企业版、标准版
+
+  > [!IMPORTANT]
+  > 由于剥离 Software Licensing and Protection Server (SLPS)，Microsoft 对 SLPS 的支持持续到 2009 年 9 月 24 日。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>链接 \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 标准"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>链接 
+  * [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>版本 
+  * 企业版
+  * 标准
