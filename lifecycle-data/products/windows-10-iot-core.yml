@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 IoT 核心版
   description: Windows 10 IoT 核心版遵循现代生命周期策略。
-  ms.date: 06/23/2021
+  ms.date: 08/25/2021
   keywords: 
-  ms.openlocfilehash: 8f30578d5acedfe216a8675caa9d4a8e884fb0949e0b1cab79f12d187d01a701
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 207e911fb8f66eb14b71ee86fd36e7c0249264d5
+  ms.sourcegitcommit: 45b05baa69f8e2288d323e8324b0113adadda463
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2510564"
+  ms.lasthandoff: 08/25/2021
+  ms.locfileid: "3164370"
 name: Windows 10 IoT 核心版
 summary: "Windows 10 IoT 核心版遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n\n\n\n> [!IMPORTANT]\n> 本产品已于 2020 年 11 月 10 日停用。 若要继续获得支持，请迁移到 [IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal)。\n\n"
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 11/10/2015
+  start: 04/29/2015
   end: 11/10/2020
 releases:
 - version: Version 1809
@@ -37,4 +37,7 @@ releases:
 - version: Version 1511
   startDate: 11/10/2015
   endDate: 10/10/2017
+- version: Original Release
+  startDate: 04/29/2015
+  endDate: 11/10/2020
 content: "\n\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows 生命周期说明书](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服务 (WaaS)](/windows/deployment/update/waas-quick-start)"
