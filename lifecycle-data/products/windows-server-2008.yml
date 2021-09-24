@@ -2,16 +2,16 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 遵循固定生命周期策略。
-  ms.date: 04/23/2021
+  ms.date: 08/31/2021
   keywords: 
-  ms.openlocfilehash: e410116c0c35fc739a87078ae69e1906d4d0f251e55218f96ffd7d1603fcfdd1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8d1c189ee825c9294e0e5161ded5a56a55526066
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504607"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460631"
 name: Windows Server 2008
-summary: "Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n适用于以下版本：Datacenter，Datacenter（无 Hyper-V），企业版，企业版（无 Hyper-V），用于基于 Itanium 的系统，基础版，标准版，标准版（无 Hyper-V），Web 版\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n"
+summary: "Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n适用于以下版本：Datacenter，Datacenter（无 Hyper-V），企业版，企业版（无 Hyper-V），用于基于 Itanium 的系统，基础版，标准版，标准版（无 Hyper-V），Web 版\n\n\n> [!IMPORTANT]\n> 对该产品的支持已结束。 请参阅下面的迁移指南。\n\n"
 products:
 - windows
 policyType: fixed
@@ -20,11 +20,14 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
 - version: Extended Security Update Year 3
-  startDate: 01/11/2022
+  startDate: 01/12/2022
   endDate: 01/10/2023
 - version: Extended Security Update Year 2
-  startDate: 01/12/2021
+  startDate: 01/13/2021
   endDate: 01/11/2022
 - version: Extended Security Update Year 1
   startDate: 01/14/2020
@@ -35,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "> [!TIP]\n> *扩展安全更新 (ESU) 可通过此产品版本的 Datacenter 版、标准版、企业版和嵌入式版本的特定批量许可计划获得，可在支持结束后最多使用三年。 请联系您的 Microsoft 合作伙伴或客户团队以了解更多信息。 \n\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n* [扩展安全更新计划 (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 基础版已于 2009 年 5 月 21 日发布\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* Datacenter (无 Hyper-V)\n* 企业版\n* 无 Hyper-V 的企业\n* 用于基于 Itanium 的系统\n* Foundation 版\n* 标准\n* 无 Hyper-V 的标准\n* Web"
+content: "> [!TIP]\n> *扩展安全更新 (ESU) 可通过此产品版本的 Datacenter 版、标准版、企业版和嵌入式版本的特定批量许可计划获得，可在支持结束后最多使用三年。 请联系您的 Microsoft 合作伙伴或客户团队以了解更多信息。 \n\n\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://aka.ms/AA1ovn4)\n* [服务器升级信息](/windows-server/upgrade/upgrade-overview)\n* [扩展安全更新计划 (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Windows Server 2008 基础版已于 2009 年 5 月 21 日发布\n\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* Datacenter (无 Hyper-V)\n* 企业版\n* 无 Hyper-V 的企业\n* 用于基于 Itanium 的系统\n* Foundation 版\n* 标准\n* 无 Hyper-V 的标准\n* Web"
