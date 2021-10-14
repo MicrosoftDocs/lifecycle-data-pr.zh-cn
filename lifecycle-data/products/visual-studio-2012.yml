@@ -2,53 +2,31 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 遵循固定生命周期策略。
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509166"
 name: Visual Studio 2012
-summary: |+
-  Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 
-
-  适用于以下版本：Agents，Community 2013，Express for Web，Express for Windows 8，Express for Windows Desktop，IntelliTrace Collector，Microsoft Azure 工具，高级，专业，远程工具，Shell（集成），Shell（独立），SQL Server 数据工具，Team Explorer，Test Professional 2013，Ultimate，Visual C++ 可再发行程序包，Web 工具扩展
-
+summary: "Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n适用于以下版本：Express for Web、Express for Windows Desktop、高级版、专业版、团队资源管理器、旗舰版\n\n\n\n"
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>链接 
-  * [Visual Studio 产品生命周期和服务](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>版本 
-  * Agents
-  * Community 2013
-  * Express for Web
-  * Express for Windows 8
-  * Express for Windows Desktop
-  * IntelliTrace 收集器
-  * Microsoft Azure Tools
-  * 高级
-  * 专业
-  * 远程工具
-  * Shell（集成）
-  * Shell（独立）
-  * SQL Server 数据工具
-  * 团队资源管理器
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ 可再发行程序包
-  * Web 工具扩展
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>链接 \n* [旧版 Visual Studio 的服务信息](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [服务包策略](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> 以下组件的 Visual Studio 2012 版本附带一起提供，并作为 Visual Studio 2012 生命周期的一部分受到支持：代理、IntelliTrace 收集器、Microsoft Azure Tools、远程工具、SDK、Shell（集成）、Shell（隔离）、SQL Server Data Tools、团队资源管理器、Visual C++ 可再发行程序包、Web 工具扩展。\n\n\n## <a name=\"editions\"></a>版本 \n* Express for Web\n* Express for Windows Desktop\n* 高级\n* 专业\n* 团队资源管理器\n* Ultimate"

@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 遵循固定生命周期策略。
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509277"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   Visual Studio 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
 
-  适用于以下版本：代理、社区、企业、Express for Web、Express for Windows 10、Express for Windows Desktop、建模 SDK、专业、PSM、版本管理、远程工具、SDK、Shell （集成）、Shell （独立）、测试专业、TPS、Visual C++ 可再发行版本
+
+
+  这适用于以下版本：社区版、企业版、Express for Web、Express for Windows 10、Express for Windows Desktop、专业版、版本管理、Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>链接 
-  * [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>版本 
-  * Agents
-  * 社区
-  * 企业版
-  * ESM
-  * Express for Web
-  * Express for Windows 10
-  * Express for Windows Desktop
-  * 建模 SDK
-  * 专业
-  * PSM
-  * 发布管理
-  * 远程工具
-  * SDK 版
-  * Shell（集成）
-  * Shell（独立）
-  * 专业测试工具版
-  * TPS
-  * Visual C++ 可再发行程序包
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>链接 \n* [旧版 Visual Studio 的服务信息](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [服务包策略](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> 作为 Visual Studio 2015 生命周期的一部分，随附并支持 Visual Studio 2015 版本的以下组件：代理、ESM、建模 SDK、PSM、远程工具、SDK、Shell（集成）、Shell（隔离）、TPS、Visual C++ 可再发行程序包。\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* 企业版\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* 专业\n* 发布管理\n* 专业测试工具版"

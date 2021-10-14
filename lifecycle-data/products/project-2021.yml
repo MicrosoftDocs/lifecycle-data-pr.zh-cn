@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project 2021
+  description: Project 2021 遵循现代生命周期策略。
+  ms.date: 09/27/2021
+  keywords: 
+  ms.openlocfilehash: 8ecb9befddb0a5264b91d732be8e3972106f8d1a
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509572"
+name: Project 2021
+summary: >+
+  Project 2021 遵循[现代](/lifecycle/policies/modern)生命周期策略。
+
+
+
+  适用于以下版本：专业，标准
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>版本 \n* 专业\n* 标准"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office 2021
+  description: Office 2021 遵循现代生命周期策略。
+  ms.date: 09/27/2021
+  keywords: 
+  ms.openlocfilehash: e75efd2c07eba99b0979450d0505cd7c5bddadbe
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509576"
+name: Office 2021
+summary: >+
+  Office 2021 遵循[现代](/lifecycle/policies/modern)生命周期策略。
+
+
+
+  这适用于以下版本：家庭和企业版、适用于 Mac 的家庭和企业版、家庭和学生版、适用于 Mac 的家庭和学生版、专业版
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>版本 \n* Home and Business\n* 适用于 Mac 的家庭和企业版\n* 家庭版和学生版\n* 适用于 Mac 的家庭和学生版\n* 专业"
