@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 遵循已修复生命周期策略。
-  ms.date: 09/23/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509240"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514154"
 name: Visual Studio 2013
 summary: "Visual Studio 2013 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n\n这适用于以下版本：社区版、Express for Web、Express for Windows、Express for Windows Desktop、高级版、专业版、版本管理、专业测试工具版、旗舰版\n\n\n\n"
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n## <a name=\"links\"></a>链接 \n* [服务信息](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> 以下组件的 Visual Studio 2013 版本附带一起提供，并作为 Visual Studio 2013 生命周期的一部分受到支持：代理、IntelliTrace 收集器、建模 SDK、多字节 MFC 库、远程工具、SDK、Shell（集成）、Shell（隔离）、团队资源管理器、Visual C++ 可再发行程序包、Web 工具扩展\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* 高级\n* 专业\n* 发布管理\n* 专业测试工具版\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [服务信息](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> 以下组件的 Visual Studio 2013 版本附带一起提供，并作为 Visual Studio 2013 生命周期的一部分受到支持：代理、IntelliTrace 收集器、建模 SDK、多字节 MFC 库、远程工具、SDK、Shell（集成）、Shell（隔离）、团队资源管理器、Visual C++ 可再发行程序包、Web 工具扩展\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* 高级\n* 专业\n* 发布管理\n* 专业测试工具版\n* Ultimate"
