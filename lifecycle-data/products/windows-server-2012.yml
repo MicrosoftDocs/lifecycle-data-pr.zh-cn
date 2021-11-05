@@ -2,11 +2,18 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 遵循固定生命周期策略。
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: 4aaf6ab9c89c90bd7017bf7048a93890cd7f396e
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560121"
 name: Windows Server 2012
-summary: |+
+summary: >+
   Windows Server 2012 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
 
 
   适用于以下版本：数据中心，基础，外部连接器，嵌入式系统，基础，标准
@@ -14,42 +21,23 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 10/14/2025
-    endDate: 10/13/2026
-  - version: Extended Security Update Year 2
-    startDate: 10/08/2024
-    endDate: 10/14/2025
-  - version: Extended Security Update Year 1
-    startDate: 10/10/2023
-    endDate: 10/08/2024
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 10/10/2023
-content: |+
-
-
-  ## <a name="links"></a>链接 
-  * [迁移指南](/windows-server/upgrade/upgrade-overview)
-  * [产品信息](/windows/release-information/status-windows-server-2012)
-  * [生命周期常见问题解答 - 扩展安全更新](/lifecycle/faq/extended-security-updates)
-
-
-  > [!NOTE]
-  > 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。 Windows Server Essentials 于 2013 年 1 月 2 日发布。
-
-
-  ## <a name="editions"></a>版本 
-  * 数据中心版
-  * 写作版
-  * 外部连接器
-  * 嵌入式系统版
-  * Foundation 版
-  * 标准
+- version: Extended Security Update Year 3
+  startDate: 10/15/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/09/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/11/2023
+  endDate: 10/08/2024
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-overview)\n* [产品信息](/windows/release-information/status-windows-server-2012)\n* [生命周期常见问题解答 - 扩展安全更新](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。 Windows Server Essentials 于 2013 年 1 月 2 日发布。\n\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 写作版\n* 外部连接器\n* 嵌入式系统版\n* Foundation 版\n* 标准"
