@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server 订阅版
+  description: SharePoint Server 订阅版遵循现代生命周期策略。
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546752"
+name: SharePoint Server 订阅版
+summary: >+
+  SharePoint Server 订阅版遵循“现代”[](/lifecycle/policies/modern)生命周期策略。
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> 请参阅[产品](https://docs.microsoft.com/sharepoint/sharepoint-server)和[开发人员](https://docs.microsoft.com/sharepoint/dev/)文档。"

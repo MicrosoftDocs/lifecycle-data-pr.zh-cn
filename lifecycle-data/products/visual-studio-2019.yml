@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 遵循固定生命周期策略。
-  ms.date: 09/20/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
-  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "3460594"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546698"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>链接 \n* [Visual Studio 博客公告](https://devblogs.microsoft.com/visualstudio/)\n* [服务信息](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 下载页](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 版本说明](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> 作为 Visual Studio 2019 生命周期的一部分，随附并支持 Visual Studio 2019 版本的以下组件：Agents、生成工具、社区、企业、IntelliTrace 独立收集器、性能工具、远程工具、团队资源管理器和 Visual C++ 可再发行程序包。\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* 企业版\n* 专业"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [Visual Studio 博客公告](https://devblogs.microsoft.com/visualstudio/)\n* [支持和生命周期信息](/visualstudio/releases/2019/servicing-vs2019)\n* [Visual Studio 2019 下载页](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 版本说明](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> 作为 Visual Studio 2019 生命周期的一部分，随附并支持 Visual Studio 2019 版本的以下组件：Agents、生成工具、IntelliTrace 独立收集器、性能工具、远程工具、团队资源管理器和 Visual C++ 可再发行程序包。\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* 企业版\n* 专业"

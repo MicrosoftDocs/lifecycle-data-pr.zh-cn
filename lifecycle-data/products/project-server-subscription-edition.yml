@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Server 订阅版
+  description: Project Server 订阅版遵循现代生命周期策略。
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546748"
+name: Project Server 订阅版
+summary: >+
+  Project Server 订阅版遵循“现代”[](/lifecycle/policies/modern)生命周期策略。
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> 请参阅[产品](https://docs.microsoft.com/project/project-server-2013-and-2016)和[开发人员](https://docs.microsoft.com/office/dev/add-ins/project/)文档。"
