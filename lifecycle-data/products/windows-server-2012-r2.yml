@@ -4,32 +4,32 @@ metadata:
   description: Windows Server 2012 R2 遵循已修复生命周期策略。
   ms.date: 11/03/2021
   keywords: 
-  ms.openlocfilehash: 8803112769e915daecef568dd58045403be8c4f4
-  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.openlocfilehash: 33076fdb2d4ab5b5db8fcac179d6a8d2d0d97de2
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/04/2021
-  ms.locfileid: "3559977"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4104888"
 name: Windows Server 2012 R2
 summary: "Windows Server 2012 R2 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n\n适用于以下版本：数据中心版、协作版、嵌入式系统版、Foundation 版、标准版\n\n\n\n"
 products:
 - windows
 policyType: fixed
 supportDates:
-  start: 11/25/2013
-  end: 10/09/2018
-  extendedEnd: 10/10/2023
+  start: 2013-11-25T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2023-10-10T22:59:59.999-08:00
 releases:
 - version: Extended Security Update Year 3
-  startDate: 10/15/2025
-  endDate: 10/13/2026
+  startDate: 2025-10-15T00:00:00.000-08:00
+  endDate: 2026-10-13T22:59:59.999-08:00
 - version: Extended Security Update Year 2
-  startDate: 10/09/2024
-  endDate: 10/14/2025
+  startDate: 2024-10-09T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 - version: Extended Security Update Year 1
-  startDate: 10/11/2023
-  endDate: 10/08/2024
+  startDate: 2023-10-11T00:00:00.000-08:00
+  endDate: 2024-10-08T22:59:59.999-08:00
 - version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
+  startDate: 2013-11-25T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows-server/upgrade/upgrade-overview)\n* [生命周期常见问题解答 - 扩展安全更新](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> 对该产品的主流和扩展支持已经扩展，为客户提供了标准的生命周期过渡时间表。\n\n\n## <a name=\"editions\"></a>版本 \n* 数据中心版\n* 写作版\n* 嵌入式系统版\n* Foundation 版\n* 标准"

@@ -3,26 +3,22 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 遵循组件生命周期策略。
   ms.date: 07/28/2020
+  ms.openlocfilehash: ead579969824424aec15a20a3599e60dfd072655
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114508"
 name: Internet Explorer 10
-summary: |+
-  Internet Explorer 10 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 
-
-
+summary: "Internet Explorer 10 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 \n\n\n"
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/30/2012
-  end: 01/31/2020
+  start: 2012-10-30T00:00:00.000-08:00
+  end: 2020-01-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 01/31/2020
-content: |+
-
-  ## <a name="links"></a>链接 
-  * [迁移指南](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
-  * [Internet Explorer 生命周期策略常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > 请访问 Internet Explorer 生命周期常见问题解答，查看受支持的操作系统和浏览器组合的列表。
+- version: Original Release
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2020-01-31T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Internet Explorer 生命周期策略常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 请访问 Internet Explorer 生命周期常见问题解答，查看受支持的操作系统和浏览器组合的列表。"
