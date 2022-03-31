@@ -3,32 +3,29 @@ metadata:
   title: Windows Embedded 8.1 Industry
   description: Windows Embedded 8.1 Industry 遵循固定生命周期策略。
   ms.date: 09/10/2020
-  keywords: 'Enterprise,Pro,Sideloading'
+  keywords: Enterprise,Pro,Sideloading
+  ms.openlocfilehash: b4740419e3080e7edffbc9c9f3d2ecb39eba4739
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4135117"
 name: Windows Embedded 8.1 Industry
-summary: |+
+summary: >+
   Windows Embedded 8.1 Industry 遵循固定[](/lifecycle/policies/fixed)生命周期策略。
+
 
   适用于以下版本：企业版、专业版、旁加载
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/25/2013
-  end: 07/10/2018
-  extendedEnd: 07/11/2023
+  start: 2013-11-25T00:00:00.000-08:00
+  end: 2018-07-10T22:59:59.999-08:00
+  extendedEnd: 2023-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/25/2013
-    endDate: 07/11/2023
-content: |
-
-  ## <a name="links"></a>链接 
-  * [生命周期常见问题 - Windows 产品](https://support.microsoft.co/help/18581)
-  * [Windows Embedded 8.1 常见问答](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)
-
-
-  ## <a name="editions"></a>版本 
-  * 企业版
-  * Pro 版
-  * 旁加载
+- version: Original Release
+  startDate: 2013-11-25T00:00:00.000-08:00
+  endDate: 2023-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 常见问答](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* Pro 版\n* 旁加载"
