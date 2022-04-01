@@ -1,13 +1,13 @@
 ---
 title: 在 2028 年终止支持的产品
 description: 了解哪些产品将在 2028 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027552"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116950"
 ---
 # <a name="products-ending-support-in-2028"></a>2028 年终止支持的产品
 
@@ -39,3 +39,11 @@ ms.locfileid: "4027552"
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 2028 年 7 月 11 日 |
 
 
+## <a name="products-moving-to-extended-support"></a>转向扩展支持的产品：
+
+以下产品将在 2028 年从主流支持转向扩展支持。 扩展支持包括免费的安全更新，以及付费的非安全更新和支持。 此外，在扩展支持阶段，Microsoft 将不会接受设计更改或新增功能的请求。
+
+| 产品 | 结束主流支持 |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 2028 年 4 月 11 日 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 2028 年 7 月 11 日 |

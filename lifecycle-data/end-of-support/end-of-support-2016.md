@@ -1,13 +1,13 @@
 ---
 title: 在 2016 年终止支持的产品
 description: 了解哪些产品将在 2016 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4027596"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117542"
 ---
 # <a name="products-ending-support-in-2016"></a>2016 年终止支持的产品
 
@@ -20,13 +20,6 @@ ms.locfileid: "4027596"
 
 
 
-## <a name="release-end-of-servicing"></a>版本终止服务
-
-以下受[新式策略](/lifecycle/policies/modern)约束的产品版本将于 2016 年终止支持。
-
-| 产品 | 服务终止 |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager，版本 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2016 年 12 月 8 日 |
 
 
 ## <a name="products-reaching-end-of-support"></a>终止支持的产品

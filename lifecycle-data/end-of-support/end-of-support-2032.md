@@ -1,13 +1,13 @@
 ---
 title: 在 2032 年终止支持的产品
 description: 了解哪些产品将在 2032 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 10/15/2021
-ms.openlocfilehash: ce028d97a7d8ba133cf639d3556d6dbd11728431
-ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+ms.date: 11/16/2021
+ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "4027625"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116728"
 ---
 # <a name="products-ending-support-in-2032"></a>2032 年终止支持的产品
 
@@ -22,5 +22,12 @@ ms.locfileid: "4027625"
 
 
 
+## <a name="products-reaching-end-of-support"></a>终止支持的产品
+
+以下受[固定策略](/lifecycle/policies/fixed)约束的产品和版本将于 2032 年终止支持。
+
+| 产品 | 终止支持 |
+| --- | --- |
+| [Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT 企业版 LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 2032 年 1 月 13 日 |
 
 

@@ -4,26 +4,26 @@ metadata:
   description: Visual Studio 2013 遵循已修复生命周期策略。
   ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
-  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
+  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/11/2021
-  ms.locfileid: "3514154"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142776"
 name: Visual Studio 2013
 summary: "Visual Studio 2013 遵循[已修复](/lifecycle/policies/fixed)生命周期策略。 \n\n\n这适用于以下版本：社区版、Express for Web、Express for Windows、Express for Windows Desktop、高级版、专业版、版本管理、专业测试工具版、旗舰版\n\n\n\n"
 products:
 - vs
 policyType: fixed
 supportDates:
-  start: 01/15/2014
-  end: 04/09/2019
-  extendedEnd: 04/09/2024
+  start: 2014-01-15T00:00:00.000-08:00
+  end: 2019-04-09T22:59:59.999-08:00
+  extendedEnd: 2024-04-09T22:59:59.999-08:00
 releases:
 - version: Update 5
-  startDate: 07/20/2015
-  endDate: 04/09/2024
+  startDate: 2015-07-20T00:00:00.000-08:00
+  endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
-  startDate: 01/15/2014
-  endDate: 04/09/2024
+  startDate: 2014-01-15T00:00:00.000-08:00
+  endDate: 2024-04-09T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>链接 \n* [服务信息](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> 以下组件的 Visual Studio 2013 版本附带一起提供，并作为 Visual Studio 2013 生命周期的一部分受到支持：代理、IntelliTrace 收集器、建模 SDK、多字节 MFC 库、远程工具、SDK、Shell（集成）、Shell（隔离）、团队资源管理器、Visual C++ 可再发行程序包、Web 工具扩展\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* 高级\n* 专业\n* 发布管理\n* 专业测试工具版\n* Ultimate"

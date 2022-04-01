@@ -3,50 +3,45 @@ metadata:
   title: Windows XP
   description: Windows XP 遵循固定生命周期策略。
   ms.date: 09/01/2020
-  keywords: 'Home,Professional,Professional for Embedded Systems,Professional x64,Starter'
+  keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
+  ms.openlocfilehash: f1277c7351757a1e2b115c8f7a8f71f8fe2e4b8c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129752"
 name: Windows XP
-summary: |
+summary: >
   Windows XP 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
+
 
   适用于以下版本：家庭，专业，嵌入式系统专业，专业 x64，入门
 
+
   > [!IMPORTANT]
+
   > 对该产品的支持已结束。 请参阅下面的迁移指南。
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 12/31/2001
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2001-12-31T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 3
-    startDate: 04/21/2008
-    endDate: 04/08/2014
-  - version: Service Pack 2
-    startDate: 09/17/2004
-    endDate: 07/13/2010
-  - version: Service Pack 1a
-    startDate: 02/03/2003
-    endDate: 10/10/2006
-  - version: Service Pack 1
-    startDate: 08/30/2002
-    endDate: 10/10/2006
-  - version: Original Release
-    startDate: 12/31/2001
-    endDate: 08/30/2005
-content: |
-
-  ## <a name="links"></a>链接 
-  * [迁移指南](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)
-  * [Service Pack 策略](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Microsoft Windows XP 专业 x64 版的开始日期是 2005 年 4 月 24 日。
-
-  ## <a name="editions"></a>版本 
-  * 家庭版
-  * 专业
-  * 嵌入系统专业版
-  * 专业 x64
-  * 入门版
+- version: Service Pack 3
+  startDate: 2008-04-21T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2004-09-17T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
+- version: Service Pack 1a
+  startDate: 2003-02-03T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2002-08-30T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2001-12-31T00:00:00.000-08:00
+  endDate: 2005-08-30T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>链接 \n* [迁移指南](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP 专业 x64 版的开始日期是 2005 年 4 月 24 日。\n\n## <a name=\"editions\"></a>版本 \n* 家庭版\n* 专业\n* 嵌入系统专业版\n* 专业 x64\n* 入门版"

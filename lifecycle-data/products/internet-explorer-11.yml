@@ -2,22 +2,22 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 遵循组件生命周期策略。
-  ms.date: 11/03/2021
+  ms.date: 01/25/2022
   keywords: IE
-  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
-  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/04/2021
-  ms.locfileid: "3559976"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114360"
 name: Internet Explorer 11
-summary: "Internet Explorer 11 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 \n\n\n\n\n> [!IMPORTANT]\n> 请注意，Internet Explorer (IE) 11 桌面应用程序将从 2022 年 6 月 15 日起终止对某些操作系统的支持。 鼓励客户使用 IE 模式迁移到 Microsoft Edge。 IE 模式可实现向后兼容，至少在 2029 年之前将得到支持。 此外，Microsoft 将在停用 IE 模式前一年发出通知。 前往[此处](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)查看 Internet Explorer 支持的操作系统列表，包括受本次发布影响的版本。\n\n"
+summary: "Internet Explorer 11 遵循组件[](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命周期策略。 \n\n\n\n\n> [!IMPORTANT]\n> Internet Explorerr (IE) 11 桌面应用程序将从 2022 年 6 月 15 日起停止对 Windows 10 半年度频道的支持。 鼓励客户使用 IE 模式迁移到 Microsoft Edge。 IE 模式可实现向后兼容，至少在 2029 年之前将得到支持。 此外，Microsoft 将在停用 IE 模式前一年发出通知。 前往[此处](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)查看 Internet Explorer 支持的操作系统列表，包括受本次发布影响的版本。\n\n"
 products:
 - internet-explorer
 policyType: component
 supportDates:
-  start: 11/13/2013
+  start: 2013-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2013
+  startDate: 2013-11-13T00:00:00.000-08:00
 content: "\n\n## <a name=\"links\"></a>链接 \n* [迁移指南](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Internet Explorer/Edge 生命周期常见问题解答](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorer 支持的操作系统](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge 支持的操作系统](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> 当扩展安全更新 (ESU) 可用时，某些版本的 Internet Explorer 可能会在最新的 Windows 操作系统终止日期之后得到支持。 转到[此处](https://docs.microsoft.com/lifecycle/faq/extended-security-updates)，查看提供 ESU 的产品列表。"
