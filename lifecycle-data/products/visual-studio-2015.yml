@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 遵循固定生命周期策略。
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: b6e8222fe770516c85dab8108e9652b57c22a1c4
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 6b8c57a8c0f8f15e75c9c7aa3fab0b49c84f03f4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142591"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518997"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 遵循[固定](/lifecycle/policies/fixed)生命周期策略。
@@ -33,5 +33,5 @@ releases:
   endDate: 2025-10-14T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-07-20T00:00:00.000-08:00
-  endDate: 2025-10-14T22:59:59.999-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>链接 \n* [旧版 Visual Studio 的服务信息](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> 作为 Visual Studio 2015 生命周期的一部分，随附并支持 Visual Studio 2015 版本的以下组件：代理、ESM、建模 SDK、PSM、远程工具、SDK、Shell（集成）、Shell（隔离）、TPS、Visual C++ 可再发行程序包。\n\n\n## <a name=\"editions\"></a>版本 \n* 社区\n* 企业版\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* 专业\n* 发布管理\n* 专业测试工具版"
