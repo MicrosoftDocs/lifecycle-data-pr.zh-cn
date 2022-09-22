@@ -2,14 +2,14 @@
 metadata:
   title: Azure 信息保护（经典）客户端
   description: Azure 信息保护（经典）客户端遵循现代生命周期策略。
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156540"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518627"
 name: Azure 信息保护（经典）客户端
 summary: >+
   Azure 信息保护（经典）客户端遵循[现代](/lifecycle/policies/modern)生命周期策略。
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>链接 \n* [服务信息](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> 为了提供统一和简化的客户体验，Azure 门户中的 Azure Information Protection 客户端（经典）和标签管理自 2021 年 3 月 31 日被弃用。 此时间框架允许所有当前的 Azure Information Protection 客户使用 Microsoft Information Protection 统一标签平台过渡到我们的统一标签解决方案。"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [服务信息](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [迁移指南](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> 为了提供统一和简化的客户体验，Azure 门户中的 Azure Information Protection 客户端（经典）和标签管理自 2021 年 3 月 31 日被弃用。 此时间框架允许所有当前的 Azure 信息保护客户过渡到 Microsoft Purview 信息保护的统一标签平台。"

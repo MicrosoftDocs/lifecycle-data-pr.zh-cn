@@ -1,13 +1,13 @@
 ---
 title: 在 2027 年终止支持的产品
 description: 了解哪些产品将在 2027 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117024"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517891"
 ---
 # <a name="products-ending-support-in-2027"></a>2027 年终止支持的产品
 
@@ -40,4 +40,5 @@ ms.locfileid: "4117024"
 
 | 产品 | 结束主流支持 |
 | --- | --- |
-| [Dynamics 365 for Customer Engagement 应用程序，版本 9（本地更新）](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT 企业版 LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 2027 年 1 月 12 日 |
+| [Dynamics 365 for Customer Engagement 应用程序，版本 9（本地更新）](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT 企业版 LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 2027 年 1 月 12 日 |
+| [System Center 2022 数据保护管理器](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | 2027 年 4 月 13 日 |

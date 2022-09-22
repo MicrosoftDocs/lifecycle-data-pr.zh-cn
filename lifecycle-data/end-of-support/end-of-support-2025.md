@@ -1,13 +1,13 @@
 ---
 title: 在 2025 年终止支持的产品
 description: 了解哪些产品将在 2025 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 03/09/2022
-ms.openlocfilehash: 0ef5be1ee8667f218c76bc4c219b19db879ec365
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117172"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517890"
 ---
 # <a name="products-ending-support-in-2025"></a>2025 年终止支持的产品
 

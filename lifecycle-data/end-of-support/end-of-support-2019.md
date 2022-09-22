@@ -1,13 +1,13 @@
 ---
 title: 在 2019 年终止支持的产品
 description: 了解哪些产品将在 2019 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4027629"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518220"
 ---
 # <a name="products-ending-support-in-2019"></a>2019 年终止支持的产品
 
@@ -24,7 +24,6 @@ ms.locfileid: "4027629"
 
 | 产品 | 退休 |
 | --- | --- |
-| [Azure 计划程序](/lifecycle/products/azure-scheduler?branch=live)<br> | 2019 年 9 月 30 日 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | 2019 年 11 月 16 日 |
 
 
@@ -34,6 +33,7 @@ ms.locfileid: "4027629"
 
 | 产品 | 服务终止 |
 | --- | --- |
+| [PowerShell、PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | 2019 年 2 月 13 日 |
 | [Visual Studio for Mac，Visual Studio 2017 for Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 2019 年 3 月 8 日 |
 | [Windows 10 企业版和教育版，版本 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 家庭版和专业版，版本 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT 核心版，版本 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT 企业版，版本 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server，版本 1709](/lifecycle/products/windows-server?branch=live)<br> | 2019 年 4 月 9 日 |
 | [Microsoft Endpoint Configuration Manager，版本 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2019 年 5 月 20 日 |

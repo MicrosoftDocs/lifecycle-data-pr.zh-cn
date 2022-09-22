@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge 遵循现代生命周期策略。
-  ms.date: 11/03/2021
-  keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 08/08/2022
+  keywords: IE；浏览器；Internet Explorer
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147734"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518479"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge 遵循现代[](/lifecycle/policies/modern)生命周期策略。
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > 请注意，该产品的旧版本将于 2021 年 3 月 9 日终止支持。 请转到[此处](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)以了解更多信息。
-
+summary: "Microsoft Edge 遵循现代[](/lifecycle/policies/modern)生命周期策略。\n\n\n\n\n> [!IMPORTANT]\n> 在 2023 年 1 月 15 日之前，Windows 7 和 Windows Server 2008 R2 将继续支持 Microsoft Edge。 Microsoft 建议客户迁移到受支持的操作系统，例如 Windows 10。 请转到[此处](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems)以了解更多信息。 \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>链接 \n* [Microsoft Edge 支持的操作系统](/deployedge/microsoft-edge-supported-operating-systems)\n* [加速向 Edge 移动的新资源](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [生命周期常见问题解答 - Internet Explorer 和 Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge 生命周期策略](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [Microsoft Edge 服务频道概述](/deployedge/microsoft-edge-channels)\n* [Microsoft Edge 支持的操作系统](/deployedge/microsoft-edge-supported-operating-systems)\n* [加速向 Edge 移动的新资源](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [生命周期常见问题解答 - Internet Explorer 和 Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge 生命周期策略](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> 请注意，该产品的旧版本将于 2021 年 3 月 9 日终止支持。 请转到[此处](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)以了解更多信息。"

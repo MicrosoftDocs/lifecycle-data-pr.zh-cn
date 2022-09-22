@@ -1,13 +1,13 @@
 ---
 title: 在 2020 年终止支持的产品
 description: 了解哪些产品将在 2020 年停用、结束支持或从主流支持转向扩展支持。
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117579"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518183"
 ---
 # <a name="products-ending-support-in-2020"></a>2020 年终止支持的产品
 
@@ -38,7 +38,7 @@ ms.locfileid: "4117579"
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager，版本 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2020 年 1 月 31 日 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2020 年 3 月 3 日 |
-| [PowerShell、PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell、PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 2020 年 9 月 4 日 |
+| [PowerShell、PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 2020 年 9 月 4 日 |
 | [Microsoft Endpoint Configuration Manager，版本 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2020 年 9 月 27 日 |
 | [SharePoint 中的 Visio 服务（在 Microsoft 365 中）](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 2020 年 9 月 30 日 |
 | [Windows 10 企业版和教育版，版本 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT 企业版，版本 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2020 年 10 月 13 日 |

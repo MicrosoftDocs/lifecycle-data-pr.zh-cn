@@ -1,13 +1,13 @@
 ---
 title: 在 2032 年终止支持的产品
 description: 了解哪些产品将在 2032 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 11/16/2021
-ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 45a8fbc90e79c804fb76c4df0a6b04c8c8be10d9
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4116728"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518146"
 ---
 # <a name="products-ending-support-in-2032"></a>2032 年终止支持的产品
 
@@ -28,6 +28,7 @@ ms.locfileid: "4116728"
 
 | 产品 | 终止支持 |
 | --- | --- |
-| [Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT 企业版 LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 2032 年 1 月 13 日 |
+| [Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT 企业版 LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 2032 年 1 月 13 日 |
+| [System Center 2022 数据保护管理器](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | 2032 年 4 月 13 日 |
 
 

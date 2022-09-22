@@ -2,20 +2,27 @@
 metadata:
   title: Windows 8.1
   description: Windows 8.1 遵循固定生命周期策略。
-  ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: a3447c6de9bea75452ae7ebf216b401eaab71833
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: 2dc2e2b41fbb73cbd8456da3fa472c2289ef5c65
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4123721"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518442"
 name: Windows 8.1
 summary: >+
   Windows 8.1遵循固定[](/lifecycle/policies/fixed)生命周期策略。
 
 
+
   适用于以下版本：企业版、企业版 N、N、专业版（含 Media Center）、专业版、专业版 N、SL
+
+
+
+  > [!IMPORTANT]
+
+  > 在此提醒，Windows 8.1 将于 2023 年 1 月 10 日达到支持终止日期。 在此日期后，这些产品将不再接收安全更新、非安全更新、Bug 修复、技术支持或联机技术内容更新。  如果设备不符合运行更新版本 Windows 的技术要求，Microsoft 建议将设备替换为支持 Windows 11 的设备。 请点击[此处](https://docs.microsoft.com/lifecycle/announcements/windows-8-1-end-support-january-2023)了解更多信息。
 
 products:
 - windows
@@ -28,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 2013-11-13T00:00:00.000-08:00
   endDate: 2023-01-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* 网络\n* 专业版（含 Media Center）\n* 专业\n* 专业版 N\n* SL"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows 8.1 技术常见问题解答](https://prod.support.services.microsoft.com/windows/windows-8-1-support-will-end-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93?preview=true)\n\n\n\n\n## <a name=\"editions\"></a>版本 \n* 企业版\n* 企业版 N\n* 网络\n* 专业版（含 Media Center）\n* 专业\n* 专业版 N\n* SL"

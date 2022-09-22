@@ -2,16 +2,16 @@
 metadata:
   title: Windows 10 企业版和教育版
   description: Windows 10 企业版和教育版遵循现代生命周期策略。
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130492"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519071"
 name: Windows 10 企业版和教育版
-summary: "Windows 10 企业版和教育版遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n\n适用于以下版本：教育版，企业版\n\n\n> [!IMPORTANT]\n> 从 Windows 10 版本 21H2（Windows 10 2021 年 11 月更新）开始，功能更新将在每年下半年通过正式发布频道发布。 请转到[此处](https://blogs.windows.com/windowsexperience/?p=176473)以了解更多信息。 2025 年 10 月 14 日前，Microsoft 将继续支持至少一个 Windows 10 版本。\n\n"
+summary: "Windows 10 企业版和教育版遵循[现代](/lifecycle/policies/modern)生命周期策略。 \n\n\n这适用于以下版本：教育版、企业版、企业多会话版\n\n\n> [!IMPORTANT]\n> 从 Windows 10 版本 21H2（Windows 10 2021 年 11 月更新）开始，功能更新将在每年下半年通过正式发布频道发布。 请转到[此处](https://blogs.windows.com/windowsexperience/?p=176473)以了解更多信息。 2025 年 10 月 14 日前，Microsoft 将继续支持至少一个 Windows 10 版本。\n\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>链接 \n* [Windows 即服务 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [产品信息](/windows/windows-10/)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 家庭版和专业版](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> 除非推迟，否则后续的 Windows 10 功能更新会在所列的主流支持日期结束之前安装。\n\n\n## <a name=\"editions\"></a>版本 \n* 教育版\n* 企业版"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [Windows 即服务 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [产品信息](/windows/windows-10/)\n* [生命周期常见问题 - Windows 产品](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 家庭版和专业版](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> 除非推迟，否则后续的 Windows 10 功能更新会在所列的主流支持日期结束之前安装。\n\n\n## <a name=\"editions\"></a>版本 \n* 教育版\n* 企业版\n* 企业版多会话"
