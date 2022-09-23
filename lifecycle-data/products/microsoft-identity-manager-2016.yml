@@ -2,30 +2,31 @@
 metadata:
   title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016 遵循固定生命周期策略。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ea72427890dd1aded761e0370cc22ea191a19b98
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/15/2022
+  keywords: 
+  ms.openlocfilehash: f4969b3dc67b593cd9884f162d8ad4a06c793074
+  ms.sourcegitcommit: aa3eaa2573e7b3d11f65d12f166e73329011f41d
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4145810"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "4522263"
 name: Microsoft Identity Manager 2016
-summary: "Microsoft Identity Manager 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n"
+summary: "Microsoft Identity Manager 2016 遵循[固定](/lifecycle/policies/fixed)生命周期策略。 \n\n\n\n\n\n"
 products:
 - m365
 policyType: fixed
 supportDates:
   start: 2015-09-28T00:00:00.000-08:00
   end: 2021-01-12T22:59:59.999-08:00
-  extendedEnd: 2026-01-13T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Service Pack 2
   startDate: 2019-11-04T00:00:00.000-08:00
-  endDate: 2026-01-13T22:59:59.999-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 - version: Service Pack 1
   startDate: 2016-09-20T00:00:00.000-08:00
   endDate: 2020-11-04T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-09-28T00:00:00.000-08:00
   endDate: 2017-10-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>链接 \n* [到 Microsoft Identity Manager 2016 扩展支持结束为止，Azure 支持可用于 Azure AD 集成组件。](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure 支持计划。](https://azure.microsoft.com/support/plans/)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n\n## <a name=\"links\"></a>链接 \n* [到 Microsoft Identity Manager 2016 扩展支持结束为止，Azure 支持可用于 Azure AD 集成组件。](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure 支持计划。](https://azure.microsoft.com/support/plans/)\n* [Service Pack 策略](/lifecycle/policies/fixed#service-packs)\n* [产品信息](/microsoft-identity-manager/microsoft-identity-manager-2016)\n\n\n> [!NOTE]\n> Microsoft Identity Manager 2016 的支持结束日期已从 2026 年 1 月 13 日推迟到 2029 年 1 月 9 日。"
