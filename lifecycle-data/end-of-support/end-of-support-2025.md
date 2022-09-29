@@ -1,13 +1,13 @@
 ---
 title: 在 2025 年终止支持的产品
 description: 了解哪些产品将在 2025 年停用、终止支持或从主流支持转向扩展支持。
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517890"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526145"
 ---
 # <a name="products-ending-support-in-2025"></a>2025 年终止支持的产品
 
@@ -27,6 +27,13 @@ ms.locfileid: "4517890"
 | [Windows 10 企业版和教育版](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 家庭版和专业版](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2025 年 10 月 14 日 |
 
 
+## <a name="release-end-of-servicing"></a>版本终止服务
+
+以下受[新式策略](/lifecycle/policies/modern)约束的产品版本将于 2025 年终止支持。
+
+| 产品 | 服务终止 |
+| --- | --- |
+| [Windows 11 企业版和教育版（版本 22H2）](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT 企业版（版本 22H2）](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 2025 年 10 月 14 日 |
 
 
 ## <a name="products-reaching-end-of-support"></a>终止支持的产品
